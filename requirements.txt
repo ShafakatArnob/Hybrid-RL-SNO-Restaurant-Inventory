@@ -1,0 +1,8 @@
+# Python 3.9+  |  Install: pip install -r requirements.txt
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.10
+seaborn>=0.12
+openpyxl>=3.1       # for UCI Online Retail .xlsx
+pytest>=7.0         # for running tests/test_core.py

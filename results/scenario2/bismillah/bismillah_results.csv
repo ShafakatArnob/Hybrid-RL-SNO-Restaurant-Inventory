@@ -1,0 +1,9 @@
+Agent,Restaurant,Total Reward,Financial PM %,RL-Adj PM %,Service Level %,SL Std %,Waste %,Stockout %
+Q-Learning,Bismillah Hotel & Restaurant,-1230381.51,-500.0,-500.0,7.12,1.07,6.39,92.88
+DQN,Bismillah Hotel & Restaurant,-562827.3,-29.14,-500.0,0.39,0.03,13.52,99.61
+Double DQN,Bismillah Hotel & Restaurant,-561044.26,-35.4,-500.0,0.39,0.03,13.79,99.61
+PPO,Bismillah Hotel & Restaurant,-1789270.61,-500.0,-500.0,0.39,0.03,62.84,99.61
+EOQ,Bismillah Hotel & Restaurant,-1015802.52,-500.0,-500.0,9.06,0.61,5.05,90.94
+Newsvendor,Bismillah Hotel & Restaurant,-1039880.19,-448.17,-500.0,11.23,0.49,0.67,88.77
+SMA + Reorder,Bismillah Hotel & Restaurant,-1066650.08,-500.0,-500.0,8.98,0.62,5.31,91.02
+Seasonal Reorder,Bismillah Hotel & Restaurant,-2196578.77,-500.0,-500.0,12.3,0.22,4.23,87.7

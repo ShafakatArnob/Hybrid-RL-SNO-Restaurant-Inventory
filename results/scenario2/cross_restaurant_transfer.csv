@@ -1,0 +1,5 @@
+Agent,Source,Target,total_reward,total_revenue,financial_pm,rl_adjusted_pm,profit_margin,waste_pct,service_level,stockout_rate,reward_std,sl_std,fin_pm_std
+DQN,Star Kabab+Fakruddin+Madchef+Bismillah,Kachchi Bhai (test split),-1601832.63,9774.4,21.99,-500.0,21.99,33.36,0.41,99.59,31747.36,0.04,22.3
+Double DQN,Star Kabab+Fakruddin+Madchef+Bismillah,Kachchi Bhai (test split),-1621864.08,10210.0,27.15,-500.0,27.15,33.1,0.42,99.58,37907.4,0.04,19.13
+PPO,Star Kabab+Fakruddin+Madchef+Bismillah,Kachchi Bhai (test split),-2601118.22,177112.2,-500.0,-500.0,-500.0,9.81,7.0,93.0,32690.81,0.25,0.0
+Q-Learning,Star Kabab+Fakruddin+Madchef+Bismillah,Kachchi Bhai (test split),-2616947.87,239915.6,-479.74,-500.0,-479.74,8.1,11.35,88.65,71447.95,1.25,20.62

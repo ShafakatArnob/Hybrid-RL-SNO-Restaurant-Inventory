@@ -1,0 +1,9 @@
+Agent,Scenario,Total Reward,Financial PM %,RL-Adj PM %,Service Level %,SL Std %,Waste %,Stockout %
+Q-Learning,Generic,-11714.3,26.29,-119.52,40.78,3.7,5.68,59.22
+DQN,Generic,-13746.29,51.48,-207.25,29.62,1.57,6.97,70.38
+Double DQN,Generic,-11488.25,30.92,-116.32,40.96,2.19,4.08,59.04
+PPO,Generic,-12750.47,19.28,-127.42,36.78,1.09,0.92,63.22
+EOQ,Generic,-16888.25,6.34,-261.25,27.09,1.51,21.65,72.91
+Newsvendor,Generic,-16273.34,6.82,-234.61,29.42,1.42,20.9,70.58
+SMA + Reorder,Generic,-12267.91,27.35,-130.65,35.37,2.02,11.66,64.63
+Seasonal Reorder,Generic,-2139.33,43.94,-13.12,61.71,1.79,2.46,38.29

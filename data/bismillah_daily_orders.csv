@@ -1,0 +1,3651 @@
+Date,Dish,QtySold,PriceTk,RevenueTk,DayIndex,Weekday
+01-Jan-2021,Rice & Dal Thali,95,80,7600,0,Friday
+01-Jan-2021,Fish Curry Plate,79,120,9480,0,Friday
+01-Jan-2021,Vegetable Khichuri,49,70,3430,0,Friday
+01-Jan-2021,Dry Fish & Rice,66,100,6600,0,Friday
+01-Jan-2021,Special Thali,31,160,4960,0,Friday
+02-Jan-2021,Rice & Dal Thali,71,80,5680,1,Saturday
+02-Jan-2021,Fish Curry Plate,60,120,7200,1,Saturday
+02-Jan-2021,Vegetable Khichuri,44,70,3080,1,Saturday
+02-Jan-2021,Dry Fish & Rice,55,100,5500,1,Saturday
+02-Jan-2021,Special Thali,39,160,6240,1,Saturday
+03-Jan-2021,Rice & Dal Thali,85,80,6800,2,Sunday
+03-Jan-2021,Fish Curry Plate,47,120,5640,2,Sunday
+03-Jan-2021,Vegetable Khichuri,33,70,2310,2,Sunday
+03-Jan-2021,Dry Fish & Rice,37,100,3700,2,Sunday
+03-Jan-2021,Special Thali,31,160,4960,2,Sunday
+04-Jan-2021,Rice & Dal Thali,105,80,8400,3,Monday
+04-Jan-2021,Fish Curry Plate,50,120,6000,3,Monday
+04-Jan-2021,Vegetable Khichuri,32,70,2240,3,Monday
+04-Jan-2021,Dry Fish & Rice,44,100,4400,3,Monday
+04-Jan-2021,Special Thali,34,160,5440,3,Monday
+05-Jan-2021,Rice & Dal Thali,83,80,6640,4,Tuesday
+05-Jan-2021,Fish Curry Plate,39,120,4680,4,Tuesday
+05-Jan-2021,Vegetable Khichuri,40,70,2800,4,Tuesday
+05-Jan-2021,Dry Fish & Rice,50,100,5000,4,Tuesday
+05-Jan-2021,Special Thali,35,160,5600,4,Tuesday
+06-Jan-2021,Rice & Dal Thali,52,80,4160,5,Wednesday
+06-Jan-2021,Fish Curry Plate,47,120,5640,5,Wednesday
+06-Jan-2021,Vegetable Khichuri,44,70,3080,5,Wednesday
+06-Jan-2021,Dry Fish & Rice,61,100,6100,5,Wednesday
+06-Jan-2021,Special Thali,37,160,5920,5,Wednesday
+07-Jan-2021,Rice & Dal Thali,65,80,5200,6,Thursday
+07-Jan-2021,Fish Curry Plate,59,120,7080,6,Thursday
+07-Jan-2021,Vegetable Khichuri,37,70,2590,6,Thursday
+07-Jan-2021,Dry Fish & Rice,44,100,4400,6,Thursday
+07-Jan-2021,Special Thali,28,160,4480,6,Thursday
+08-Jan-2021,Rice & Dal Thali,111,80,8880,7,Friday
+08-Jan-2021,Fish Curry Plate,86,120,10320,7,Friday
+08-Jan-2021,Vegetable Khichuri,43,70,3010,7,Friday
+08-Jan-2021,Dry Fish & Rice,68,100,6800,7,Friday
+08-Jan-2021,Special Thali,40,160,6400,7,Friday
+09-Jan-2021,Rice & Dal Thali,112,80,8960,8,Saturday
+09-Jan-2021,Fish Curry Plate,70,120,8400,8,Saturday
+09-Jan-2021,Vegetable Khichuri,48,70,3360,8,Saturday
+09-Jan-2021,Dry Fish & Rice,61,100,6100,8,Saturday
+09-Jan-2021,Special Thali,45,160,7200,8,Saturday
+10-Jan-2021,Rice & Dal Thali,65,80,5200,9,Sunday
+10-Jan-2021,Fish Curry Plate,63,120,7560,9,Sunday
+10-Jan-2021,Vegetable Khichuri,43,70,3010,9,Sunday
+10-Jan-2021,Dry Fish & Rice,58,100,5800,9,Sunday
+10-Jan-2021,Special Thali,19,160,3040,9,Sunday
+11-Jan-2021,Rice & Dal Thali,81,80,6480,10,Monday
+11-Jan-2021,Fish Curry Plate,46,120,5520,10,Monday
+11-Jan-2021,Vegetable Khichuri,36,70,2520,10,Monday
+11-Jan-2021,Dry Fish & Rice,30,100,3000,10,Monday
+11-Jan-2021,Special Thali,29,160,4640,10,Monday
+12-Jan-2021,Rice & Dal Thali,77,80,6160,11,Tuesday
+12-Jan-2021,Fish Curry Plate,41,120,4920,11,Tuesday
+12-Jan-2021,Vegetable Khichuri,34,70,2380,11,Tuesday
+12-Jan-2021,Dry Fish & Rice,52,100,5200,11,Tuesday
+12-Jan-2021,Special Thali,30,160,4800,11,Tuesday
+13-Jan-2021,Rice & Dal Thali,97,80,7760,12,Wednesday
+13-Jan-2021,Fish Curry Plate,71,120,8520,12,Wednesday
+13-Jan-2021,Vegetable Khichuri,41,70,2870,12,Wednesday
+13-Jan-2021,Dry Fish & Rice,46,100,4600,12,Wednesday
+13-Jan-2021,Special Thali,22,160,3520,12,Wednesday
+14-Jan-2021,Rice & Dal Thali,52,80,4160,13,Thursday
+14-Jan-2021,Fish Curry Plate,49,120,5880,13,Thursday
+14-Jan-2021,Vegetable Khichuri,35,70,2450,13,Thursday
+14-Jan-2021,Dry Fish & Rice,51,100,5100,13,Thursday
+14-Jan-2021,Special Thali,36,160,5760,13,Thursday
+15-Jan-2021,Rice & Dal Thali,102,80,8160,14,Friday
+15-Jan-2021,Fish Curry Plate,70,120,8400,14,Friday
+15-Jan-2021,Vegetable Khichuri,45,70,3150,14,Friday
+15-Jan-2021,Dry Fish & Rice,63,100,6300,14,Friday
+15-Jan-2021,Special Thali,28,160,4480,14,Friday
+16-Jan-2021,Rice & Dal Thali,104,80,8320,15,Saturday
+16-Jan-2021,Fish Curry Plate,72,120,8640,15,Saturday
+16-Jan-2021,Vegetable Khichuri,30,70,2100,15,Saturday
+16-Jan-2021,Dry Fish & Rice,45,100,4500,15,Saturday
+16-Jan-2021,Special Thali,40,160,6400,15,Saturday
+17-Jan-2021,Rice & Dal Thali,87,80,6960,16,Sunday
+17-Jan-2021,Fish Curry Plate,54,120,6480,16,Sunday
+17-Jan-2021,Vegetable Khichuri,32,70,2240,16,Sunday
+17-Jan-2021,Dry Fish & Rice,58,100,5800,16,Sunday
+17-Jan-2021,Special Thali,33,160,5280,16,Sunday
+18-Jan-2021,Rice & Dal Thali,84,80,6720,17,Monday
+18-Jan-2021,Fish Curry Plate,59,120,7080,17,Monday
+18-Jan-2021,Vegetable Khichuri,46,70,3220,17,Monday
+18-Jan-2021,Dry Fish & Rice,51,100,5100,17,Monday
+18-Jan-2021,Special Thali,30,160,4800,17,Monday
+19-Jan-2021,Rice & Dal Thali,78,80,6240,18,Tuesday
+19-Jan-2021,Fish Curry Plate,34,120,4080,18,Tuesday
+19-Jan-2021,Vegetable Khichuri,47,70,3290,18,Tuesday
+19-Jan-2021,Dry Fish & Rice,60,100,6000,18,Tuesday
+19-Jan-2021,Special Thali,23,160,3680,18,Tuesday
+20-Jan-2021,Rice & Dal Thali,88,80,7040,19,Wednesday
+20-Jan-2021,Fish Curry Plate,50,120,6000,19,Wednesday
+20-Jan-2021,Vegetable Khichuri,35,70,2450,19,Wednesday
+20-Jan-2021,Dry Fish & Rice,42,100,4200,19,Wednesday
+20-Jan-2021,Special Thali,21,160,3360,19,Wednesday
+21-Jan-2021,Rice & Dal Thali,93,80,7440,20,Thursday
+21-Jan-2021,Fish Curry Plate,49,120,5880,20,Thursday
+21-Jan-2021,Vegetable Khichuri,45,70,3150,20,Thursday
+21-Jan-2021,Dry Fish & Rice,57,100,5700,20,Thursday
+21-Jan-2021,Special Thali,33,160,5280,20,Thursday
+22-Jan-2021,Rice & Dal Thali,87,80,6960,21,Friday
+22-Jan-2021,Fish Curry Plate,81,120,9720,21,Friday
+22-Jan-2021,Vegetable Khichuri,53,70,3710,21,Friday
+22-Jan-2021,Dry Fish & Rice,61,100,6100,21,Friday
+22-Jan-2021,Special Thali,34,160,5440,21,Friday
+23-Jan-2021,Rice & Dal Thali,99,80,7920,22,Saturday
+23-Jan-2021,Fish Curry Plate,56,120,6720,22,Saturday
+23-Jan-2021,Vegetable Khichuri,42,70,2940,22,Saturday
+23-Jan-2021,Dry Fish & Rice,49,100,4900,22,Saturday
+23-Jan-2021,Special Thali,45,160,7200,22,Saturday
+24-Jan-2021,Rice & Dal Thali,98,80,7840,23,Sunday
+24-Jan-2021,Fish Curry Plate,44,120,5280,23,Sunday
+24-Jan-2021,Vegetable Khichuri,36,70,2520,23,Sunday
+24-Jan-2021,Dry Fish & Rice,48,100,4800,23,Sunday
+24-Jan-2021,Special Thali,25,160,4000,23,Sunday
+25-Jan-2021,Rice & Dal Thali,71,80,5680,24,Monday
+25-Jan-2021,Fish Curry Plate,57,120,6840,24,Monday
+25-Jan-2021,Vegetable Khichuri,55,70,3850,24,Monday
+25-Jan-2021,Dry Fish & Rice,51,100,5100,24,Monday
+25-Jan-2021,Special Thali,31,160,4960,24,Monday
+26-Jan-2021,Rice & Dal Thali,87,80,6960,25,Tuesday
+26-Jan-2021,Fish Curry Plate,54,120,6480,25,Tuesday
+26-Jan-2021,Vegetable Khichuri,38,70,2660,25,Tuesday
+26-Jan-2021,Dry Fish & Rice,50,100,5000,25,Tuesday
+26-Jan-2021,Special Thali,31,160,4960,25,Tuesday
+27-Jan-2021,Rice & Dal Thali,91,80,7280,26,Wednesday
+27-Jan-2021,Fish Curry Plate,53,120,6360,26,Wednesday
+27-Jan-2021,Vegetable Khichuri,50,70,3500,26,Wednesday
+27-Jan-2021,Dry Fish & Rice,53,100,5300,26,Wednesday
+27-Jan-2021,Special Thali,33,160,5280,26,Wednesday
+28-Jan-2021,Rice & Dal Thali,77,80,6160,27,Thursday
+28-Jan-2021,Fish Curry Plate,68,120,8160,27,Thursday
+28-Jan-2021,Vegetable Khichuri,55,70,3850,27,Thursday
+28-Jan-2021,Dry Fish & Rice,58,100,5800,27,Thursday
+28-Jan-2021,Special Thali,37,160,5920,27,Thursday
+29-Jan-2021,Rice & Dal Thali,84,80,6720,28,Friday
+29-Jan-2021,Fish Curry Plate,69,120,8280,28,Friday
+29-Jan-2021,Vegetable Khichuri,84,70,5880,28,Friday
+29-Jan-2021,Dry Fish & Rice,54,100,5400,28,Friday
+29-Jan-2021,Special Thali,34,160,5440,28,Friday
+30-Jan-2021,Rice & Dal Thali,105,80,8400,29,Saturday
+30-Jan-2021,Fish Curry Plate,36,120,4320,29,Saturday
+30-Jan-2021,Vegetable Khichuri,53,70,3710,29,Saturday
+30-Jan-2021,Dry Fish & Rice,57,100,5700,29,Saturday
+30-Jan-2021,Special Thali,33,160,5280,29,Saturday
+31-Jan-2021,Rice & Dal Thali,105,80,8400,30,Sunday
+31-Jan-2021,Fish Curry Plate,44,120,5280,30,Sunday
+31-Jan-2021,Vegetable Khichuri,43,70,3010,30,Sunday
+31-Jan-2021,Dry Fish & Rice,39,100,3900,30,Sunday
+31-Jan-2021,Special Thali,29,160,4640,30,Sunday
+01-Feb-2021,Rice & Dal Thali,96,80,7680,31,Monday
+01-Feb-2021,Fish Curry Plate,36,120,4320,31,Monday
+01-Feb-2021,Vegetable Khichuri,55,70,3850,31,Monday
+01-Feb-2021,Dry Fish & Rice,40,100,4000,31,Monday
+01-Feb-2021,Special Thali,35,160,5600,31,Monday
+02-Feb-2021,Rice & Dal Thali,108,80,8640,32,Tuesday
+02-Feb-2021,Fish Curry Plate,62,120,7440,32,Tuesday
+02-Feb-2021,Vegetable Khichuri,32,70,2240,32,Tuesday
+02-Feb-2021,Dry Fish & Rice,68,100,6800,32,Tuesday
+02-Feb-2021,Special Thali,41,160,6560,32,Tuesday
+03-Feb-2021,Rice & Dal Thali,110,80,8800,33,Wednesday
+03-Feb-2021,Fish Curry Plate,44,120,5280,33,Wednesday
+03-Feb-2021,Vegetable Khichuri,39,70,2730,33,Wednesday
+03-Feb-2021,Dry Fish & Rice,41,100,4100,33,Wednesday
+03-Feb-2021,Special Thali,35,160,5600,33,Wednesday
+04-Feb-2021,Rice & Dal Thali,96,80,7680,34,Thursday
+04-Feb-2021,Fish Curry Plate,49,120,5880,34,Thursday
+04-Feb-2021,Vegetable Khichuri,53,70,3710,34,Thursday
+04-Feb-2021,Dry Fish & Rice,57,100,5700,34,Thursday
+04-Feb-2021,Special Thali,33,160,5280,34,Thursday
+05-Feb-2021,Rice & Dal Thali,103,80,8240,35,Friday
+05-Feb-2021,Fish Curry Plate,34,120,4080,35,Friday
+05-Feb-2021,Vegetable Khichuri,49,70,3430,35,Friday
+05-Feb-2021,Dry Fish & Rice,73,100,7300,35,Friday
+05-Feb-2021,Special Thali,19,160,3040,35,Friday
+06-Feb-2021,Rice & Dal Thali,95,80,7600,36,Saturday
+06-Feb-2021,Fish Curry Plate,50,120,6000,36,Saturday
+06-Feb-2021,Vegetable Khichuri,49,70,3430,36,Saturday
+06-Feb-2021,Dry Fish & Rice,59,100,5900,36,Saturday
+06-Feb-2021,Special Thali,40,160,6400,36,Saturday
+07-Feb-2021,Rice & Dal Thali,52,80,4160,37,Sunday
+07-Feb-2021,Fish Curry Plate,50,120,6000,37,Sunday
+07-Feb-2021,Vegetable Khichuri,43,70,3010,37,Sunday
+07-Feb-2021,Dry Fish & Rice,56,100,5600,37,Sunday
+07-Feb-2021,Special Thali,39,160,6240,37,Sunday
+08-Feb-2021,Rice & Dal Thali,78,80,6240,38,Monday
+08-Feb-2021,Fish Curry Plate,68,120,8160,38,Monday
+08-Feb-2021,Vegetable Khichuri,43,70,3010,38,Monday
+08-Feb-2021,Dry Fish & Rice,55,100,5500,38,Monday
+08-Feb-2021,Special Thali,34,160,5440,38,Monday
+09-Feb-2021,Rice & Dal Thali,77,80,6160,39,Tuesday
+09-Feb-2021,Fish Curry Plate,57,120,6840,39,Tuesday
+09-Feb-2021,Vegetable Khichuri,45,70,3150,39,Tuesday
+09-Feb-2021,Dry Fish & Rice,47,100,4700,39,Tuesday
+09-Feb-2021,Special Thali,35,160,5600,39,Tuesday
+10-Feb-2021,Rice & Dal Thali,72,80,5760,40,Wednesday
+10-Feb-2021,Fish Curry Plate,56,120,6720,40,Wednesday
+10-Feb-2021,Vegetable Khichuri,49,70,3430,40,Wednesday
+10-Feb-2021,Dry Fish & Rice,36,100,3600,40,Wednesday
+10-Feb-2021,Special Thali,31,160,4960,40,Wednesday
+11-Feb-2021,Rice & Dal Thali,94,80,7520,41,Thursday
+11-Feb-2021,Fish Curry Plate,70,120,8400,41,Thursday
+11-Feb-2021,Vegetable Khichuri,39,70,2730,41,Thursday
+11-Feb-2021,Dry Fish & Rice,43,100,4300,41,Thursday
+11-Feb-2021,Special Thali,40,160,6400,41,Thursday
+12-Feb-2021,Rice & Dal Thali,88,80,7040,42,Friday
+12-Feb-2021,Fish Curry Plate,75,120,9000,42,Friday
+12-Feb-2021,Vegetable Khichuri,55,70,3850,42,Friday
+12-Feb-2021,Dry Fish & Rice,82,100,8200,42,Friday
+12-Feb-2021,Special Thali,48,160,7680,42,Friday
+13-Feb-2021,Rice & Dal Thali,104,80,8320,43,Saturday
+13-Feb-2021,Fish Curry Plate,77,120,9240,43,Saturday
+13-Feb-2021,Vegetable Khichuri,47,70,3290,43,Saturday
+13-Feb-2021,Dry Fish & Rice,61,100,6100,43,Saturday
+13-Feb-2021,Special Thali,28,160,4480,43,Saturday
+14-Feb-2021,Rice & Dal Thali,85,80,6800,44,Sunday
+14-Feb-2021,Fish Curry Plate,53,120,6360,44,Sunday
+14-Feb-2021,Vegetable Khichuri,43,70,3010,44,Sunday
+14-Feb-2021,Dry Fish & Rice,38,100,3800,44,Sunday
+14-Feb-2021,Special Thali,40,160,6400,44,Sunday
+15-Feb-2021,Rice & Dal Thali,65,80,5200,45,Monday
+15-Feb-2021,Fish Curry Plate,72,120,8640,45,Monday
+15-Feb-2021,Vegetable Khichuri,39,70,2730,45,Monday
+15-Feb-2021,Dry Fish & Rice,49,100,4900,45,Monday
+15-Feb-2021,Special Thali,30,160,4800,45,Monday
+16-Feb-2021,Rice & Dal Thali,73,80,5840,46,Tuesday
+16-Feb-2021,Fish Curry Plate,65,120,7800,46,Tuesday
+16-Feb-2021,Vegetable Khichuri,44,70,3080,46,Tuesday
+16-Feb-2021,Dry Fish & Rice,67,100,6700,46,Tuesday
+16-Feb-2021,Special Thali,28,160,4480,46,Tuesday
+17-Feb-2021,Rice & Dal Thali,75,80,6000,47,Wednesday
+17-Feb-2021,Fish Curry Plate,67,120,8040,47,Wednesday
+17-Feb-2021,Vegetable Khichuri,31,70,2170,47,Wednesday
+17-Feb-2021,Dry Fish & Rice,64,100,6400,47,Wednesday
+17-Feb-2021,Special Thali,42,160,6720,47,Wednesday
+18-Feb-2021,Rice & Dal Thali,65,80,5200,48,Thursday
+18-Feb-2021,Fish Curry Plate,68,120,8160,48,Thursday
+18-Feb-2021,Vegetable Khichuri,48,70,3360,48,Thursday
+18-Feb-2021,Dry Fish & Rice,47,100,4700,48,Thursday
+18-Feb-2021,Special Thali,35,160,5600,48,Thursday
+19-Feb-2021,Rice & Dal Thali,134,80,10720,49,Friday
+19-Feb-2021,Fish Curry Plate,74,120,8880,49,Friday
+19-Feb-2021,Vegetable Khichuri,60,70,4200,49,Friday
+19-Feb-2021,Dry Fish & Rice,63,100,6300,49,Friday
+19-Feb-2021,Special Thali,42,160,6720,49,Friday
+20-Feb-2021,Rice & Dal Thali,87,80,6960,50,Saturday
+20-Feb-2021,Fish Curry Plate,63,120,7560,50,Saturday
+20-Feb-2021,Vegetable Khichuri,50,70,3500,50,Saturday
+20-Feb-2021,Dry Fish & Rice,60,100,6000,50,Saturday
+20-Feb-2021,Special Thali,30,160,4800,50,Saturday
+21-Feb-2021,Rice & Dal Thali,84,80,6720,51,Sunday
+21-Feb-2021,Fish Curry Plate,44,120,5280,51,Sunday
+21-Feb-2021,Vegetable Khichuri,39,70,2730,51,Sunday
+21-Feb-2021,Dry Fish & Rice,47,100,4700,51,Sunday
+21-Feb-2021,Special Thali,27,160,4320,51,Sunday
+22-Feb-2021,Rice & Dal Thali,109,80,8720,52,Monday
+22-Feb-2021,Fish Curry Plate,63,120,7560,52,Monday
+22-Feb-2021,Vegetable Khichuri,53,70,3710,52,Monday
+22-Feb-2021,Dry Fish & Rice,62,100,6200,52,Monday
+22-Feb-2021,Special Thali,27,160,4320,52,Monday
+23-Feb-2021,Rice & Dal Thali,92,80,7360,53,Tuesday
+23-Feb-2021,Fish Curry Plate,56,120,6720,53,Tuesday
+23-Feb-2021,Vegetable Khichuri,45,70,3150,53,Tuesday
+23-Feb-2021,Dry Fish & Rice,52,100,5200,53,Tuesday
+23-Feb-2021,Special Thali,29,160,4640,53,Tuesday
+24-Feb-2021,Rice & Dal Thali,64,80,5120,54,Wednesday
+24-Feb-2021,Fish Curry Plate,47,120,5640,54,Wednesday
+24-Feb-2021,Vegetable Khichuri,38,70,2660,54,Wednesday
+24-Feb-2021,Dry Fish & Rice,46,100,4600,54,Wednesday
+24-Feb-2021,Special Thali,34,160,5440,54,Wednesday
+25-Feb-2021,Rice & Dal Thali,72,80,5760,55,Thursday
+25-Feb-2021,Fish Curry Plate,42,120,5040,55,Thursday
+25-Feb-2021,Vegetable Khichuri,40,70,2800,55,Thursday
+25-Feb-2021,Dry Fish & Rice,43,100,4300,55,Thursday
+25-Feb-2021,Special Thali,33,160,5280,55,Thursday
+26-Feb-2021,Rice & Dal Thali,80,80,6400,56,Friday
+26-Feb-2021,Fish Curry Plate,67,120,8040,56,Friday
+26-Feb-2021,Vegetable Khichuri,54,70,3780,56,Friday
+26-Feb-2021,Dry Fish & Rice,58,100,5800,56,Friday
+26-Feb-2021,Special Thali,45,160,7200,56,Friday
+27-Feb-2021,Rice & Dal Thali,120,80,9600,57,Saturday
+27-Feb-2021,Fish Curry Plate,62,120,7440,57,Saturday
+27-Feb-2021,Vegetable Khichuri,56,70,3920,57,Saturday
+27-Feb-2021,Dry Fish & Rice,51,100,5100,57,Saturday
+27-Feb-2021,Special Thali,38,160,6080,57,Saturday
+28-Feb-2021,Rice & Dal Thali,97,80,7760,58,Sunday
+28-Feb-2021,Fish Curry Plate,41,120,4920,58,Sunday
+28-Feb-2021,Vegetable Khichuri,40,70,2800,58,Sunday
+28-Feb-2021,Dry Fish & Rice,44,100,4400,58,Sunday
+28-Feb-2021,Special Thali,19,160,3040,58,Sunday
+01-Mar-2021,Rice & Dal Thali,100,80,8000,59,Monday
+01-Mar-2021,Fish Curry Plate,76,120,9120,59,Monday
+01-Mar-2021,Vegetable Khichuri,65,70,4550,59,Monday
+01-Mar-2021,Dry Fish & Rice,60,100,6000,59,Monday
+01-Mar-2021,Special Thali,34,160,5440,59,Monday
+02-Mar-2021,Rice & Dal Thali,92,80,7360,60,Tuesday
+02-Mar-2021,Fish Curry Plate,52,120,6240,60,Tuesday
+02-Mar-2021,Vegetable Khichuri,36,70,2520,60,Tuesday
+02-Mar-2021,Dry Fish & Rice,34,100,3400,60,Tuesday
+02-Mar-2021,Special Thali,36,160,5760,60,Tuesday
+03-Mar-2021,Rice & Dal Thali,88,80,7040,61,Wednesday
+03-Mar-2021,Fish Curry Plate,43,120,5160,61,Wednesday
+03-Mar-2021,Vegetable Khichuri,32,70,2240,61,Wednesday
+03-Mar-2021,Dry Fish & Rice,49,100,4900,61,Wednesday
+03-Mar-2021,Special Thali,28,160,4480,61,Wednesday
+04-Mar-2021,Rice & Dal Thali,74,80,5920,62,Thursday
+04-Mar-2021,Fish Curry Plate,59,120,7080,62,Thursday
+04-Mar-2021,Vegetable Khichuri,42,70,2940,62,Thursday
+04-Mar-2021,Dry Fish & Rice,34,100,3400,62,Thursday
+04-Mar-2021,Special Thali,27,160,4320,62,Thursday
+05-Mar-2021,Rice & Dal Thali,111,80,8880,63,Friday
+05-Mar-2021,Fish Curry Plate,64,120,7680,63,Friday
+05-Mar-2021,Vegetable Khichuri,54,70,3780,63,Friday
+05-Mar-2021,Dry Fish & Rice,57,100,5700,63,Friday
+05-Mar-2021,Special Thali,36,160,5760,63,Friday
+06-Mar-2021,Rice & Dal Thali,145,80,11600,64,Saturday
+06-Mar-2021,Fish Curry Plate,49,120,5880,64,Saturday
+06-Mar-2021,Vegetable Khichuri,55,70,3850,64,Saturday
+06-Mar-2021,Dry Fish & Rice,57,100,5700,64,Saturday
+06-Mar-2021,Special Thali,35,160,5600,64,Saturday
+07-Mar-2021,Rice & Dal Thali,92,80,7360,65,Sunday
+07-Mar-2021,Fish Curry Plate,62,120,7440,65,Sunday
+07-Mar-2021,Vegetable Khichuri,45,70,3150,65,Sunday
+07-Mar-2021,Dry Fish & Rice,42,100,4200,65,Sunday
+07-Mar-2021,Special Thali,32,160,5120,65,Sunday
+08-Mar-2021,Rice & Dal Thali,73,80,5840,66,Monday
+08-Mar-2021,Fish Curry Plate,49,120,5880,66,Monday
+08-Mar-2021,Vegetable Khichuri,45,70,3150,66,Monday
+08-Mar-2021,Dry Fish & Rice,55,100,5500,66,Monday
+08-Mar-2021,Special Thali,26,160,4160,66,Monday
+09-Mar-2021,Rice & Dal Thali,84,80,6720,67,Tuesday
+09-Mar-2021,Fish Curry Plate,41,120,4920,67,Tuesday
+09-Mar-2021,Vegetable Khichuri,44,70,3080,67,Tuesday
+09-Mar-2021,Dry Fish & Rice,43,100,4300,67,Tuesday
+09-Mar-2021,Special Thali,37,160,5920,67,Tuesday
+10-Mar-2021,Rice & Dal Thali,94,80,7520,68,Wednesday
+10-Mar-2021,Fish Curry Plate,57,120,6840,68,Wednesday
+10-Mar-2021,Vegetable Khichuri,35,70,2450,68,Wednesday
+10-Mar-2021,Dry Fish & Rice,51,100,5100,68,Wednesday
+10-Mar-2021,Special Thali,29,160,4640,68,Wednesday
+11-Mar-2021,Rice & Dal Thali,81,80,6480,69,Thursday
+11-Mar-2021,Fish Curry Plate,38,120,4560,69,Thursday
+11-Mar-2021,Vegetable Khichuri,43,70,3010,69,Thursday
+11-Mar-2021,Dry Fish & Rice,51,100,5100,69,Thursday
+11-Mar-2021,Special Thali,28,160,4480,69,Thursday
+12-Mar-2021,Rice & Dal Thali,106,80,8480,70,Friday
+12-Mar-2021,Fish Curry Plate,43,120,5160,70,Friday
+12-Mar-2021,Vegetable Khichuri,63,70,4410,70,Friday
+12-Mar-2021,Dry Fish & Rice,77,100,7700,70,Friday
+12-Mar-2021,Special Thali,47,160,7520,70,Friday
+13-Mar-2021,Rice & Dal Thali,86,80,6880,71,Saturday
+13-Mar-2021,Fish Curry Plate,61,120,7320,71,Saturday
+13-Mar-2021,Vegetable Khichuri,27,70,1890,71,Saturday
+13-Mar-2021,Dry Fish & Rice,56,100,5600,71,Saturday
+13-Mar-2021,Special Thali,52,160,8320,71,Saturday
+14-Mar-2021,Rice & Dal Thali,73,80,5840,72,Sunday
+14-Mar-2021,Fish Curry Plate,64,120,7680,72,Sunday
+14-Mar-2021,Vegetable Khichuri,42,70,2940,72,Sunday
+14-Mar-2021,Dry Fish & Rice,42,100,4200,72,Sunday
+14-Mar-2021,Special Thali,27,160,4320,72,Sunday
+15-Mar-2021,Rice & Dal Thali,91,80,7280,73,Monday
+15-Mar-2021,Fish Curry Plate,56,120,6720,73,Monday
+15-Mar-2021,Vegetable Khichuri,40,70,2800,73,Monday
+15-Mar-2021,Dry Fish & Rice,44,100,4400,73,Monday
+15-Mar-2021,Special Thali,32,160,5120,73,Monday
+16-Mar-2021,Rice & Dal Thali,74,80,5920,74,Tuesday
+16-Mar-2021,Fish Curry Plate,39,120,4680,74,Tuesday
+16-Mar-2021,Vegetable Khichuri,37,70,2590,74,Tuesday
+16-Mar-2021,Dry Fish & Rice,42,100,4200,74,Tuesday
+16-Mar-2021,Special Thali,26,160,4160,74,Tuesday
+17-Mar-2021,Rice & Dal Thali,92,80,7360,75,Wednesday
+17-Mar-2021,Fish Curry Plate,64,120,7680,75,Wednesday
+17-Mar-2021,Vegetable Khichuri,47,70,3290,75,Wednesday
+17-Mar-2021,Dry Fish & Rice,58,100,5800,75,Wednesday
+17-Mar-2021,Special Thali,19,160,3040,75,Wednesday
+18-Mar-2021,Rice & Dal Thali,85,80,6800,76,Thursday
+18-Mar-2021,Fish Curry Plate,53,120,6360,76,Thursday
+18-Mar-2021,Vegetable Khichuri,53,70,3710,76,Thursday
+18-Mar-2021,Dry Fish & Rice,41,100,4100,76,Thursday
+18-Mar-2021,Special Thali,27,160,4320,76,Thursday
+19-Mar-2021,Rice & Dal Thali,142,80,11360,77,Friday
+19-Mar-2021,Fish Curry Plate,68,120,8160,77,Friday
+19-Mar-2021,Vegetable Khichuri,65,70,4550,77,Friday
+19-Mar-2021,Dry Fish & Rice,76,100,7600,77,Friday
+19-Mar-2021,Special Thali,34,160,5440,77,Friday
+20-Mar-2021,Rice & Dal Thali,127,80,10160,78,Saturday
+20-Mar-2021,Fish Curry Plate,60,120,7200,78,Saturday
+20-Mar-2021,Vegetable Khichuri,74,70,5180,78,Saturday
+20-Mar-2021,Dry Fish & Rice,59,100,5900,78,Saturday
+20-Mar-2021,Special Thali,38,160,6080,78,Saturday
+21-Mar-2021,Rice & Dal Thali,58,80,4640,79,Sunday
+21-Mar-2021,Fish Curry Plate,57,120,6840,79,Sunday
+21-Mar-2021,Vegetable Khichuri,32,70,2240,79,Sunday
+21-Mar-2021,Dry Fish & Rice,47,100,4700,79,Sunday
+21-Mar-2021,Special Thali,20,160,3200,79,Sunday
+22-Mar-2021,Rice & Dal Thali,85,80,6800,80,Monday
+22-Mar-2021,Fish Curry Plate,50,120,6000,80,Monday
+22-Mar-2021,Vegetable Khichuri,52,70,3640,80,Monday
+22-Mar-2021,Dry Fish & Rice,56,100,5600,80,Monday
+22-Mar-2021,Special Thali,35,160,5600,80,Monday
+23-Mar-2021,Rice & Dal Thali,76,80,6080,81,Tuesday
+23-Mar-2021,Fish Curry Plate,61,120,7320,81,Tuesday
+23-Mar-2021,Vegetable Khichuri,48,70,3360,81,Tuesday
+23-Mar-2021,Dry Fish & Rice,55,100,5500,81,Tuesday
+23-Mar-2021,Special Thali,28,160,4480,81,Tuesday
+24-Mar-2021,Rice & Dal Thali,102,80,8160,82,Wednesday
+24-Mar-2021,Fish Curry Plate,63,120,7560,82,Wednesday
+24-Mar-2021,Vegetable Khichuri,48,70,3360,82,Wednesday
+24-Mar-2021,Dry Fish & Rice,41,100,4100,82,Wednesday
+24-Mar-2021,Special Thali,26,160,4160,82,Wednesday
+25-Mar-2021,Rice & Dal Thali,80,80,6400,83,Thursday
+25-Mar-2021,Fish Curry Plate,53,120,6360,83,Thursday
+25-Mar-2021,Vegetable Khichuri,37,70,2590,83,Thursday
+25-Mar-2021,Dry Fish & Rice,57,100,5700,83,Thursday
+25-Mar-2021,Special Thali,31,160,4960,83,Thursday
+26-Mar-2021,Rice & Dal Thali,98,80,7840,84,Friday
+26-Mar-2021,Fish Curry Plate,68,120,8160,84,Friday
+26-Mar-2021,Vegetable Khichuri,73,70,5110,84,Friday
+26-Mar-2021,Dry Fish & Rice,47,100,4700,84,Friday
+26-Mar-2021,Special Thali,49,160,7840,84,Friday
+27-Mar-2021,Rice & Dal Thali,118,80,9440,85,Saturday
+27-Mar-2021,Fish Curry Plate,79,120,9480,85,Saturday
+27-Mar-2021,Vegetable Khichuri,51,70,3570,85,Saturday
+27-Mar-2021,Dry Fish & Rice,36,100,3600,85,Saturday
+27-Mar-2021,Special Thali,38,160,6080,85,Saturday
+28-Mar-2021,Rice & Dal Thali,58,80,4640,86,Sunday
+28-Mar-2021,Fish Curry Plate,64,120,7680,86,Sunday
+28-Mar-2021,Vegetable Khichuri,50,70,3500,86,Sunday
+28-Mar-2021,Dry Fish & Rice,46,100,4600,86,Sunday
+28-Mar-2021,Special Thali,32,160,5120,86,Sunday
+29-Mar-2021,Rice & Dal Thali,108,80,8640,87,Monday
+29-Mar-2021,Fish Curry Plate,39,120,4680,87,Monday
+29-Mar-2021,Vegetable Khichuri,43,70,3010,87,Monday
+29-Mar-2021,Dry Fish & Rice,52,100,5200,87,Monday
+29-Mar-2021,Special Thali,40,160,6400,87,Monday
+30-Mar-2021,Rice & Dal Thali,102,80,8160,88,Tuesday
+30-Mar-2021,Fish Curry Plate,69,120,8280,88,Tuesday
+30-Mar-2021,Vegetable Khichuri,46,70,3220,88,Tuesday
+30-Mar-2021,Dry Fish & Rice,62,100,6200,88,Tuesday
+30-Mar-2021,Special Thali,29,160,4640,88,Tuesday
+31-Mar-2021,Rice & Dal Thali,107,80,8560,89,Wednesday
+31-Mar-2021,Fish Curry Plate,57,120,6840,89,Wednesday
+31-Mar-2021,Vegetable Khichuri,36,70,2520,89,Wednesday
+31-Mar-2021,Dry Fish & Rice,53,100,5300,89,Wednesday
+31-Mar-2021,Special Thali,28,160,4480,89,Wednesday
+01-Apr-2021,Rice & Dal Thali,84,80,6720,90,Thursday
+01-Apr-2021,Fish Curry Plate,52,120,6240,90,Thursday
+01-Apr-2021,Vegetable Khichuri,58,70,4060,90,Thursday
+01-Apr-2021,Dry Fish & Rice,48,100,4800,90,Thursday
+01-Apr-2021,Special Thali,30,160,4800,90,Thursday
+02-Apr-2021,Rice & Dal Thali,101,80,8080,91,Friday
+02-Apr-2021,Fish Curry Plate,75,120,9000,91,Friday
+02-Apr-2021,Vegetable Khichuri,63,70,4410,91,Friday
+02-Apr-2021,Dry Fish & Rice,78,100,7800,91,Friday
+02-Apr-2021,Special Thali,46,160,7360,91,Friday
+03-Apr-2021,Rice & Dal Thali,119,80,9520,92,Saturday
+03-Apr-2021,Fish Curry Plate,46,120,5520,92,Saturday
+03-Apr-2021,Vegetable Khichuri,57,70,3990,92,Saturday
+03-Apr-2021,Dry Fish & Rice,55,100,5500,92,Saturday
+03-Apr-2021,Special Thali,40,160,6400,92,Saturday
+04-Apr-2021,Rice & Dal Thali,36,80,2880,93,Sunday
+04-Apr-2021,Fish Curry Plate,61,120,7320,93,Sunday
+04-Apr-2021,Vegetable Khichuri,40,70,2800,93,Sunday
+04-Apr-2021,Dry Fish & Rice,55,100,5500,93,Sunday
+04-Apr-2021,Special Thali,27,160,4320,93,Sunday
+05-Apr-2021,Rice & Dal Thali,111,80,8880,94,Monday
+05-Apr-2021,Fish Curry Plate,48,120,5760,94,Monday
+05-Apr-2021,Vegetable Khichuri,50,70,3500,94,Monday
+05-Apr-2021,Dry Fish & Rice,61,100,6100,94,Monday
+05-Apr-2021,Special Thali,34,160,5440,94,Monday
+06-Apr-2021,Rice & Dal Thali,98,80,7840,95,Tuesday
+06-Apr-2021,Fish Curry Plate,59,120,7080,95,Tuesday
+06-Apr-2021,Vegetable Khichuri,47,70,3290,95,Tuesday
+06-Apr-2021,Dry Fish & Rice,47,100,4700,95,Tuesday
+06-Apr-2021,Special Thali,32,160,5120,95,Tuesday
+07-Apr-2021,Rice & Dal Thali,91,80,7280,96,Wednesday
+07-Apr-2021,Fish Curry Plate,48,120,5760,96,Wednesday
+07-Apr-2021,Vegetable Khichuri,44,70,3080,96,Wednesday
+07-Apr-2021,Dry Fish & Rice,40,100,4000,96,Wednesday
+07-Apr-2021,Special Thali,29,160,4640,96,Wednesday
+08-Apr-2021,Rice & Dal Thali,75,80,6000,97,Thursday
+08-Apr-2021,Fish Curry Plate,65,120,7800,97,Thursday
+08-Apr-2021,Vegetable Khichuri,45,70,3150,97,Thursday
+08-Apr-2021,Dry Fish & Rice,45,100,4500,97,Thursday
+08-Apr-2021,Special Thali,35,160,5600,97,Thursday
+09-Apr-2021,Rice & Dal Thali,134,80,10720,98,Friday
+09-Apr-2021,Fish Curry Plate,67,120,8040,98,Friday
+09-Apr-2021,Vegetable Khichuri,60,70,4200,98,Friday
+09-Apr-2021,Dry Fish & Rice,51,100,5100,98,Friday
+09-Apr-2021,Special Thali,35,160,5600,98,Friday
+10-Apr-2021,Rice & Dal Thali,99,80,7920,99,Saturday
+10-Apr-2021,Fish Curry Plate,68,120,8160,99,Saturday
+10-Apr-2021,Vegetable Khichuri,46,70,3220,99,Saturday
+10-Apr-2021,Dry Fish & Rice,69,100,6900,99,Saturday
+10-Apr-2021,Special Thali,28,160,4480,99,Saturday
+11-Apr-2021,Rice & Dal Thali,124,80,9920,100,Sunday
+11-Apr-2021,Fish Curry Plate,32,120,3840,100,Sunday
+11-Apr-2021,Vegetable Khichuri,26,70,1820,100,Sunday
+11-Apr-2021,Dry Fish & Rice,22,100,2200,100,Sunday
+11-Apr-2021,Special Thali,36,160,5760,100,Sunday
+12-Apr-2021,Rice & Dal Thali,117,80,9360,101,Monday
+12-Apr-2021,Fish Curry Plate,38,120,4560,101,Monday
+12-Apr-2021,Vegetable Khichuri,24,70,1680,101,Monday
+12-Apr-2021,Dry Fish & Rice,32,100,3200,101,Monday
+12-Apr-2021,Special Thali,38,160,6080,101,Monday
+13-Apr-2021,Rice & Dal Thali,147,80,11760,102,Tuesday
+13-Apr-2021,Fish Curry Plate,19,120,2280,102,Tuesday
+13-Apr-2021,Vegetable Khichuri,31,70,2170,102,Tuesday
+13-Apr-2021,Dry Fish & Rice,27,100,2700,102,Tuesday
+13-Apr-2021,Special Thali,57,160,9120,102,Tuesday
+14-Apr-2021,Rice & Dal Thali,148,80,11840,103,Wednesday
+14-Apr-2021,Fish Curry Plate,37,120,4440,103,Wednesday
+14-Apr-2021,Vegetable Khichuri,29,70,2030,103,Wednesday
+14-Apr-2021,Dry Fish & Rice,30,100,3000,103,Wednesday
+14-Apr-2021,Special Thali,41,160,6560,103,Wednesday
+15-Apr-2021,Rice & Dal Thali,125,80,10000,104,Thursday
+15-Apr-2021,Fish Curry Plate,27,120,3240,104,Thursday
+15-Apr-2021,Vegetable Khichuri,20,70,1400,104,Thursday
+15-Apr-2021,Dry Fish & Rice,27,100,2700,104,Thursday
+15-Apr-2021,Special Thali,50,160,8000,104,Thursday
+16-Apr-2021,Rice & Dal Thali,143,80,11440,105,Friday
+16-Apr-2021,Fish Curry Plate,34,120,4080,105,Friday
+16-Apr-2021,Vegetable Khichuri,31,70,2170,105,Friday
+16-Apr-2021,Dry Fish & Rice,22,100,2200,105,Friday
+16-Apr-2021,Special Thali,67,160,10720,105,Friday
+17-Apr-2021,Rice & Dal Thali,163,80,13040,106,Saturday
+17-Apr-2021,Fish Curry Plate,43,120,5160,106,Saturday
+17-Apr-2021,Vegetable Khichuri,26,70,1820,106,Saturday
+17-Apr-2021,Dry Fish & Rice,38,100,3800,106,Saturday
+17-Apr-2021,Special Thali,60,160,9600,106,Saturday
+18-Apr-2021,Rice & Dal Thali,137,80,10960,107,Sunday
+18-Apr-2021,Fish Curry Plate,30,120,3600,107,Sunday
+18-Apr-2021,Vegetable Khichuri,33,70,2310,107,Sunday
+18-Apr-2021,Dry Fish & Rice,29,100,2900,107,Sunday
+18-Apr-2021,Special Thali,49,160,7840,107,Sunday
+19-Apr-2021,Rice & Dal Thali,118,80,9440,108,Monday
+19-Apr-2021,Fish Curry Plate,30,120,3600,108,Monday
+19-Apr-2021,Vegetable Khichuri,24,70,1680,108,Monday
+19-Apr-2021,Dry Fish & Rice,30,100,3000,108,Monday
+19-Apr-2021,Special Thali,48,160,7680,108,Monday
+20-Apr-2021,Rice & Dal Thali,104,80,8320,109,Tuesday
+20-Apr-2021,Fish Curry Plate,33,120,3960,109,Tuesday
+20-Apr-2021,Vegetable Khichuri,29,70,2030,109,Tuesday
+20-Apr-2021,Dry Fish & Rice,19,100,1900,109,Tuesday
+20-Apr-2021,Special Thali,50,160,8000,109,Tuesday
+21-Apr-2021,Rice & Dal Thali,108,80,8640,110,Wednesday
+21-Apr-2021,Fish Curry Plate,26,120,3120,110,Wednesday
+21-Apr-2021,Vegetable Khichuri,21,70,1470,110,Wednesday
+21-Apr-2021,Dry Fish & Rice,29,100,2900,110,Wednesday
+21-Apr-2021,Special Thali,53,160,8480,110,Wednesday
+22-Apr-2021,Rice & Dal Thali,118,80,9440,111,Thursday
+22-Apr-2021,Fish Curry Plate,27,120,3240,111,Thursday
+22-Apr-2021,Vegetable Khichuri,23,70,1610,111,Thursday
+22-Apr-2021,Dry Fish & Rice,27,100,2700,111,Thursday
+22-Apr-2021,Special Thali,34,160,5440,111,Thursday
+23-Apr-2021,Rice & Dal Thali,361,80,28880,112,Friday
+23-Apr-2021,Fish Curry Plate,64,120,7680,112,Friday
+23-Apr-2021,Vegetable Khichuri,55,70,3850,112,Friday
+23-Apr-2021,Dry Fish & Rice,89,100,8900,112,Friday
+23-Apr-2021,Special Thali,74,160,11840,112,Friday
+24-Apr-2021,Rice & Dal Thali,253,80,20240,113,Saturday
+24-Apr-2021,Fish Curry Plate,75,120,9000,113,Saturday
+24-Apr-2021,Vegetable Khichuri,52,70,3640,113,Saturday
+24-Apr-2021,Dry Fish & Rice,54,100,5400,113,Saturday
+24-Apr-2021,Special Thali,163,160,26080,113,Saturday
+25-Apr-2021,Rice & Dal Thali,123,80,9840,114,Sunday
+25-Apr-2021,Fish Curry Plate,32,120,3840,114,Sunday
+25-Apr-2021,Vegetable Khichuri,34,70,2380,114,Sunday
+25-Apr-2021,Dry Fish & Rice,31,100,3100,114,Sunday
+25-Apr-2021,Special Thali,49,160,7840,114,Sunday
+26-Apr-2021,Rice & Dal Thali,140,80,11200,115,Monday
+26-Apr-2021,Fish Curry Plate,22,120,2640,115,Monday
+26-Apr-2021,Vegetable Khichuri,24,70,1680,115,Monday
+26-Apr-2021,Dry Fish & Rice,29,100,2900,115,Monday
+26-Apr-2021,Special Thali,50,160,8000,115,Monday
+27-Apr-2021,Rice & Dal Thali,114,80,9120,116,Tuesday
+27-Apr-2021,Fish Curry Plate,26,120,3120,116,Tuesday
+27-Apr-2021,Vegetable Khichuri,19,70,1330,116,Tuesday
+27-Apr-2021,Dry Fish & Rice,30,100,3000,116,Tuesday
+27-Apr-2021,Special Thali,55,160,8800,116,Tuesday
+28-Apr-2021,Rice & Dal Thali,121,80,9680,117,Wednesday
+28-Apr-2021,Fish Curry Plate,35,120,4200,117,Wednesday
+28-Apr-2021,Vegetable Khichuri,20,70,1400,117,Wednesday
+28-Apr-2021,Dry Fish & Rice,19,100,1900,117,Wednesday
+28-Apr-2021,Special Thali,45,160,7200,117,Wednesday
+29-Apr-2021,Rice & Dal Thali,121,80,9680,118,Thursday
+29-Apr-2021,Fish Curry Plate,40,120,4800,118,Thursday
+29-Apr-2021,Vegetable Khichuri,27,70,1890,118,Thursday
+29-Apr-2021,Dry Fish & Rice,20,100,2000,118,Thursday
+29-Apr-2021,Special Thali,36,160,5760,118,Thursday
+30-Apr-2021,Rice & Dal Thali,154,80,12320,119,Friday
+30-Apr-2021,Fish Curry Plate,36,120,4320,119,Friday
+30-Apr-2021,Vegetable Khichuri,21,70,1470,119,Friday
+30-Apr-2021,Dry Fish & Rice,36,100,3600,119,Friday
+30-Apr-2021,Special Thali,58,160,9280,119,Friday
+01-May-2021,Rice & Dal Thali,158,80,12640,120,Saturday
+01-May-2021,Fish Curry Plate,34,120,4080,120,Saturday
+01-May-2021,Vegetable Khichuri,34,70,2380,120,Saturday
+01-May-2021,Dry Fish & Rice,37,100,3700,120,Saturday
+01-May-2021,Special Thali,54,160,8640,120,Saturday
+02-May-2021,Rice & Dal Thali,97,80,7760,121,Sunday
+02-May-2021,Fish Curry Plate,28,120,3360,121,Sunday
+02-May-2021,Vegetable Khichuri,31,70,2170,121,Sunday
+02-May-2021,Dry Fish & Rice,24,100,2400,121,Sunday
+02-May-2021,Special Thali,47,160,7520,121,Sunday
+03-May-2021,Rice & Dal Thali,114,80,9120,122,Monday
+03-May-2021,Fish Curry Plate,26,120,3120,122,Monday
+03-May-2021,Vegetable Khichuri,28,70,1960,122,Monday
+03-May-2021,Dry Fish & Rice,30,100,3000,122,Monday
+03-May-2021,Special Thali,54,160,8640,122,Monday
+04-May-2021,Rice & Dal Thali,78,80,6240,123,Tuesday
+04-May-2021,Fish Curry Plate,26,120,3120,123,Tuesday
+04-May-2021,Vegetable Khichuri,30,70,2100,123,Tuesday
+04-May-2021,Dry Fish & Rice,27,100,2700,123,Tuesday
+04-May-2021,Special Thali,45,160,7200,123,Tuesday
+05-May-2021,Rice & Dal Thali,91,80,7280,124,Wednesday
+05-May-2021,Fish Curry Plate,26,120,3120,124,Wednesday
+05-May-2021,Vegetable Khichuri,26,70,1820,124,Wednesday
+05-May-2021,Dry Fish & Rice,28,100,2800,124,Wednesday
+05-May-2021,Special Thali,60,160,9600,124,Wednesday
+06-May-2021,Rice & Dal Thali,127,80,10160,125,Thursday
+06-May-2021,Fish Curry Plate,30,120,3600,125,Thursday
+06-May-2021,Vegetable Khichuri,18,70,1260,125,Thursday
+06-May-2021,Dry Fish & Rice,38,100,3800,125,Thursday
+06-May-2021,Special Thali,38,160,6080,125,Thursday
+07-May-2021,Rice & Dal Thali,192,80,15360,126,Friday
+07-May-2021,Fish Curry Plate,31,120,3720,126,Friday
+07-May-2021,Vegetable Khichuri,40,70,2800,126,Friday
+07-May-2021,Dry Fish & Rice,30,100,3000,126,Friday
+07-May-2021,Special Thali,47,160,7520,126,Friday
+08-May-2021,Rice & Dal Thali,87,80,6960,127,Saturday
+08-May-2021,Fish Curry Plate,44,120,5280,127,Saturday
+08-May-2021,Vegetable Khichuri,35,70,2450,127,Saturday
+08-May-2021,Dry Fish & Rice,37,100,3700,127,Saturday
+08-May-2021,Special Thali,80,160,12800,127,Saturday
+09-May-2021,Rice & Dal Thali,144,80,11520,128,Sunday
+09-May-2021,Fish Curry Plate,34,120,4080,128,Sunday
+09-May-2021,Vegetable Khichuri,17,70,1190,128,Sunday
+09-May-2021,Dry Fish & Rice,29,100,2900,128,Sunday
+09-May-2021,Special Thali,45,160,7200,128,Sunday
+10-May-2021,Rice & Dal Thali,107,80,8560,129,Monday
+10-May-2021,Fish Curry Plate,32,120,3840,129,Monday
+10-May-2021,Vegetable Khichuri,27,70,1890,129,Monday
+10-May-2021,Dry Fish & Rice,29,100,2900,129,Monday
+10-May-2021,Special Thali,37,160,5920,129,Monday
+11-May-2021,Rice & Dal Thali,86,80,6880,130,Tuesday
+11-May-2021,Fish Curry Plate,37,120,4440,130,Tuesday
+11-May-2021,Vegetable Khichuri,36,70,2520,130,Tuesday
+11-May-2021,Dry Fish & Rice,36,100,3600,130,Tuesday
+11-May-2021,Special Thali,35,160,5600,130,Tuesday
+12-May-2021,Rice & Dal Thali,117,80,9360,131,Wednesday
+12-May-2021,Fish Curry Plate,43,120,5160,131,Wednesday
+12-May-2021,Vegetable Khichuri,37,70,2590,131,Wednesday
+12-May-2021,Dry Fish & Rice,40,100,4000,131,Wednesday
+12-May-2021,Special Thali,31,160,4960,131,Wednesday
+13-May-2021,Rice & Dal Thali,103,80,8240,132,Thursday
+13-May-2021,Fish Curry Plate,58,120,6960,132,Thursday
+13-May-2021,Vegetable Khichuri,68,70,4760,132,Thursday
+13-May-2021,Dry Fish & Rice,56,100,5600,132,Thursday
+13-May-2021,Special Thali,32,160,5120,132,Thursday
+14-May-2021,Rice & Dal Thali,114,80,9120,133,Friday
+14-May-2021,Fish Curry Plate,65,120,7800,133,Friday
+14-May-2021,Vegetable Khichuri,50,70,3500,133,Friday
+14-May-2021,Dry Fish & Rice,46,100,4600,133,Friday
+14-May-2021,Special Thali,39,160,6240,133,Friday
+15-May-2021,Rice & Dal Thali,95,80,7600,134,Saturday
+15-May-2021,Fish Curry Plate,66,120,7920,134,Saturday
+15-May-2021,Vegetable Khichuri,45,70,3150,134,Saturday
+15-May-2021,Dry Fish & Rice,63,100,6300,134,Saturday
+15-May-2021,Special Thali,35,160,5600,134,Saturday
+16-May-2021,Rice & Dal Thali,73,80,5840,135,Sunday
+16-May-2021,Fish Curry Plate,56,120,6720,135,Sunday
+16-May-2021,Vegetable Khichuri,42,70,2940,135,Sunday
+16-May-2021,Dry Fish & Rice,75,100,7500,135,Sunday
+16-May-2021,Special Thali,27,160,4320,135,Sunday
+17-May-2021,Rice & Dal Thali,99,80,7920,136,Monday
+17-May-2021,Fish Curry Plate,53,120,6360,136,Monday
+17-May-2021,Vegetable Khichuri,62,70,4340,136,Monday
+17-May-2021,Dry Fish & Rice,54,100,5400,136,Monday
+17-May-2021,Special Thali,27,160,4320,136,Monday
+18-May-2021,Rice & Dal Thali,93,80,7440,137,Tuesday
+18-May-2021,Fish Curry Plate,34,120,4080,137,Tuesday
+18-May-2021,Vegetable Khichuri,40,70,2800,137,Tuesday
+18-May-2021,Dry Fish & Rice,53,100,5300,137,Tuesday
+18-May-2021,Special Thali,38,160,6080,137,Tuesday
+19-May-2021,Rice & Dal Thali,90,80,7200,138,Wednesday
+19-May-2021,Fish Curry Plate,50,120,6000,138,Wednesday
+19-May-2021,Vegetable Khichuri,49,70,3430,138,Wednesday
+19-May-2021,Dry Fish & Rice,37,100,3700,138,Wednesday
+19-May-2021,Special Thali,33,160,5280,138,Wednesday
+20-May-2021,Rice & Dal Thali,93,80,7440,139,Thursday
+20-May-2021,Fish Curry Plate,50,120,6000,139,Thursday
+20-May-2021,Vegetable Khichuri,40,70,2800,139,Thursday
+20-May-2021,Dry Fish & Rice,56,100,5600,139,Thursday
+20-May-2021,Special Thali,34,160,5440,139,Thursday
+21-May-2021,Rice & Dal Thali,114,80,9120,140,Friday
+21-May-2021,Fish Curry Plate,83,120,9960,140,Friday
+21-May-2021,Vegetable Khichuri,72,70,5040,140,Friday
+21-May-2021,Dry Fish & Rice,74,100,7400,140,Friday
+21-May-2021,Special Thali,36,160,5760,140,Friday
+22-May-2021,Rice & Dal Thali,92,80,7360,141,Saturday
+22-May-2021,Fish Curry Plate,55,120,6600,141,Saturday
+22-May-2021,Vegetable Khichuri,59,70,4130,141,Saturday
+22-May-2021,Dry Fish & Rice,69,100,6900,141,Saturday
+22-May-2021,Special Thali,39,160,6240,141,Saturday
+23-May-2021,Rice & Dal Thali,80,80,6400,142,Sunday
+23-May-2021,Fish Curry Plate,55,120,6600,142,Sunday
+23-May-2021,Vegetable Khichuri,31,70,2170,142,Sunday
+23-May-2021,Dry Fish & Rice,47,100,4700,142,Sunday
+23-May-2021,Special Thali,20,160,3200,142,Sunday
+24-May-2021,Rice & Dal Thali,85,80,6800,143,Monday
+24-May-2021,Fish Curry Plate,46,120,5520,143,Monday
+24-May-2021,Vegetable Khichuri,45,70,3150,143,Monday
+24-May-2021,Dry Fish & Rice,48,100,4800,143,Monday
+24-May-2021,Special Thali,33,160,5280,143,Monday
+25-May-2021,Rice & Dal Thali,94,80,7520,144,Tuesday
+25-May-2021,Fish Curry Plate,49,120,5880,144,Tuesday
+25-May-2021,Vegetable Khichuri,31,70,2170,144,Tuesday
+25-May-2021,Dry Fish & Rice,46,100,4600,144,Tuesday
+25-May-2021,Special Thali,29,160,4640,144,Tuesday
+26-May-2021,Rice & Dal Thali,106,80,8480,145,Wednesday
+26-May-2021,Fish Curry Plate,40,120,4800,145,Wednesday
+26-May-2021,Vegetable Khichuri,28,70,1960,145,Wednesday
+26-May-2021,Dry Fish & Rice,41,100,4100,145,Wednesday
+26-May-2021,Special Thali,35,160,5600,145,Wednesday
+27-May-2021,Rice & Dal Thali,93,80,7440,146,Thursday
+27-May-2021,Fish Curry Plate,51,120,6120,146,Thursday
+27-May-2021,Vegetable Khichuri,43,70,3010,146,Thursday
+27-May-2021,Dry Fish & Rice,39,100,3900,146,Thursday
+27-May-2021,Special Thali,37,160,5920,146,Thursday
+28-May-2021,Rice & Dal Thali,104,80,8320,147,Friday
+28-May-2021,Fish Curry Plate,78,120,9360,147,Friday
+28-May-2021,Vegetable Khichuri,46,70,3220,147,Friday
+28-May-2021,Dry Fish & Rice,61,100,6100,147,Friday
+28-May-2021,Special Thali,42,160,6720,147,Friday
+29-May-2021,Rice & Dal Thali,66,80,5280,148,Saturday
+29-May-2021,Fish Curry Plate,64,120,7680,148,Saturday
+29-May-2021,Vegetable Khichuri,47,70,3290,148,Saturday
+29-May-2021,Dry Fish & Rice,55,100,5500,148,Saturday
+29-May-2021,Special Thali,43,160,6880,148,Saturday
+30-May-2021,Rice & Dal Thali,76,80,6080,149,Sunday
+30-May-2021,Fish Curry Plate,53,120,6360,149,Sunday
+30-May-2021,Vegetable Khichuri,35,70,2450,149,Sunday
+30-May-2021,Dry Fish & Rice,52,100,5200,149,Sunday
+30-May-2021,Special Thali,28,160,4480,149,Sunday
+31-May-2021,Rice & Dal Thali,89,80,7120,150,Monday
+31-May-2021,Fish Curry Plate,50,120,6000,150,Monday
+31-May-2021,Vegetable Khichuri,51,70,3570,150,Monday
+31-May-2021,Dry Fish & Rice,44,100,4400,150,Monday
+31-May-2021,Special Thali,36,160,5760,150,Monday
+01-Jun-2021,Rice & Dal Thali,100,80,8000,151,Tuesday
+01-Jun-2021,Fish Curry Plate,48,120,5760,151,Tuesday
+01-Jun-2021,Vegetable Khichuri,36,70,2520,151,Tuesday
+01-Jun-2021,Dry Fish & Rice,45,100,4500,151,Tuesday
+01-Jun-2021,Special Thali,30,160,4800,151,Tuesday
+02-Jun-2021,Rice & Dal Thali,102,80,8160,152,Wednesday
+02-Jun-2021,Fish Curry Plate,69,120,8280,152,Wednesday
+02-Jun-2021,Vegetable Khichuri,40,70,2800,152,Wednesday
+02-Jun-2021,Dry Fish & Rice,41,100,4100,152,Wednesday
+02-Jun-2021,Special Thali,18,160,2880,152,Wednesday
+03-Jun-2021,Rice & Dal Thali,70,80,5600,153,Thursday
+03-Jun-2021,Fish Curry Plate,42,120,5040,153,Thursday
+03-Jun-2021,Vegetable Khichuri,39,70,2730,153,Thursday
+03-Jun-2021,Dry Fish & Rice,46,100,4600,153,Thursday
+03-Jun-2021,Special Thali,23,160,3680,153,Thursday
+04-Jun-2021,Rice & Dal Thali,100,80,8000,154,Friday
+04-Jun-2021,Fish Curry Plate,62,120,7440,154,Friday
+04-Jun-2021,Vegetable Khichuri,62,70,4340,154,Friday
+04-Jun-2021,Dry Fish & Rice,68,100,6800,154,Friday
+04-Jun-2021,Special Thali,38,160,6080,154,Friday
+05-Jun-2021,Rice & Dal Thali,124,80,9920,155,Saturday
+05-Jun-2021,Fish Curry Plate,91,120,10920,155,Saturday
+05-Jun-2021,Vegetable Khichuri,58,70,4060,155,Saturday
+05-Jun-2021,Dry Fish & Rice,65,100,6500,155,Saturday
+05-Jun-2021,Special Thali,39,160,6240,155,Saturday
+06-Jun-2021,Rice & Dal Thali,54,80,4320,156,Sunday
+06-Jun-2021,Fish Curry Plate,48,120,5760,156,Sunday
+06-Jun-2021,Vegetable Khichuri,38,70,2660,156,Sunday
+06-Jun-2021,Dry Fish & Rice,41,100,4100,156,Sunday
+06-Jun-2021,Special Thali,31,160,4960,156,Sunday
+07-Jun-2021,Rice & Dal Thali,90,80,7200,157,Monday
+07-Jun-2021,Fish Curry Plate,56,120,6720,157,Monday
+07-Jun-2021,Vegetable Khichuri,53,70,3710,157,Monday
+07-Jun-2021,Dry Fish & Rice,62,100,6200,157,Monday
+07-Jun-2021,Special Thali,20,160,3200,157,Monday
+08-Jun-2021,Rice & Dal Thali,78,80,6240,158,Tuesday
+08-Jun-2021,Fish Curry Plate,49,120,5880,158,Tuesday
+08-Jun-2021,Vegetable Khichuri,29,70,2030,158,Tuesday
+08-Jun-2021,Dry Fish & Rice,33,100,3300,158,Tuesday
+08-Jun-2021,Special Thali,29,160,4640,158,Tuesday
+09-Jun-2021,Rice & Dal Thali,76,80,6080,159,Wednesday
+09-Jun-2021,Fish Curry Plate,64,120,7680,159,Wednesday
+09-Jun-2021,Vegetable Khichuri,58,70,4060,159,Wednesday
+09-Jun-2021,Dry Fish & Rice,47,100,4700,159,Wednesday
+09-Jun-2021,Special Thali,36,160,5760,159,Wednesday
+10-Jun-2021,Rice & Dal Thali,86,80,6880,160,Thursday
+10-Jun-2021,Fish Curry Plate,51,120,6120,160,Thursday
+10-Jun-2021,Vegetable Khichuri,40,70,2800,160,Thursday
+10-Jun-2021,Dry Fish & Rice,41,100,4100,160,Thursday
+10-Jun-2021,Special Thali,41,160,6560,160,Thursday
+11-Jun-2021,Rice & Dal Thali,132,80,10560,161,Friday
+11-Jun-2021,Fish Curry Plate,90,120,10800,161,Friday
+11-Jun-2021,Vegetable Khichuri,54,70,3780,161,Friday
+11-Jun-2021,Dry Fish & Rice,65,100,6500,161,Friday
+11-Jun-2021,Special Thali,47,160,7520,161,Friday
+12-Jun-2021,Rice & Dal Thali,87,80,6960,162,Saturday
+12-Jun-2021,Fish Curry Plate,70,120,8400,162,Saturday
+12-Jun-2021,Vegetable Khichuri,45,70,3150,162,Saturday
+12-Jun-2021,Dry Fish & Rice,38,100,3800,162,Saturday
+12-Jun-2021,Special Thali,49,160,7840,162,Saturday
+13-Jun-2021,Rice & Dal Thali,79,80,6320,163,Sunday
+13-Jun-2021,Fish Curry Plate,75,120,9000,163,Sunday
+13-Jun-2021,Vegetable Khichuri,47,70,3290,163,Sunday
+13-Jun-2021,Dry Fish & Rice,52,100,5200,163,Sunday
+13-Jun-2021,Special Thali,40,160,6400,163,Sunday
+14-Jun-2021,Rice & Dal Thali,104,80,8320,164,Monday
+14-Jun-2021,Fish Curry Plate,45,120,5400,164,Monday
+14-Jun-2021,Vegetable Khichuri,39,70,2730,164,Monday
+14-Jun-2021,Dry Fish & Rice,40,100,4000,164,Monday
+14-Jun-2021,Special Thali,29,160,4640,164,Monday
+15-Jun-2021,Rice & Dal Thali,98,80,7840,165,Tuesday
+15-Jun-2021,Fish Curry Plate,47,120,5640,165,Tuesday
+15-Jun-2021,Vegetable Khichuri,39,70,2730,165,Tuesday
+15-Jun-2021,Dry Fish & Rice,36,100,3600,165,Tuesday
+15-Jun-2021,Special Thali,33,160,5280,165,Tuesday
+16-Jun-2021,Rice & Dal Thali,84,80,6720,166,Wednesday
+16-Jun-2021,Fish Curry Plate,60,120,7200,166,Wednesday
+16-Jun-2021,Vegetable Khichuri,48,70,3360,166,Wednesday
+16-Jun-2021,Dry Fish & Rice,37,100,3700,166,Wednesday
+16-Jun-2021,Special Thali,31,160,4960,166,Wednesday
+17-Jun-2021,Rice & Dal Thali,80,80,6400,167,Thursday
+17-Jun-2021,Fish Curry Plate,55,120,6600,167,Thursday
+17-Jun-2021,Vegetable Khichuri,41,70,2870,167,Thursday
+17-Jun-2021,Dry Fish & Rice,40,100,4000,167,Thursday
+17-Jun-2021,Special Thali,29,160,4640,167,Thursday
+18-Jun-2021,Rice & Dal Thali,113,80,9040,168,Friday
+18-Jun-2021,Fish Curry Plate,91,120,10920,168,Friday
+18-Jun-2021,Vegetable Khichuri,67,70,4690,168,Friday
+18-Jun-2021,Dry Fish & Rice,64,100,6400,168,Friday
+18-Jun-2021,Special Thali,27,160,4320,168,Friday
+19-Jun-2021,Rice & Dal Thali,99,80,7920,169,Saturday
+19-Jun-2021,Fish Curry Plate,60,120,7200,169,Saturday
+19-Jun-2021,Vegetable Khichuri,54,70,3780,169,Saturday
+19-Jun-2021,Dry Fish & Rice,59,100,5900,169,Saturday
+19-Jun-2021,Special Thali,35,160,5600,169,Saturday
+20-Jun-2021,Rice & Dal Thali,84,80,6720,170,Sunday
+20-Jun-2021,Fish Curry Plate,53,120,6360,170,Sunday
+20-Jun-2021,Vegetable Khichuri,49,70,3430,170,Sunday
+20-Jun-2021,Dry Fish & Rice,54,100,5400,170,Sunday
+20-Jun-2021,Special Thali,28,160,4480,170,Sunday
+21-Jun-2021,Rice & Dal Thali,64,80,5120,171,Monday
+21-Jun-2021,Fish Curry Plate,58,120,6960,171,Monday
+21-Jun-2021,Vegetable Khichuri,29,70,2030,171,Monday
+21-Jun-2021,Dry Fish & Rice,54,100,5400,171,Monday
+21-Jun-2021,Special Thali,31,160,4960,171,Monday
+22-Jun-2021,Rice & Dal Thali,113,80,9040,172,Tuesday
+22-Jun-2021,Fish Curry Plate,41,120,4920,172,Tuesday
+22-Jun-2021,Vegetable Khichuri,46,70,3220,172,Tuesday
+22-Jun-2021,Dry Fish & Rice,32,100,3200,172,Tuesday
+22-Jun-2021,Special Thali,33,160,5280,172,Tuesday
+23-Jun-2021,Rice & Dal Thali,65,80,5200,173,Wednesday
+23-Jun-2021,Fish Curry Plate,49,120,5880,173,Wednesday
+23-Jun-2021,Vegetable Khichuri,35,70,2450,173,Wednesday
+23-Jun-2021,Dry Fish & Rice,53,100,5300,173,Wednesday
+23-Jun-2021,Special Thali,27,160,4320,173,Wednesday
+24-Jun-2021,Rice & Dal Thali,92,80,7360,174,Thursday
+24-Jun-2021,Fish Curry Plate,48,120,5760,174,Thursday
+24-Jun-2021,Vegetable Khichuri,43,70,3010,174,Thursday
+24-Jun-2021,Dry Fish & Rice,55,100,5500,174,Thursday
+24-Jun-2021,Special Thali,24,160,3840,174,Thursday
+25-Jun-2021,Rice & Dal Thali,104,80,8320,175,Friday
+25-Jun-2021,Fish Curry Plate,51,120,6120,175,Friday
+25-Jun-2021,Vegetable Khichuri,44,70,3080,175,Friday
+25-Jun-2021,Dry Fish & Rice,58,100,5800,175,Friday
+25-Jun-2021,Special Thali,44,160,7040,175,Friday
+26-Jun-2021,Rice & Dal Thali,95,80,7600,176,Saturday
+26-Jun-2021,Fish Curry Plate,49,120,5880,176,Saturday
+26-Jun-2021,Vegetable Khichuri,45,70,3150,176,Saturday
+26-Jun-2021,Dry Fish & Rice,57,100,5700,176,Saturday
+26-Jun-2021,Special Thali,39,160,6240,176,Saturday
+27-Jun-2021,Rice & Dal Thali,78,80,6240,177,Sunday
+27-Jun-2021,Fish Curry Plate,65,120,7800,177,Sunday
+27-Jun-2021,Vegetable Khichuri,29,70,2030,177,Sunday
+27-Jun-2021,Dry Fish & Rice,44,100,4400,177,Sunday
+27-Jun-2021,Special Thali,32,160,5120,177,Sunday
+28-Jun-2021,Rice & Dal Thali,103,80,8240,178,Monday
+28-Jun-2021,Fish Curry Plate,67,120,8040,178,Monday
+28-Jun-2021,Vegetable Khichuri,39,70,2730,178,Monday
+28-Jun-2021,Dry Fish & Rice,43,100,4300,178,Monday
+28-Jun-2021,Special Thali,35,160,5600,178,Monday
+29-Jun-2021,Rice & Dal Thali,81,80,6480,179,Tuesday
+29-Jun-2021,Fish Curry Plate,46,120,5520,179,Tuesday
+29-Jun-2021,Vegetable Khichuri,47,70,3290,179,Tuesday
+29-Jun-2021,Dry Fish & Rice,49,100,4900,179,Tuesday
+29-Jun-2021,Special Thali,26,160,4160,179,Tuesday
+30-Jun-2021,Rice & Dal Thali,67,80,5360,180,Wednesday
+30-Jun-2021,Fish Curry Plate,52,120,6240,180,Wednesday
+30-Jun-2021,Vegetable Khichuri,34,70,2380,180,Wednesday
+30-Jun-2021,Dry Fish & Rice,47,100,4700,180,Wednesday
+30-Jun-2021,Special Thali,37,160,5920,180,Wednesday
+01-Jul-2021,Rice & Dal Thali,71,80,5680,181,Thursday
+01-Jul-2021,Fish Curry Plate,57,120,6840,181,Thursday
+01-Jul-2021,Vegetable Khichuri,54,70,3780,181,Thursday
+01-Jul-2021,Dry Fish & Rice,32,100,3200,181,Thursday
+01-Jul-2021,Special Thali,25,160,4000,181,Thursday
+02-Jul-2021,Rice & Dal Thali,96,80,7680,182,Friday
+02-Jul-2021,Fish Curry Plate,60,120,7200,182,Friday
+02-Jul-2021,Vegetable Khichuri,61,70,4270,182,Friday
+02-Jul-2021,Dry Fish & Rice,67,100,6700,182,Friday
+02-Jul-2021,Special Thali,41,160,6560,182,Friday
+03-Jul-2021,Rice & Dal Thali,73,80,5840,183,Saturday
+03-Jul-2021,Fish Curry Plate,59,120,7080,183,Saturday
+03-Jul-2021,Vegetable Khichuri,50,70,3500,183,Saturday
+03-Jul-2021,Dry Fish & Rice,63,100,6300,183,Saturday
+03-Jul-2021,Special Thali,36,160,5760,183,Saturday
+04-Jul-2021,Rice & Dal Thali,98,80,7840,184,Sunday
+04-Jul-2021,Fish Curry Plate,43,120,5160,184,Sunday
+04-Jul-2021,Vegetable Khichuri,42,70,2940,184,Sunday
+04-Jul-2021,Dry Fish & Rice,34,100,3400,184,Sunday
+04-Jul-2021,Special Thali,28,160,4480,184,Sunday
+05-Jul-2021,Rice & Dal Thali,78,80,6240,185,Monday
+05-Jul-2021,Fish Curry Plate,46,120,5520,185,Monday
+05-Jul-2021,Vegetable Khichuri,35,70,2450,185,Monday
+05-Jul-2021,Dry Fish & Rice,47,100,4700,185,Monday
+05-Jul-2021,Special Thali,27,160,4320,185,Monday
+06-Jul-2021,Rice & Dal Thali,80,80,6400,186,Tuesday
+06-Jul-2021,Fish Curry Plate,60,120,7200,186,Tuesday
+06-Jul-2021,Vegetable Khichuri,45,70,3150,186,Tuesday
+06-Jul-2021,Dry Fish & Rice,54,100,5400,186,Tuesday
+06-Jul-2021,Special Thali,34,160,5440,186,Tuesday
+07-Jul-2021,Rice & Dal Thali,102,80,8160,187,Wednesday
+07-Jul-2021,Fish Curry Plate,40,120,4800,187,Wednesday
+07-Jul-2021,Vegetable Khichuri,41,70,2870,187,Wednesday
+07-Jul-2021,Dry Fish & Rice,55,100,5500,187,Wednesday
+07-Jul-2021,Special Thali,30,160,4800,187,Wednesday
+08-Jul-2021,Rice & Dal Thali,82,80,6560,188,Thursday
+08-Jul-2021,Fish Curry Plate,58,120,6960,188,Thursday
+08-Jul-2021,Vegetable Khichuri,39,70,2730,188,Thursday
+08-Jul-2021,Dry Fish & Rice,56,100,5600,188,Thursday
+08-Jul-2021,Special Thali,41,160,6560,188,Thursday
+09-Jul-2021,Rice & Dal Thali,81,80,6480,189,Friday
+09-Jul-2021,Fish Curry Plate,59,120,7080,189,Friday
+09-Jul-2021,Vegetable Khichuri,41,70,2870,189,Friday
+09-Jul-2021,Dry Fish & Rice,63,100,6300,189,Friday
+09-Jul-2021,Special Thali,44,160,7040,189,Friday
+10-Jul-2021,Rice & Dal Thali,56,80,4480,190,Saturday
+10-Jul-2021,Fish Curry Plate,50,120,6000,190,Saturday
+10-Jul-2021,Vegetable Khichuri,46,70,3220,190,Saturday
+10-Jul-2021,Dry Fish & Rice,50,100,5000,190,Saturday
+10-Jul-2021,Special Thali,32,160,5120,190,Saturday
+11-Jul-2021,Rice & Dal Thali,94,80,7520,191,Sunday
+11-Jul-2021,Fish Curry Plate,47,120,5640,191,Sunday
+11-Jul-2021,Vegetable Khichuri,43,70,3010,191,Sunday
+11-Jul-2021,Dry Fish & Rice,52,100,5200,191,Sunday
+11-Jul-2021,Special Thali,26,160,4160,191,Sunday
+12-Jul-2021,Rice & Dal Thali,79,80,6320,192,Monday
+12-Jul-2021,Fish Curry Plate,52,120,6240,192,Monday
+12-Jul-2021,Vegetable Khichuri,45,70,3150,192,Monday
+12-Jul-2021,Dry Fish & Rice,37,100,3700,192,Monday
+12-Jul-2021,Special Thali,31,160,4960,192,Monday
+13-Jul-2021,Rice & Dal Thali,88,80,7040,193,Tuesday
+13-Jul-2021,Fish Curry Plate,58,120,6960,193,Tuesday
+13-Jul-2021,Vegetable Khichuri,42,70,2940,193,Tuesday
+13-Jul-2021,Dry Fish & Rice,33,100,3300,193,Tuesday
+13-Jul-2021,Special Thali,31,160,4960,193,Tuesday
+14-Jul-2021,Rice & Dal Thali,70,80,5600,194,Wednesday
+14-Jul-2021,Fish Curry Plate,47,120,5640,194,Wednesday
+14-Jul-2021,Vegetable Khichuri,37,70,2590,194,Wednesday
+14-Jul-2021,Dry Fish & Rice,41,100,4100,194,Wednesday
+14-Jul-2021,Special Thali,26,160,4160,194,Wednesday
+15-Jul-2021,Rice & Dal Thali,105,80,8400,195,Thursday
+15-Jul-2021,Fish Curry Plate,47,120,5640,195,Thursday
+15-Jul-2021,Vegetable Khichuri,39,70,2730,195,Thursday
+15-Jul-2021,Dry Fish & Rice,41,100,4100,195,Thursday
+15-Jul-2021,Special Thali,30,160,4800,195,Thursday
+16-Jul-2021,Rice & Dal Thali,110,80,8800,196,Friday
+16-Jul-2021,Fish Curry Plate,58,120,6960,196,Friday
+16-Jul-2021,Vegetable Khichuri,60,70,4200,196,Friday
+16-Jul-2021,Dry Fish & Rice,62,100,6200,196,Friday
+16-Jul-2021,Special Thali,37,160,5920,196,Friday
+17-Jul-2021,Rice & Dal Thali,71,80,5680,197,Saturday
+17-Jul-2021,Fish Curry Plate,68,120,8160,197,Saturday
+17-Jul-2021,Vegetable Khichuri,41,70,2870,197,Saturday
+17-Jul-2021,Dry Fish & Rice,46,100,4600,197,Saturday
+17-Jul-2021,Special Thali,34,160,5440,197,Saturday
+18-Jul-2021,Rice & Dal Thali,85,80,6800,198,Sunday
+18-Jul-2021,Fish Curry Plate,42,120,5040,198,Sunday
+18-Jul-2021,Vegetable Khichuri,37,70,2590,198,Sunday
+18-Jul-2021,Dry Fish & Rice,56,100,5600,198,Sunday
+18-Jul-2021,Special Thali,22,160,3520,198,Sunday
+19-Jul-2021,Rice & Dal Thali,60,80,4800,199,Monday
+19-Jul-2021,Fish Curry Plate,47,120,5640,199,Monday
+19-Jul-2021,Vegetable Khichuri,45,70,3150,199,Monday
+19-Jul-2021,Dry Fish & Rice,46,100,4600,199,Monday
+19-Jul-2021,Special Thali,38,160,6080,199,Monday
+20-Jul-2021,Rice & Dal Thali,100,80,8000,200,Tuesday
+20-Jul-2021,Fish Curry Plate,45,120,5400,200,Tuesday
+20-Jul-2021,Vegetable Khichuri,27,70,1890,200,Tuesday
+20-Jul-2021,Dry Fish & Rice,36,100,3600,200,Tuesday
+20-Jul-2021,Special Thali,32,160,5120,200,Tuesday
+21-Jul-2021,Rice & Dal Thali,69,80,5520,201,Wednesday
+21-Jul-2021,Fish Curry Plate,39,120,4680,201,Wednesday
+21-Jul-2021,Vegetable Khichuri,42,70,2940,201,Wednesday
+21-Jul-2021,Dry Fish & Rice,36,100,3600,201,Wednesday
+21-Jul-2021,Special Thali,25,160,4000,201,Wednesday
+22-Jul-2021,Rice & Dal Thali,95,80,7600,202,Thursday
+22-Jul-2021,Fish Curry Plate,58,120,6960,202,Thursday
+22-Jul-2021,Vegetable Khichuri,35,70,2450,202,Thursday
+22-Jul-2021,Dry Fish & Rice,39,100,3900,202,Thursday
+22-Jul-2021,Special Thali,28,160,4480,202,Thursday
+23-Jul-2021,Rice & Dal Thali,81,80,6480,203,Friday
+23-Jul-2021,Fish Curry Plate,61,120,7320,203,Friday
+23-Jul-2021,Vegetable Khichuri,43,70,3010,203,Friday
+23-Jul-2021,Dry Fish & Rice,47,100,4700,203,Friday
+23-Jul-2021,Special Thali,30,160,4800,203,Friday
+24-Jul-2021,Rice & Dal Thali,79,80,6320,204,Saturday
+24-Jul-2021,Fish Curry Plate,74,120,8880,204,Saturday
+24-Jul-2021,Vegetable Khichuri,33,70,2310,204,Saturday
+24-Jul-2021,Dry Fish & Rice,53,100,5300,204,Saturday
+24-Jul-2021,Special Thali,34,160,5440,204,Saturday
+25-Jul-2021,Rice & Dal Thali,68,80,5440,205,Sunday
+25-Jul-2021,Fish Curry Plate,57,120,6840,205,Sunday
+25-Jul-2021,Vegetable Khichuri,38,70,2660,205,Sunday
+25-Jul-2021,Dry Fish & Rice,44,100,4400,205,Sunday
+25-Jul-2021,Special Thali,31,160,4960,205,Sunday
+26-Jul-2021,Rice & Dal Thali,89,80,7120,206,Monday
+26-Jul-2021,Fish Curry Plate,55,120,6600,206,Monday
+26-Jul-2021,Vegetable Khichuri,37,70,2590,206,Monday
+26-Jul-2021,Dry Fish & Rice,52,100,5200,206,Monday
+26-Jul-2021,Special Thali,28,160,4480,206,Monday
+27-Jul-2021,Rice & Dal Thali,78,80,6240,207,Tuesday
+27-Jul-2021,Fish Curry Plate,39,120,4680,207,Tuesday
+27-Jul-2021,Vegetable Khichuri,40,70,2800,207,Tuesday
+27-Jul-2021,Dry Fish & Rice,39,100,3900,207,Tuesday
+27-Jul-2021,Special Thali,31,160,4960,207,Tuesday
+28-Jul-2021,Rice & Dal Thali,83,80,6640,208,Wednesday
+28-Jul-2021,Fish Curry Plate,70,120,8400,208,Wednesday
+28-Jul-2021,Vegetable Khichuri,36,70,2520,208,Wednesday
+28-Jul-2021,Dry Fish & Rice,34,100,3400,208,Wednesday
+28-Jul-2021,Special Thali,30,160,4800,208,Wednesday
+29-Jul-2021,Rice & Dal Thali,65,80,5200,209,Thursday
+29-Jul-2021,Fish Curry Plate,55,120,6600,209,Thursday
+29-Jul-2021,Vegetable Khichuri,28,70,1960,209,Thursday
+29-Jul-2021,Dry Fish & Rice,36,100,3600,209,Thursday
+29-Jul-2021,Special Thali,36,160,5760,209,Thursday
+30-Jul-2021,Rice & Dal Thali,114,80,9120,210,Friday
+30-Jul-2021,Fish Curry Plate,62,120,7440,210,Friday
+30-Jul-2021,Vegetable Khichuri,42,70,2940,210,Friday
+30-Jul-2021,Dry Fish & Rice,63,100,6300,210,Friday
+30-Jul-2021,Special Thali,47,160,7520,210,Friday
+31-Jul-2021,Rice & Dal Thali,75,80,6000,211,Saturday
+31-Jul-2021,Fish Curry Plate,61,120,7320,211,Saturday
+31-Jul-2021,Vegetable Khichuri,62,70,4340,211,Saturday
+31-Jul-2021,Dry Fish & Rice,52,100,5200,211,Saturday
+31-Jul-2021,Special Thali,36,160,5760,211,Saturday
+01-Aug-2021,Rice & Dal Thali,86,80,6880,212,Sunday
+01-Aug-2021,Fish Curry Plate,40,120,4800,212,Sunday
+01-Aug-2021,Vegetable Khichuri,27,70,1890,212,Sunday
+01-Aug-2021,Dry Fish & Rice,41,100,4100,212,Sunday
+01-Aug-2021,Special Thali,36,160,5760,212,Sunday
+02-Aug-2021,Rice & Dal Thali,89,80,7120,213,Monday
+02-Aug-2021,Fish Curry Plate,53,120,6360,213,Monday
+02-Aug-2021,Vegetable Khichuri,36,70,2520,213,Monday
+02-Aug-2021,Dry Fish & Rice,46,100,4600,213,Monday
+02-Aug-2021,Special Thali,28,160,4480,213,Monday
+03-Aug-2021,Rice & Dal Thali,86,80,6880,214,Tuesday
+03-Aug-2021,Fish Curry Plate,42,120,5040,214,Tuesday
+03-Aug-2021,Vegetable Khichuri,57,70,3990,214,Tuesday
+03-Aug-2021,Dry Fish & Rice,47,100,4700,214,Tuesday
+03-Aug-2021,Special Thali,30,160,4800,214,Tuesday
+04-Aug-2021,Rice & Dal Thali,63,80,5040,215,Wednesday
+04-Aug-2021,Fish Curry Plate,36,120,4320,215,Wednesday
+04-Aug-2021,Vegetable Khichuri,28,70,1960,215,Wednesday
+04-Aug-2021,Dry Fish & Rice,47,100,4700,215,Wednesday
+04-Aug-2021,Special Thali,31,160,4960,215,Wednesday
+05-Aug-2021,Rice & Dal Thali,83,80,6640,216,Thursday
+05-Aug-2021,Fish Curry Plate,51,120,6120,216,Thursday
+05-Aug-2021,Vegetable Khichuri,44,70,3080,216,Thursday
+05-Aug-2021,Dry Fish & Rice,37,100,3700,216,Thursday
+05-Aug-2021,Special Thali,27,160,4320,216,Thursday
+06-Aug-2021,Rice & Dal Thali,92,80,7360,217,Friday
+06-Aug-2021,Fish Curry Plate,76,120,9120,217,Friday
+06-Aug-2021,Vegetable Khichuri,56,70,3920,217,Friday
+06-Aug-2021,Dry Fish & Rice,73,100,7300,217,Friday
+06-Aug-2021,Special Thali,28,160,4480,217,Friday
+07-Aug-2021,Rice & Dal Thali,80,80,6400,218,Saturday
+07-Aug-2021,Fish Curry Plate,56,120,6720,218,Saturday
+07-Aug-2021,Vegetable Khichuri,40,70,2800,218,Saturday
+07-Aug-2021,Dry Fish & Rice,51,100,5100,218,Saturday
+07-Aug-2021,Special Thali,43,160,6880,218,Saturday
+08-Aug-2021,Rice & Dal Thali,92,80,7360,219,Sunday
+08-Aug-2021,Fish Curry Plate,36,120,4320,219,Sunday
+08-Aug-2021,Vegetable Khichuri,41,70,2870,219,Sunday
+08-Aug-2021,Dry Fish & Rice,48,100,4800,219,Sunday
+08-Aug-2021,Special Thali,38,160,6080,219,Sunday
+09-Aug-2021,Rice & Dal Thali,71,80,5680,220,Monday
+09-Aug-2021,Fish Curry Plate,39,120,4680,220,Monday
+09-Aug-2021,Vegetable Khichuri,40,70,2800,220,Monday
+09-Aug-2021,Dry Fish & Rice,34,100,3400,220,Monday
+09-Aug-2021,Special Thali,21,160,3360,220,Monday
+10-Aug-2021,Rice & Dal Thali,76,80,6080,221,Tuesday
+10-Aug-2021,Fish Curry Plate,41,120,4920,221,Tuesday
+10-Aug-2021,Vegetable Khichuri,40,70,2800,221,Tuesday
+10-Aug-2021,Dry Fish & Rice,39,100,3900,221,Tuesday
+10-Aug-2021,Special Thali,22,160,3520,221,Tuesday
+11-Aug-2021,Rice & Dal Thali,92,80,7360,222,Wednesday
+11-Aug-2021,Fish Curry Plate,62,120,7440,222,Wednesday
+11-Aug-2021,Vegetable Khichuri,32,70,2240,222,Wednesday
+11-Aug-2021,Dry Fish & Rice,33,100,3300,222,Wednesday
+11-Aug-2021,Special Thali,28,160,4480,222,Wednesday
+12-Aug-2021,Rice & Dal Thali,62,80,4960,223,Thursday
+12-Aug-2021,Fish Curry Plate,53,120,6360,223,Thursday
+12-Aug-2021,Vegetable Khichuri,40,70,2800,223,Thursday
+12-Aug-2021,Dry Fish & Rice,46,100,4600,223,Thursday
+12-Aug-2021,Special Thali,23,160,3680,223,Thursday
+13-Aug-2021,Rice & Dal Thali,89,80,7120,224,Friday
+13-Aug-2021,Fish Curry Plate,52,120,6240,224,Friday
+13-Aug-2021,Vegetable Khichuri,63,70,4410,224,Friday
+13-Aug-2021,Dry Fish & Rice,45,100,4500,224,Friday
+13-Aug-2021,Special Thali,40,160,6400,224,Friday
+14-Aug-2021,Rice & Dal Thali,83,80,6640,225,Saturday
+14-Aug-2021,Fish Curry Plate,47,120,5640,225,Saturday
+14-Aug-2021,Vegetable Khichuri,45,70,3150,225,Saturday
+14-Aug-2021,Dry Fish & Rice,63,100,6300,225,Saturday
+14-Aug-2021,Special Thali,41,160,6560,225,Saturday
+15-Aug-2021,Rice & Dal Thali,76,80,6080,226,Sunday
+15-Aug-2021,Fish Curry Plate,24,120,2880,226,Sunday
+15-Aug-2021,Vegetable Khichuri,37,70,2590,226,Sunday
+15-Aug-2021,Dry Fish & Rice,36,100,3600,226,Sunday
+15-Aug-2021,Special Thali,26,160,4160,226,Sunday
+16-Aug-2021,Rice & Dal Thali,96,80,7680,227,Monday
+16-Aug-2021,Fish Curry Plate,43,120,5160,227,Monday
+16-Aug-2021,Vegetable Khichuri,36,70,2520,227,Monday
+16-Aug-2021,Dry Fish & Rice,38,100,3800,227,Monday
+16-Aug-2021,Special Thali,35,160,5600,227,Monday
+17-Aug-2021,Rice & Dal Thali,44,80,3520,228,Tuesday
+17-Aug-2021,Fish Curry Plate,57,120,6840,228,Tuesday
+17-Aug-2021,Vegetable Khichuri,47,70,3290,228,Tuesday
+17-Aug-2021,Dry Fish & Rice,47,100,4700,228,Tuesday
+17-Aug-2021,Special Thali,27,160,4320,228,Tuesday
+18-Aug-2021,Rice & Dal Thali,74,80,5920,229,Wednesday
+18-Aug-2021,Fish Curry Plate,59,120,7080,229,Wednesday
+18-Aug-2021,Vegetable Khichuri,39,70,2730,229,Wednesday
+18-Aug-2021,Dry Fish & Rice,46,100,4600,229,Wednesday
+18-Aug-2021,Special Thali,24,160,3840,229,Wednesday
+19-Aug-2021,Rice & Dal Thali,83,80,6640,230,Thursday
+19-Aug-2021,Fish Curry Plate,43,120,5160,230,Thursday
+19-Aug-2021,Vegetable Khichuri,19,70,1330,230,Thursday
+19-Aug-2021,Dry Fish & Rice,50,100,5000,230,Thursday
+19-Aug-2021,Special Thali,25,160,4000,230,Thursday
+20-Aug-2021,Rice & Dal Thali,113,80,9040,231,Friday
+20-Aug-2021,Fish Curry Plate,51,120,6120,231,Friday
+20-Aug-2021,Vegetable Khichuri,59,70,4130,231,Friday
+20-Aug-2021,Dry Fish & Rice,73,100,7300,231,Friday
+20-Aug-2021,Special Thali,34,160,5440,231,Friday
+21-Aug-2021,Rice & Dal Thali,102,80,8160,232,Saturday
+21-Aug-2021,Fish Curry Plate,41,120,4920,232,Saturday
+21-Aug-2021,Vegetable Khichuri,45,70,3150,232,Saturday
+21-Aug-2021,Dry Fish & Rice,58,100,5800,232,Saturday
+21-Aug-2021,Special Thali,44,160,7040,232,Saturday
+22-Aug-2021,Rice & Dal Thali,92,80,7360,233,Sunday
+22-Aug-2021,Fish Curry Plate,47,120,5640,233,Sunday
+22-Aug-2021,Vegetable Khichuri,44,70,3080,233,Sunday
+22-Aug-2021,Dry Fish & Rice,45,100,4500,233,Sunday
+22-Aug-2021,Special Thali,26,160,4160,233,Sunday
+23-Aug-2021,Rice & Dal Thali,60,80,4800,234,Monday
+23-Aug-2021,Fish Curry Plate,44,120,5280,234,Monday
+23-Aug-2021,Vegetable Khichuri,31,70,2170,234,Monday
+23-Aug-2021,Dry Fish & Rice,49,100,4900,234,Monday
+23-Aug-2021,Special Thali,27,160,4320,234,Monday
+24-Aug-2021,Rice & Dal Thali,82,80,6560,235,Tuesday
+24-Aug-2021,Fish Curry Plate,44,120,5280,235,Tuesday
+24-Aug-2021,Vegetable Khichuri,35,70,2450,235,Tuesday
+24-Aug-2021,Dry Fish & Rice,48,100,4800,235,Tuesday
+24-Aug-2021,Special Thali,21,160,3360,235,Tuesday
+25-Aug-2021,Rice & Dal Thali,91,80,7280,236,Wednesday
+25-Aug-2021,Fish Curry Plate,38,120,4560,236,Wednesday
+25-Aug-2021,Vegetable Khichuri,31,70,2170,236,Wednesday
+25-Aug-2021,Dry Fish & Rice,39,100,3900,236,Wednesday
+25-Aug-2021,Special Thali,36,160,5760,236,Wednesday
+26-Aug-2021,Rice & Dal Thali,90,80,7200,237,Thursday
+26-Aug-2021,Fish Curry Plate,62,120,7440,237,Thursday
+26-Aug-2021,Vegetable Khichuri,33,70,2310,237,Thursday
+26-Aug-2021,Dry Fish & Rice,32,100,3200,237,Thursday
+26-Aug-2021,Special Thali,34,160,5440,237,Thursday
+27-Aug-2021,Rice & Dal Thali,98,80,7840,238,Friday
+27-Aug-2021,Fish Curry Plate,57,120,6840,238,Friday
+27-Aug-2021,Vegetable Khichuri,45,70,3150,238,Friday
+27-Aug-2021,Dry Fish & Rice,59,100,5900,238,Friday
+27-Aug-2021,Special Thali,34,160,5440,238,Friday
+28-Aug-2021,Rice & Dal Thali,66,80,5280,239,Saturday
+28-Aug-2021,Fish Curry Plate,53,120,6360,239,Saturday
+28-Aug-2021,Vegetable Khichuri,34,70,2380,239,Saturday
+28-Aug-2021,Dry Fish & Rice,36,100,3600,239,Saturday
+28-Aug-2021,Special Thali,40,160,6400,239,Saturday
+29-Aug-2021,Rice & Dal Thali,57,80,4560,240,Sunday
+29-Aug-2021,Fish Curry Plate,36,120,4320,240,Sunday
+29-Aug-2021,Vegetable Khichuri,40,70,2800,240,Sunday
+29-Aug-2021,Dry Fish & Rice,57,100,5700,240,Sunday
+29-Aug-2021,Special Thali,31,160,4960,240,Sunday
+30-Aug-2021,Rice & Dal Thali,83,80,6640,241,Monday
+30-Aug-2021,Fish Curry Plate,46,120,5520,241,Monday
+30-Aug-2021,Vegetable Khichuri,34,70,2380,241,Monday
+30-Aug-2021,Dry Fish & Rice,35,100,3500,241,Monday
+30-Aug-2021,Special Thali,31,160,4960,241,Monday
+31-Aug-2021,Rice & Dal Thali,76,80,6080,242,Tuesday
+31-Aug-2021,Fish Curry Plate,46,120,5520,242,Tuesday
+31-Aug-2021,Vegetable Khichuri,34,70,2380,242,Tuesday
+31-Aug-2021,Dry Fish & Rice,46,100,4600,242,Tuesday
+31-Aug-2021,Special Thali,20,160,3200,242,Tuesday
+01-Sep-2021,Rice & Dal Thali,86,80,6880,243,Wednesday
+01-Sep-2021,Fish Curry Plate,51,120,6120,243,Wednesday
+01-Sep-2021,Vegetable Khichuri,35,70,2450,243,Wednesday
+01-Sep-2021,Dry Fish & Rice,50,100,5000,243,Wednesday
+01-Sep-2021,Special Thali,37,160,5920,243,Wednesday
+02-Sep-2021,Rice & Dal Thali,83,80,6640,244,Thursday
+02-Sep-2021,Fish Curry Plate,36,120,4320,244,Thursday
+02-Sep-2021,Vegetable Khichuri,40,70,2800,244,Thursday
+02-Sep-2021,Dry Fish & Rice,44,100,4400,244,Thursday
+02-Sep-2021,Special Thali,20,160,3200,244,Thursday
+03-Sep-2021,Rice & Dal Thali,102,80,8160,245,Friday
+03-Sep-2021,Fish Curry Plate,50,120,6000,245,Friday
+03-Sep-2021,Vegetable Khichuri,56,70,3920,245,Friday
+03-Sep-2021,Dry Fish & Rice,44,100,4400,245,Friday
+03-Sep-2021,Special Thali,36,160,5760,245,Friday
+04-Sep-2021,Rice & Dal Thali,88,80,7040,246,Saturday
+04-Sep-2021,Fish Curry Plate,56,120,6720,246,Saturday
+04-Sep-2021,Vegetable Khichuri,39,70,2730,246,Saturday
+04-Sep-2021,Dry Fish & Rice,42,100,4200,246,Saturday
+04-Sep-2021,Special Thali,32,160,5120,246,Saturday
+05-Sep-2021,Rice & Dal Thali,81,80,6480,247,Sunday
+05-Sep-2021,Fish Curry Plate,42,120,5040,247,Sunday
+05-Sep-2021,Vegetable Khichuri,29,70,2030,247,Sunday
+05-Sep-2021,Dry Fish & Rice,37,100,3700,247,Sunday
+05-Sep-2021,Special Thali,25,160,4000,247,Sunday
+06-Sep-2021,Rice & Dal Thali,72,80,5760,248,Monday
+06-Sep-2021,Fish Curry Plate,39,120,4680,248,Monday
+06-Sep-2021,Vegetable Khichuri,40,70,2800,248,Monday
+06-Sep-2021,Dry Fish & Rice,42,100,4200,248,Monday
+06-Sep-2021,Special Thali,33,160,5280,248,Monday
+07-Sep-2021,Rice & Dal Thali,59,80,4720,249,Tuesday
+07-Sep-2021,Fish Curry Plate,57,120,6840,249,Tuesday
+07-Sep-2021,Vegetable Khichuri,45,70,3150,249,Tuesday
+07-Sep-2021,Dry Fish & Rice,40,100,4000,249,Tuesday
+07-Sep-2021,Special Thali,33,160,5280,249,Tuesday
+08-Sep-2021,Rice & Dal Thali,67,80,5360,250,Wednesday
+08-Sep-2021,Fish Curry Plate,38,120,4560,250,Wednesday
+08-Sep-2021,Vegetable Khichuri,38,70,2660,250,Wednesday
+08-Sep-2021,Dry Fish & Rice,44,100,4400,250,Wednesday
+08-Sep-2021,Special Thali,29,160,4640,250,Wednesday
+09-Sep-2021,Rice & Dal Thali,78,80,6240,251,Thursday
+09-Sep-2021,Fish Curry Plate,31,120,3720,251,Thursday
+09-Sep-2021,Vegetable Khichuri,32,70,2240,251,Thursday
+09-Sep-2021,Dry Fish & Rice,32,100,3200,251,Thursday
+09-Sep-2021,Special Thali,24,160,3840,251,Thursday
+10-Sep-2021,Rice & Dal Thali,93,80,7440,252,Friday
+10-Sep-2021,Fish Curry Plate,55,120,6600,252,Friday
+10-Sep-2021,Vegetable Khichuri,69,70,4830,252,Friday
+10-Sep-2021,Dry Fish & Rice,57,100,5700,252,Friday
+10-Sep-2021,Special Thali,35,160,5600,252,Friday
+11-Sep-2021,Rice & Dal Thali,62,80,4960,253,Saturday
+11-Sep-2021,Fish Curry Plate,51,120,6120,253,Saturday
+11-Sep-2021,Vegetable Khichuri,46,70,3220,253,Saturday
+11-Sep-2021,Dry Fish & Rice,40,100,4000,253,Saturday
+11-Sep-2021,Special Thali,33,160,5280,253,Saturday
+12-Sep-2021,Rice & Dal Thali,72,80,5760,254,Sunday
+12-Sep-2021,Fish Curry Plate,42,120,5040,254,Sunday
+12-Sep-2021,Vegetable Khichuri,35,70,2450,254,Sunday
+12-Sep-2021,Dry Fish & Rice,41,100,4100,254,Sunday
+12-Sep-2021,Special Thali,29,160,4640,254,Sunday
+13-Sep-2021,Rice & Dal Thali,68,80,5440,255,Monday
+13-Sep-2021,Fish Curry Plate,33,120,3960,255,Monday
+13-Sep-2021,Vegetable Khichuri,42,70,2940,255,Monday
+13-Sep-2021,Dry Fish & Rice,48,100,4800,255,Monday
+13-Sep-2021,Special Thali,28,160,4480,255,Monday
+14-Sep-2021,Rice & Dal Thali,86,80,6880,256,Tuesday
+14-Sep-2021,Fish Curry Plate,38,120,4560,256,Tuesday
+14-Sep-2021,Vegetable Khichuri,33,70,2310,256,Tuesday
+14-Sep-2021,Dry Fish & Rice,50,100,5000,256,Tuesday
+14-Sep-2021,Special Thali,28,160,4480,256,Tuesday
+15-Sep-2021,Rice & Dal Thali,71,80,5680,257,Wednesday
+15-Sep-2021,Fish Curry Plate,60,120,7200,257,Wednesday
+15-Sep-2021,Vegetable Khichuri,43,70,3010,257,Wednesday
+15-Sep-2021,Dry Fish & Rice,34,100,3400,257,Wednesday
+15-Sep-2021,Special Thali,26,160,4160,257,Wednesday
+16-Sep-2021,Rice & Dal Thali,66,80,5280,258,Thursday
+16-Sep-2021,Fish Curry Plate,35,120,4200,258,Thursday
+16-Sep-2021,Vegetable Khichuri,35,70,2450,258,Thursday
+16-Sep-2021,Dry Fish & Rice,32,100,3200,258,Thursday
+16-Sep-2021,Special Thali,28,160,4480,258,Thursday
+17-Sep-2021,Rice & Dal Thali,91,80,7280,259,Friday
+17-Sep-2021,Fish Curry Plate,63,120,7560,259,Friday
+17-Sep-2021,Vegetable Khichuri,38,70,2660,259,Friday
+17-Sep-2021,Dry Fish & Rice,47,100,4700,259,Friday
+17-Sep-2021,Special Thali,31,160,4960,259,Friday
+18-Sep-2021,Rice & Dal Thali,51,80,4080,260,Saturday
+18-Sep-2021,Fish Curry Plate,55,120,6600,260,Saturday
+18-Sep-2021,Vegetable Khichuri,38,70,2660,260,Saturday
+18-Sep-2021,Dry Fish & Rice,63,100,6300,260,Saturday
+18-Sep-2021,Special Thali,35,160,5600,260,Saturday
+19-Sep-2021,Rice & Dal Thali,68,80,5440,261,Sunday
+19-Sep-2021,Fish Curry Plate,36,120,4320,261,Sunday
+19-Sep-2021,Vegetable Khichuri,32,70,2240,261,Sunday
+19-Sep-2021,Dry Fish & Rice,41,100,4100,261,Sunday
+19-Sep-2021,Special Thali,33,160,5280,261,Sunday
+20-Sep-2021,Rice & Dal Thali,62,80,4960,262,Monday
+20-Sep-2021,Fish Curry Plate,40,120,4800,262,Monday
+20-Sep-2021,Vegetable Khichuri,39,70,2730,262,Monday
+20-Sep-2021,Dry Fish & Rice,49,100,4900,262,Monday
+20-Sep-2021,Special Thali,21,160,3360,262,Monday
+21-Sep-2021,Rice & Dal Thali,86,80,6880,263,Tuesday
+21-Sep-2021,Fish Curry Plate,42,120,5040,263,Tuesday
+21-Sep-2021,Vegetable Khichuri,35,70,2450,263,Tuesday
+21-Sep-2021,Dry Fish & Rice,55,100,5500,263,Tuesday
+21-Sep-2021,Special Thali,23,160,3680,263,Tuesday
+22-Sep-2021,Rice & Dal Thali,68,80,5440,264,Wednesday
+22-Sep-2021,Fish Curry Plate,43,120,5160,264,Wednesday
+22-Sep-2021,Vegetable Khichuri,26,70,1820,264,Wednesday
+22-Sep-2021,Dry Fish & Rice,38,100,3800,264,Wednesday
+22-Sep-2021,Special Thali,29,160,4640,264,Wednesday
+23-Sep-2021,Rice & Dal Thali,58,80,4640,265,Thursday
+23-Sep-2021,Fish Curry Plate,47,120,5640,265,Thursday
+23-Sep-2021,Vegetable Khichuri,32,70,2240,265,Thursday
+23-Sep-2021,Dry Fish & Rice,35,100,3500,265,Thursday
+23-Sep-2021,Special Thali,29,160,4640,265,Thursday
+24-Sep-2021,Rice & Dal Thali,76,80,6080,266,Friday
+24-Sep-2021,Fish Curry Plate,57,120,6840,266,Friday
+24-Sep-2021,Vegetable Khichuri,55,70,3850,266,Friday
+24-Sep-2021,Dry Fish & Rice,32,100,3200,266,Friday
+24-Sep-2021,Special Thali,39,160,6240,266,Friday
+25-Sep-2021,Rice & Dal Thali,82,80,6560,267,Saturday
+25-Sep-2021,Fish Curry Plate,39,120,4680,267,Saturday
+25-Sep-2021,Vegetable Khichuri,46,70,3220,267,Saturday
+25-Sep-2021,Dry Fish & Rice,49,100,4900,267,Saturday
+25-Sep-2021,Special Thali,38,160,6080,267,Saturday
+26-Sep-2021,Rice & Dal Thali,53,80,4240,268,Sunday
+26-Sep-2021,Fish Curry Plate,35,120,4200,268,Sunday
+26-Sep-2021,Vegetable Khichuri,35,70,2450,268,Sunday
+26-Sep-2021,Dry Fish & Rice,39,100,3900,268,Sunday
+26-Sep-2021,Special Thali,29,160,4640,268,Sunday
+27-Sep-2021,Rice & Dal Thali,47,80,3760,269,Monday
+27-Sep-2021,Fish Curry Plate,51,120,6120,269,Monday
+27-Sep-2021,Vegetable Khichuri,36,70,2520,269,Monday
+27-Sep-2021,Dry Fish & Rice,39,100,3900,269,Monday
+27-Sep-2021,Special Thali,30,160,4800,269,Monday
+28-Sep-2021,Rice & Dal Thali,70,80,5600,270,Tuesday
+28-Sep-2021,Fish Curry Plate,62,120,7440,270,Tuesday
+28-Sep-2021,Vegetable Khichuri,34,70,2380,270,Tuesday
+28-Sep-2021,Dry Fish & Rice,42,100,4200,270,Tuesday
+28-Sep-2021,Special Thali,27,160,4320,270,Tuesday
+29-Sep-2021,Rice & Dal Thali,59,80,4720,271,Wednesday
+29-Sep-2021,Fish Curry Plate,55,120,6600,271,Wednesday
+29-Sep-2021,Vegetable Khichuri,35,70,2450,271,Wednesday
+29-Sep-2021,Dry Fish & Rice,32,100,3200,271,Wednesday
+29-Sep-2021,Special Thali,19,160,3040,271,Wednesday
+30-Sep-2021,Rice & Dal Thali,84,80,6720,272,Thursday
+30-Sep-2021,Fish Curry Plate,58,120,6960,272,Thursday
+30-Sep-2021,Vegetable Khichuri,40,70,2800,272,Thursday
+30-Sep-2021,Dry Fish & Rice,45,100,4500,272,Thursday
+30-Sep-2021,Special Thali,26,160,4160,272,Thursday
+01-Oct-2021,Rice & Dal Thali,76,80,6080,273,Friday
+01-Oct-2021,Fish Curry Plate,65,120,7800,273,Friday
+01-Oct-2021,Vegetable Khichuri,54,70,3780,273,Friday
+01-Oct-2021,Dry Fish & Rice,53,100,5300,273,Friday
+01-Oct-2021,Special Thali,38,160,6080,273,Friday
+02-Oct-2021,Rice & Dal Thali,59,80,4720,274,Saturday
+02-Oct-2021,Fish Curry Plate,50,120,6000,274,Saturday
+02-Oct-2021,Vegetable Khichuri,44,70,3080,274,Saturday
+02-Oct-2021,Dry Fish & Rice,58,100,5800,274,Saturday
+02-Oct-2021,Special Thali,27,160,4320,274,Saturday
+03-Oct-2021,Rice & Dal Thali,87,80,6960,275,Sunday
+03-Oct-2021,Fish Curry Plate,42,120,5040,275,Sunday
+03-Oct-2021,Vegetable Khichuri,45,70,3150,275,Sunday
+03-Oct-2021,Dry Fish & Rice,36,100,3600,275,Sunday
+03-Oct-2021,Special Thali,29,160,4640,275,Sunday
+04-Oct-2021,Rice & Dal Thali,67,80,5360,276,Monday
+04-Oct-2021,Fish Curry Plate,66,120,7920,276,Monday
+04-Oct-2021,Vegetable Khichuri,28,70,1960,276,Monday
+04-Oct-2021,Dry Fish & Rice,27,100,2700,276,Monday
+04-Oct-2021,Special Thali,26,160,4160,276,Monday
+05-Oct-2021,Rice & Dal Thali,76,80,6080,277,Tuesday
+05-Oct-2021,Fish Curry Plate,37,120,4440,277,Tuesday
+05-Oct-2021,Vegetable Khichuri,39,70,2730,277,Tuesday
+05-Oct-2021,Dry Fish & Rice,43,100,4300,277,Tuesday
+05-Oct-2021,Special Thali,28,160,4480,277,Tuesday
+06-Oct-2021,Rice & Dal Thali,61,80,4880,278,Wednesday
+06-Oct-2021,Fish Curry Plate,45,120,5400,278,Wednesday
+06-Oct-2021,Vegetable Khichuri,37,70,2590,278,Wednesday
+06-Oct-2021,Dry Fish & Rice,40,100,4000,278,Wednesday
+06-Oct-2021,Special Thali,21,160,3360,278,Wednesday
+07-Oct-2021,Rice & Dal Thali,86,80,6880,279,Thursday
+07-Oct-2021,Fish Curry Plate,41,120,4920,279,Thursday
+07-Oct-2021,Vegetable Khichuri,45,70,3150,279,Thursday
+07-Oct-2021,Dry Fish & Rice,61,100,6100,279,Thursday
+07-Oct-2021,Special Thali,20,160,3200,279,Thursday
+08-Oct-2021,Rice & Dal Thali,70,80,5600,280,Friday
+08-Oct-2021,Fish Curry Plate,49,120,5880,280,Friday
+08-Oct-2021,Vegetable Khichuri,53,70,3710,280,Friday
+08-Oct-2021,Dry Fish & Rice,53,100,5300,280,Friday
+08-Oct-2021,Special Thali,31,160,4960,280,Friday
+09-Oct-2021,Rice & Dal Thali,96,80,7680,281,Saturday
+09-Oct-2021,Fish Curry Plate,81,120,9720,281,Saturday
+09-Oct-2021,Vegetable Khichuri,47,70,3290,281,Saturday
+09-Oct-2021,Dry Fish & Rice,57,100,5700,281,Saturday
+09-Oct-2021,Special Thali,24,160,3840,281,Saturday
+10-Oct-2021,Rice & Dal Thali,44,80,3520,282,Sunday
+10-Oct-2021,Fish Curry Plate,51,120,6120,282,Sunday
+10-Oct-2021,Vegetable Khichuri,35,70,2450,282,Sunday
+10-Oct-2021,Dry Fish & Rice,55,100,5500,282,Sunday
+10-Oct-2021,Special Thali,28,160,4480,282,Sunday
+11-Oct-2021,Rice & Dal Thali,51,80,4080,283,Monday
+11-Oct-2021,Fish Curry Plate,42,120,5040,283,Monday
+11-Oct-2021,Vegetable Khichuri,20,70,1400,283,Monday
+11-Oct-2021,Dry Fish & Rice,40,100,4000,283,Monday
+11-Oct-2021,Special Thali,28,160,4480,283,Monday
+12-Oct-2021,Rice & Dal Thali,68,80,5440,284,Tuesday
+12-Oct-2021,Fish Curry Plate,54,120,6480,284,Tuesday
+12-Oct-2021,Vegetable Khichuri,36,70,2520,284,Tuesday
+12-Oct-2021,Dry Fish & Rice,34,100,3400,284,Tuesday
+12-Oct-2021,Special Thali,33,160,5280,284,Tuesday
+13-Oct-2021,Rice & Dal Thali,75,80,6000,285,Wednesday
+13-Oct-2021,Fish Curry Plate,45,120,5400,285,Wednesday
+13-Oct-2021,Vegetable Khichuri,23,70,1610,285,Wednesday
+13-Oct-2021,Dry Fish & Rice,46,100,4600,285,Wednesday
+13-Oct-2021,Special Thali,28,160,4480,285,Wednesday
+14-Oct-2021,Rice & Dal Thali,56,80,4480,286,Thursday
+14-Oct-2021,Fish Curry Plate,53,120,6360,286,Thursday
+14-Oct-2021,Vegetable Khichuri,35,70,2450,286,Thursday
+14-Oct-2021,Dry Fish & Rice,49,100,4900,286,Thursday
+14-Oct-2021,Special Thali,27,160,4320,286,Thursday
+15-Oct-2021,Rice & Dal Thali,106,80,8480,287,Friday
+15-Oct-2021,Fish Curry Plate,46,120,5520,287,Friday
+15-Oct-2021,Vegetable Khichuri,32,70,2240,287,Friday
+15-Oct-2021,Dry Fish & Rice,65,100,6500,287,Friday
+15-Oct-2021,Special Thali,24,160,3840,287,Friday
+16-Oct-2021,Rice & Dal Thali,95,80,7600,288,Saturday
+16-Oct-2021,Fish Curry Plate,51,120,6120,288,Saturday
+16-Oct-2021,Vegetable Khichuri,53,70,3710,288,Saturday
+16-Oct-2021,Dry Fish & Rice,51,100,5100,288,Saturday
+16-Oct-2021,Special Thali,36,160,5760,288,Saturday
+17-Oct-2021,Rice & Dal Thali,86,80,6880,289,Sunday
+17-Oct-2021,Fish Curry Plate,42,120,5040,289,Sunday
+17-Oct-2021,Vegetable Khichuri,40,70,2800,289,Sunday
+17-Oct-2021,Dry Fish & Rice,49,100,4900,289,Sunday
+17-Oct-2021,Special Thali,20,160,3200,289,Sunday
+18-Oct-2021,Rice & Dal Thali,58,80,4640,290,Monday
+18-Oct-2021,Fish Curry Plate,52,120,6240,290,Monday
+18-Oct-2021,Vegetable Khichuri,47,70,3290,290,Monday
+18-Oct-2021,Dry Fish & Rice,31,100,3100,290,Monday
+18-Oct-2021,Special Thali,24,160,3840,290,Monday
+19-Oct-2021,Rice & Dal Thali,56,80,4480,291,Tuesday
+19-Oct-2021,Fish Curry Plate,29,120,3480,291,Tuesday
+19-Oct-2021,Vegetable Khichuri,32,70,2240,291,Tuesday
+19-Oct-2021,Dry Fish & Rice,40,100,4000,291,Tuesday
+19-Oct-2021,Special Thali,24,160,3840,291,Tuesday
+20-Oct-2021,Rice & Dal Thali,89,80,7120,292,Wednesday
+20-Oct-2021,Fish Curry Plate,36,120,4320,292,Wednesday
+20-Oct-2021,Vegetable Khichuri,39,70,2730,292,Wednesday
+20-Oct-2021,Dry Fish & Rice,39,100,3900,292,Wednesday
+20-Oct-2021,Special Thali,28,160,4480,292,Wednesday
+21-Oct-2021,Rice & Dal Thali,83,80,6640,293,Thursday
+21-Oct-2021,Fish Curry Plate,42,120,5040,293,Thursday
+21-Oct-2021,Vegetable Khichuri,40,70,2800,293,Thursday
+21-Oct-2021,Dry Fish & Rice,52,100,5200,293,Thursday
+21-Oct-2021,Special Thali,31,160,4960,293,Thursday
+22-Oct-2021,Rice & Dal Thali,89,80,7120,294,Friday
+22-Oct-2021,Fish Curry Plate,50,120,6000,294,Friday
+22-Oct-2021,Vegetable Khichuri,44,70,3080,294,Friday
+22-Oct-2021,Dry Fish & Rice,66,100,6600,294,Friday
+22-Oct-2021,Special Thali,36,160,5760,294,Friday
+23-Oct-2021,Rice & Dal Thali,85,80,6800,295,Saturday
+23-Oct-2021,Fish Curry Plate,57,120,6840,295,Saturday
+23-Oct-2021,Vegetable Khichuri,48,70,3360,295,Saturday
+23-Oct-2021,Dry Fish & Rice,37,100,3700,295,Saturday
+23-Oct-2021,Special Thali,39,160,6240,295,Saturday
+24-Oct-2021,Rice & Dal Thali,92,80,7360,296,Sunday
+24-Oct-2021,Fish Curry Plate,43,120,5160,296,Sunday
+24-Oct-2021,Vegetable Khichuri,33,70,2310,296,Sunday
+24-Oct-2021,Dry Fish & Rice,46,100,4600,296,Sunday
+24-Oct-2021,Special Thali,25,160,4000,296,Sunday
+25-Oct-2021,Rice & Dal Thali,82,80,6560,297,Monday
+25-Oct-2021,Fish Curry Plate,52,120,6240,297,Monday
+25-Oct-2021,Vegetable Khichuri,37,70,2590,297,Monday
+25-Oct-2021,Dry Fish & Rice,44,100,4400,297,Monday
+25-Oct-2021,Special Thali,35,160,5600,297,Monday
+26-Oct-2021,Rice & Dal Thali,100,80,8000,298,Tuesday
+26-Oct-2021,Fish Curry Plate,53,120,6360,298,Tuesday
+26-Oct-2021,Vegetable Khichuri,20,70,1400,298,Tuesday
+26-Oct-2021,Dry Fish & Rice,45,100,4500,298,Tuesday
+26-Oct-2021,Special Thali,19,160,3040,298,Tuesday
+27-Oct-2021,Rice & Dal Thali,81,80,6480,299,Wednesday
+27-Oct-2021,Fish Curry Plate,54,120,6480,299,Wednesday
+27-Oct-2021,Vegetable Khichuri,48,70,3360,299,Wednesday
+27-Oct-2021,Dry Fish & Rice,47,100,4700,299,Wednesday
+27-Oct-2021,Special Thali,24,160,3840,299,Wednesday
+28-Oct-2021,Rice & Dal Thali,79,80,6320,300,Thursday
+28-Oct-2021,Fish Curry Plate,41,120,4920,300,Thursday
+28-Oct-2021,Vegetable Khichuri,30,70,2100,300,Thursday
+28-Oct-2021,Dry Fish & Rice,35,100,3500,300,Thursday
+28-Oct-2021,Special Thali,24,160,3840,300,Thursday
+29-Oct-2021,Rice & Dal Thali,108,80,8640,301,Friday
+29-Oct-2021,Fish Curry Plate,57,120,6840,301,Friday
+29-Oct-2021,Vegetable Khichuri,41,70,2870,301,Friday
+29-Oct-2021,Dry Fish & Rice,52,100,5200,301,Friday
+29-Oct-2021,Special Thali,39,160,6240,301,Friday
+30-Oct-2021,Rice & Dal Thali,67,80,5360,302,Saturday
+30-Oct-2021,Fish Curry Plate,42,120,5040,302,Saturday
+30-Oct-2021,Vegetable Khichuri,30,70,2100,302,Saturday
+30-Oct-2021,Dry Fish & Rice,45,100,4500,302,Saturday
+30-Oct-2021,Special Thali,30,160,4800,302,Saturday
+31-Oct-2021,Rice & Dal Thali,67,80,5360,303,Sunday
+31-Oct-2021,Fish Curry Plate,54,120,6480,303,Sunday
+31-Oct-2021,Vegetable Khichuri,24,70,1680,303,Sunday
+31-Oct-2021,Dry Fish & Rice,29,100,2900,303,Sunday
+31-Oct-2021,Special Thali,36,160,5760,303,Sunday
+01-Nov-2021,Rice & Dal Thali,75,80,6000,304,Monday
+01-Nov-2021,Fish Curry Plate,44,120,5280,304,Monday
+01-Nov-2021,Vegetable Khichuri,45,70,3150,304,Monday
+01-Nov-2021,Dry Fish & Rice,33,100,3300,304,Monday
+01-Nov-2021,Special Thali,25,160,4000,304,Monday
+02-Nov-2021,Rice & Dal Thali,73,80,5840,305,Tuesday
+02-Nov-2021,Fish Curry Plate,60,120,7200,305,Tuesday
+02-Nov-2021,Vegetable Khichuri,29,70,2030,305,Tuesday
+02-Nov-2021,Dry Fish & Rice,50,100,5000,305,Tuesday
+02-Nov-2021,Special Thali,21,160,3360,305,Tuesday
+03-Nov-2021,Rice & Dal Thali,83,80,6640,306,Wednesday
+03-Nov-2021,Fish Curry Plate,61,120,7320,306,Wednesday
+03-Nov-2021,Vegetable Khichuri,37,70,2590,306,Wednesday
+03-Nov-2021,Dry Fish & Rice,37,100,3700,306,Wednesday
+03-Nov-2021,Special Thali,31,160,4960,306,Wednesday
+04-Nov-2021,Rice & Dal Thali,85,80,6800,307,Thursday
+04-Nov-2021,Fish Curry Plate,48,120,5760,307,Thursday
+04-Nov-2021,Vegetable Khichuri,37,70,2590,307,Thursday
+04-Nov-2021,Dry Fish & Rice,38,100,3800,307,Thursday
+04-Nov-2021,Special Thali,32,160,5120,307,Thursday
+05-Nov-2021,Rice & Dal Thali,110,80,8800,308,Friday
+05-Nov-2021,Fish Curry Plate,67,120,8040,308,Friday
+05-Nov-2021,Vegetable Khichuri,59,70,4130,308,Friday
+05-Nov-2021,Dry Fish & Rice,65,100,6500,308,Friday
+05-Nov-2021,Special Thali,36,160,5760,308,Friday
+06-Nov-2021,Rice & Dal Thali,86,80,6880,309,Saturday
+06-Nov-2021,Fish Curry Plate,59,120,7080,309,Saturday
+06-Nov-2021,Vegetable Khichuri,51,70,3570,309,Saturday
+06-Nov-2021,Dry Fish & Rice,47,100,4700,309,Saturday
+06-Nov-2021,Special Thali,37,160,5920,309,Saturday
+07-Nov-2021,Rice & Dal Thali,63,80,5040,310,Sunday
+07-Nov-2021,Fish Curry Plate,55,120,6600,310,Sunday
+07-Nov-2021,Vegetable Khichuri,35,70,2450,310,Sunday
+07-Nov-2021,Dry Fish & Rice,34,100,3400,310,Sunday
+07-Nov-2021,Special Thali,26,160,4160,310,Sunday
+08-Nov-2021,Rice & Dal Thali,91,80,7280,311,Monday
+08-Nov-2021,Fish Curry Plate,38,120,4560,311,Monday
+08-Nov-2021,Vegetable Khichuri,31,70,2170,311,Monday
+08-Nov-2021,Dry Fish & Rice,44,100,4400,311,Monday
+08-Nov-2021,Special Thali,27,160,4320,311,Monday
+09-Nov-2021,Rice & Dal Thali,57,80,4560,312,Tuesday
+09-Nov-2021,Fish Curry Plate,46,120,5520,312,Tuesday
+09-Nov-2021,Vegetable Khichuri,38,70,2660,312,Tuesday
+09-Nov-2021,Dry Fish & Rice,34,100,3400,312,Tuesday
+09-Nov-2021,Special Thali,30,160,4800,312,Tuesday
+10-Nov-2021,Rice & Dal Thali,107,80,8560,313,Wednesday
+10-Nov-2021,Fish Curry Plate,67,120,8040,313,Wednesday
+10-Nov-2021,Vegetable Khichuri,30,70,2100,313,Wednesday
+10-Nov-2021,Dry Fish & Rice,43,100,4300,313,Wednesday
+10-Nov-2021,Special Thali,19,160,3040,313,Wednesday
+11-Nov-2021,Rice & Dal Thali,55,80,4400,314,Thursday
+11-Nov-2021,Fish Curry Plate,46,120,5520,314,Thursday
+11-Nov-2021,Vegetable Khichuri,36,70,2520,314,Thursday
+11-Nov-2021,Dry Fish & Rice,50,100,5000,314,Thursday
+11-Nov-2021,Special Thali,37,160,5920,314,Thursday
+12-Nov-2021,Rice & Dal Thali,124,80,9920,315,Friday
+12-Nov-2021,Fish Curry Plate,59,120,7080,315,Friday
+12-Nov-2021,Vegetable Khichuri,51,70,3570,315,Friday
+12-Nov-2021,Dry Fish & Rice,60,100,6000,315,Friday
+12-Nov-2021,Special Thali,42,160,6720,315,Friday
+13-Nov-2021,Rice & Dal Thali,86,80,6880,316,Saturday
+13-Nov-2021,Fish Curry Plate,59,120,7080,316,Saturday
+13-Nov-2021,Vegetable Khichuri,55,70,3850,316,Saturday
+13-Nov-2021,Dry Fish & Rice,63,100,6300,316,Saturday
+13-Nov-2021,Special Thali,23,160,3680,316,Saturday
+14-Nov-2021,Rice & Dal Thali,48,80,3840,317,Sunday
+14-Nov-2021,Fish Curry Plate,48,120,5760,317,Sunday
+14-Nov-2021,Vegetable Khichuri,32,70,2240,317,Sunday
+14-Nov-2021,Dry Fish & Rice,42,100,4200,317,Sunday
+14-Nov-2021,Special Thali,24,160,3840,317,Sunday
+15-Nov-2021,Rice & Dal Thali,68,80,5440,318,Monday
+15-Nov-2021,Fish Curry Plate,34,120,4080,318,Monday
+15-Nov-2021,Vegetable Khichuri,47,70,3290,318,Monday
+15-Nov-2021,Dry Fish & Rice,52,100,5200,318,Monday
+15-Nov-2021,Special Thali,30,160,4800,318,Monday
+16-Nov-2021,Rice & Dal Thali,77,80,6160,319,Tuesday
+16-Nov-2021,Fish Curry Plate,37,120,4440,319,Tuesday
+16-Nov-2021,Vegetable Khichuri,41,70,2870,319,Tuesday
+16-Nov-2021,Dry Fish & Rice,39,100,3900,319,Tuesday
+16-Nov-2021,Special Thali,27,160,4320,319,Tuesday
+17-Nov-2021,Rice & Dal Thali,58,80,4640,320,Wednesday
+17-Nov-2021,Fish Curry Plate,45,120,5400,320,Wednesday
+17-Nov-2021,Vegetable Khichuri,44,70,3080,320,Wednesday
+17-Nov-2021,Dry Fish & Rice,47,100,4700,320,Wednesday
+17-Nov-2021,Special Thali,35,160,5600,320,Wednesday
+18-Nov-2021,Rice & Dal Thali,75,80,6000,321,Thursday
+18-Nov-2021,Fish Curry Plate,55,120,6600,321,Thursday
+18-Nov-2021,Vegetable Khichuri,40,70,2800,321,Thursday
+18-Nov-2021,Dry Fish & Rice,48,100,4800,321,Thursday
+18-Nov-2021,Special Thali,26,160,4160,321,Thursday
+19-Nov-2021,Rice & Dal Thali,123,80,9840,322,Friday
+19-Nov-2021,Fish Curry Plate,72,120,8640,322,Friday
+19-Nov-2021,Vegetable Khichuri,55,70,3850,322,Friday
+19-Nov-2021,Dry Fish & Rice,71,100,7100,322,Friday
+19-Nov-2021,Special Thali,38,160,6080,322,Friday
+20-Nov-2021,Rice & Dal Thali,112,80,8960,323,Saturday
+20-Nov-2021,Fish Curry Plate,65,120,7800,323,Saturday
+20-Nov-2021,Vegetable Khichuri,37,70,2590,323,Saturday
+20-Nov-2021,Dry Fish & Rice,47,100,4700,323,Saturday
+20-Nov-2021,Special Thali,34,160,5440,323,Saturday
+21-Nov-2021,Rice & Dal Thali,98,80,7840,324,Sunday
+21-Nov-2021,Fish Curry Plate,50,120,6000,324,Sunday
+21-Nov-2021,Vegetable Khichuri,39,70,2730,324,Sunday
+21-Nov-2021,Dry Fish & Rice,52,100,5200,324,Sunday
+21-Nov-2021,Special Thali,31,160,4960,324,Sunday
+22-Nov-2021,Rice & Dal Thali,95,80,7600,325,Monday
+22-Nov-2021,Fish Curry Plate,56,120,6720,325,Monday
+22-Nov-2021,Vegetable Khichuri,44,70,3080,325,Monday
+22-Nov-2021,Dry Fish & Rice,42,100,4200,325,Monday
+22-Nov-2021,Special Thali,22,160,3520,325,Monday
+23-Nov-2021,Rice & Dal Thali,76,80,6080,326,Tuesday
+23-Nov-2021,Fish Curry Plate,47,120,5640,326,Tuesday
+23-Nov-2021,Vegetable Khichuri,42,70,2940,326,Tuesday
+23-Nov-2021,Dry Fish & Rice,53,100,5300,326,Tuesday
+23-Nov-2021,Special Thali,30,160,4800,326,Tuesday
+24-Nov-2021,Rice & Dal Thali,81,80,6480,327,Wednesday
+24-Nov-2021,Fish Curry Plate,62,120,7440,327,Wednesday
+24-Nov-2021,Vegetable Khichuri,39,70,2730,327,Wednesday
+24-Nov-2021,Dry Fish & Rice,38,100,3800,327,Wednesday
+24-Nov-2021,Special Thali,33,160,5280,327,Wednesday
+25-Nov-2021,Rice & Dal Thali,66,80,5280,328,Thursday
+25-Nov-2021,Fish Curry Plate,50,120,6000,328,Thursday
+25-Nov-2021,Vegetable Khichuri,34,70,2380,328,Thursday
+25-Nov-2021,Dry Fish & Rice,53,100,5300,328,Thursday
+25-Nov-2021,Special Thali,34,160,5440,328,Thursday
+26-Nov-2021,Rice & Dal Thali,94,80,7520,329,Friday
+26-Nov-2021,Fish Curry Plate,54,120,6480,329,Friday
+26-Nov-2021,Vegetable Khichuri,39,70,2730,329,Friday
+26-Nov-2021,Dry Fish & Rice,46,100,4600,329,Friday
+26-Nov-2021,Special Thali,38,160,6080,329,Friday
+27-Nov-2021,Rice & Dal Thali,71,80,5680,330,Saturday
+27-Nov-2021,Fish Curry Plate,49,120,5880,330,Saturday
+27-Nov-2021,Vegetable Khichuri,36,70,2520,330,Saturday
+27-Nov-2021,Dry Fish & Rice,59,100,5900,330,Saturday
+27-Nov-2021,Special Thali,25,160,4000,330,Saturday
+28-Nov-2021,Rice & Dal Thali,112,80,8960,331,Sunday
+28-Nov-2021,Fish Curry Plate,47,120,5640,331,Sunday
+28-Nov-2021,Vegetable Khichuri,26,70,1820,331,Sunday
+28-Nov-2021,Dry Fish & Rice,43,100,4300,331,Sunday
+28-Nov-2021,Special Thali,26,160,4160,331,Sunday
+29-Nov-2021,Rice & Dal Thali,53,80,4240,332,Monday
+29-Nov-2021,Fish Curry Plate,36,120,4320,332,Monday
+29-Nov-2021,Vegetable Khichuri,53,70,3710,332,Monday
+29-Nov-2021,Dry Fish & Rice,36,100,3600,332,Monday
+29-Nov-2021,Special Thali,26,160,4160,332,Monday
+30-Nov-2021,Rice & Dal Thali,84,80,6720,333,Tuesday
+30-Nov-2021,Fish Curry Plate,36,120,4320,333,Tuesday
+30-Nov-2021,Vegetable Khichuri,39,70,2730,333,Tuesday
+30-Nov-2021,Dry Fish & Rice,36,100,3600,333,Tuesday
+30-Nov-2021,Special Thali,26,160,4160,333,Tuesday
+01-Dec-2021,Rice & Dal Thali,56,80,4480,334,Wednesday
+01-Dec-2021,Fish Curry Plate,51,120,6120,334,Wednesday
+01-Dec-2021,Vegetable Khichuri,41,70,2870,334,Wednesday
+01-Dec-2021,Dry Fish & Rice,47,100,4700,334,Wednesday
+01-Dec-2021,Special Thali,25,160,4000,334,Wednesday
+02-Dec-2021,Rice & Dal Thali,77,80,6160,335,Thursday
+02-Dec-2021,Fish Curry Plate,52,120,6240,335,Thursday
+02-Dec-2021,Vegetable Khichuri,32,70,2240,335,Thursday
+02-Dec-2021,Dry Fish & Rice,39,100,3900,335,Thursday
+02-Dec-2021,Special Thali,27,160,4320,335,Thursday
+03-Dec-2021,Rice & Dal Thali,146,80,11680,336,Friday
+03-Dec-2021,Fish Curry Plate,68,120,8160,336,Friday
+03-Dec-2021,Vegetable Khichuri,29,70,2030,336,Friday
+03-Dec-2021,Dry Fish & Rice,44,100,4400,336,Friday
+03-Dec-2021,Special Thali,31,160,4960,336,Friday
+04-Dec-2021,Rice & Dal Thali,103,80,8240,337,Saturday
+04-Dec-2021,Fish Curry Plate,68,120,8160,337,Saturday
+04-Dec-2021,Vegetable Khichuri,40,70,2800,337,Saturday
+04-Dec-2021,Dry Fish & Rice,52,100,5200,337,Saturday
+04-Dec-2021,Special Thali,34,160,5440,337,Saturday
+05-Dec-2021,Rice & Dal Thali,98,80,7840,338,Sunday
+05-Dec-2021,Fish Curry Plate,60,120,7200,338,Sunday
+05-Dec-2021,Vegetable Khichuri,36,70,2520,338,Sunday
+05-Dec-2021,Dry Fish & Rice,47,100,4700,338,Sunday
+05-Dec-2021,Special Thali,29,160,4640,338,Sunday
+06-Dec-2021,Rice & Dal Thali,95,80,7600,339,Monday
+06-Dec-2021,Fish Curry Plate,46,120,5520,339,Monday
+06-Dec-2021,Vegetable Khichuri,34,70,2380,339,Monday
+06-Dec-2021,Dry Fish & Rice,37,100,3700,339,Monday
+06-Dec-2021,Special Thali,22,160,3520,339,Monday
+07-Dec-2021,Rice & Dal Thali,79,80,6320,340,Tuesday
+07-Dec-2021,Fish Curry Plate,39,120,4680,340,Tuesday
+07-Dec-2021,Vegetable Khichuri,36,70,2520,340,Tuesday
+07-Dec-2021,Dry Fish & Rice,51,100,5100,340,Tuesday
+07-Dec-2021,Special Thali,26,160,4160,340,Tuesday
+08-Dec-2021,Rice & Dal Thali,72,80,5760,341,Wednesday
+08-Dec-2021,Fish Curry Plate,48,120,5760,341,Wednesday
+08-Dec-2021,Vegetable Khichuri,33,70,2310,341,Wednesday
+08-Dec-2021,Dry Fish & Rice,54,100,5400,341,Wednesday
+08-Dec-2021,Special Thali,22,160,3520,341,Wednesday
+09-Dec-2021,Rice & Dal Thali,106,80,8480,342,Thursday
+09-Dec-2021,Fish Curry Plate,51,120,6120,342,Thursday
+09-Dec-2021,Vegetable Khichuri,38,70,2660,342,Thursday
+09-Dec-2021,Dry Fish & Rice,59,100,5900,342,Thursday
+09-Dec-2021,Special Thali,28,160,4480,342,Thursday
+10-Dec-2021,Rice & Dal Thali,86,80,6880,343,Friday
+10-Dec-2021,Fish Curry Plate,71,120,8520,343,Friday
+10-Dec-2021,Vegetable Khichuri,65,70,4550,343,Friday
+10-Dec-2021,Dry Fish & Rice,62,100,6200,343,Friday
+10-Dec-2021,Special Thali,46,160,7360,343,Friday
+11-Dec-2021,Rice & Dal Thali,108,80,8640,344,Saturday
+11-Dec-2021,Fish Curry Plate,49,120,5880,344,Saturday
+11-Dec-2021,Vegetable Khichuri,53,70,3710,344,Saturday
+11-Dec-2021,Dry Fish & Rice,44,100,4400,344,Saturday
+11-Dec-2021,Special Thali,28,160,4480,344,Saturday
+12-Dec-2021,Rice & Dal Thali,87,80,6960,345,Sunday
+12-Dec-2021,Fish Curry Plate,59,120,7080,345,Sunday
+12-Dec-2021,Vegetable Khichuri,37,70,2590,345,Sunday
+12-Dec-2021,Dry Fish & Rice,55,100,5500,345,Sunday
+12-Dec-2021,Special Thali,33,160,5280,345,Sunday
+13-Dec-2021,Rice & Dal Thali,91,80,7280,346,Monday
+13-Dec-2021,Fish Curry Plate,42,120,5040,346,Monday
+13-Dec-2021,Vegetable Khichuri,41,70,2870,346,Monday
+13-Dec-2021,Dry Fish & Rice,46,100,4600,346,Monday
+13-Dec-2021,Special Thali,26,160,4160,346,Monday
+14-Dec-2021,Rice & Dal Thali,64,80,5120,347,Tuesday
+14-Dec-2021,Fish Curry Plate,36,120,4320,347,Tuesday
+14-Dec-2021,Vegetable Khichuri,38,70,2660,347,Tuesday
+14-Dec-2021,Dry Fish & Rice,49,100,4900,347,Tuesday
+14-Dec-2021,Special Thali,38,160,6080,347,Tuesday
+15-Dec-2021,Rice & Dal Thali,85,80,6800,348,Wednesday
+15-Dec-2021,Fish Curry Plate,58,120,6960,348,Wednesday
+15-Dec-2021,Vegetable Khichuri,50,70,3500,348,Wednesday
+15-Dec-2021,Dry Fish & Rice,53,100,5300,348,Wednesday
+15-Dec-2021,Special Thali,28,160,4480,348,Wednesday
+16-Dec-2021,Rice & Dal Thali,84,80,6720,349,Thursday
+16-Dec-2021,Fish Curry Plate,44,120,5280,349,Thursday
+16-Dec-2021,Vegetable Khichuri,34,70,2380,349,Thursday
+16-Dec-2021,Dry Fish & Rice,26,100,2600,349,Thursday
+16-Dec-2021,Special Thali,30,160,4800,349,Thursday
+17-Dec-2021,Rice & Dal Thali,109,80,8720,350,Friday
+17-Dec-2021,Fish Curry Plate,71,120,8520,350,Friday
+17-Dec-2021,Vegetable Khichuri,56,70,3920,350,Friday
+17-Dec-2021,Dry Fish & Rice,45,100,4500,350,Friday
+17-Dec-2021,Special Thali,35,160,5600,350,Friday
+18-Dec-2021,Rice & Dal Thali,94,80,7520,351,Saturday
+18-Dec-2021,Fish Curry Plate,62,120,7440,351,Saturday
+18-Dec-2021,Vegetable Khichuri,46,70,3220,351,Saturday
+18-Dec-2021,Dry Fish & Rice,48,100,4800,351,Saturday
+18-Dec-2021,Special Thali,36,160,5760,351,Saturday
+19-Dec-2021,Rice & Dal Thali,79,80,6320,352,Sunday
+19-Dec-2021,Fish Curry Plate,44,120,5280,352,Sunday
+19-Dec-2021,Vegetable Khichuri,46,70,3220,352,Sunday
+19-Dec-2021,Dry Fish & Rice,41,100,4100,352,Sunday
+19-Dec-2021,Special Thali,25,160,4000,352,Sunday
+20-Dec-2021,Rice & Dal Thali,94,80,7520,353,Monday
+20-Dec-2021,Fish Curry Plate,37,120,4440,353,Monday
+20-Dec-2021,Vegetable Khichuri,45,70,3150,353,Monday
+20-Dec-2021,Dry Fish & Rice,46,100,4600,353,Monday
+20-Dec-2021,Special Thali,23,160,3680,353,Monday
+21-Dec-2021,Rice & Dal Thali,77,80,6160,354,Tuesday
+21-Dec-2021,Fish Curry Plate,56,120,6720,354,Tuesday
+21-Dec-2021,Vegetable Khichuri,31,70,2170,354,Tuesday
+21-Dec-2021,Dry Fish & Rice,36,100,3600,354,Tuesday
+21-Dec-2021,Special Thali,27,160,4320,354,Tuesday
+22-Dec-2021,Rice & Dal Thali,72,80,5760,355,Wednesday
+22-Dec-2021,Fish Curry Plate,49,120,5880,355,Wednesday
+22-Dec-2021,Vegetable Khichuri,45,70,3150,355,Wednesday
+22-Dec-2021,Dry Fish & Rice,47,100,4700,355,Wednesday
+22-Dec-2021,Special Thali,28,160,4480,355,Wednesday
+23-Dec-2021,Rice & Dal Thali,80,80,6400,356,Thursday
+23-Dec-2021,Fish Curry Plate,40,120,4800,356,Thursday
+23-Dec-2021,Vegetable Khichuri,34,70,2380,356,Thursday
+23-Dec-2021,Dry Fish & Rice,52,100,5200,356,Thursday
+23-Dec-2021,Special Thali,27,160,4320,356,Thursday
+24-Dec-2021,Rice & Dal Thali,93,80,7440,357,Friday
+24-Dec-2021,Fish Curry Plate,72,120,8640,357,Friday
+24-Dec-2021,Vegetable Khichuri,65,70,4550,357,Friday
+24-Dec-2021,Dry Fish & Rice,53,100,5300,357,Friday
+24-Dec-2021,Special Thali,33,160,5280,357,Friday
+25-Dec-2021,Rice & Dal Thali,111,80,8880,358,Saturday
+25-Dec-2021,Fish Curry Plate,63,120,7560,358,Saturday
+25-Dec-2021,Vegetable Khichuri,38,70,2660,358,Saturday
+25-Dec-2021,Dry Fish & Rice,58,100,5800,358,Saturday
+25-Dec-2021,Special Thali,43,160,6880,358,Saturday
+26-Dec-2021,Rice & Dal Thali,61,80,4880,359,Sunday
+26-Dec-2021,Fish Curry Plate,44,120,5280,359,Sunday
+26-Dec-2021,Vegetable Khichuri,32,70,2240,359,Sunday
+26-Dec-2021,Dry Fish & Rice,56,100,5600,359,Sunday
+26-Dec-2021,Special Thali,38,160,6080,359,Sunday
+27-Dec-2021,Rice & Dal Thali,64,80,5120,360,Monday
+27-Dec-2021,Fish Curry Plate,37,120,4440,360,Monday
+27-Dec-2021,Vegetable Khichuri,35,70,2450,360,Monday
+27-Dec-2021,Dry Fish & Rice,45,100,4500,360,Monday
+27-Dec-2021,Special Thali,31,160,4960,360,Monday
+28-Dec-2021,Rice & Dal Thali,78,80,6240,361,Tuesday
+28-Dec-2021,Fish Curry Plate,59,120,7080,361,Tuesday
+28-Dec-2021,Vegetable Khichuri,35,70,2450,361,Tuesday
+28-Dec-2021,Dry Fish & Rice,54,100,5400,361,Tuesday
+28-Dec-2021,Special Thali,26,160,4160,361,Tuesday
+29-Dec-2021,Rice & Dal Thali,85,80,6800,362,Wednesday
+29-Dec-2021,Fish Curry Plate,58,120,6960,362,Wednesday
+29-Dec-2021,Vegetable Khichuri,39,70,2730,362,Wednesday
+29-Dec-2021,Dry Fish & Rice,62,100,6200,362,Wednesday
+29-Dec-2021,Special Thali,29,160,4640,362,Wednesday
+30-Dec-2021,Rice & Dal Thali,85,80,6800,363,Thursday
+30-Dec-2021,Fish Curry Plate,53,120,6360,363,Thursday
+30-Dec-2021,Vegetable Khichuri,37,70,2590,363,Thursday
+30-Dec-2021,Dry Fish & Rice,42,100,4200,363,Thursday
+30-Dec-2021,Special Thali,26,160,4160,363,Thursday
+31-Dec-2021,Rice & Dal Thali,138,80,11040,364,Friday
+31-Dec-2021,Fish Curry Plate,61,120,7320,364,Friday
+31-Dec-2021,Vegetable Khichuri,47,70,3290,364,Friday
+31-Dec-2021,Dry Fish & Rice,62,100,6200,364,Friday
+31-Dec-2021,Special Thali,41,160,6560,364,Friday
+01-Jan-2022,Rice & Dal Thali,107,80,8560,365,Saturday
+01-Jan-2022,Fish Curry Plate,78,120,9360,365,Saturday
+01-Jan-2022,Vegetable Khichuri,51,70,3570,365,Saturday
+01-Jan-2022,Dry Fish & Rice,46,100,4600,365,Saturday
+01-Jan-2022,Special Thali,38,160,6080,365,Saturday
+02-Jan-2022,Rice & Dal Thali,76,80,6080,366,Sunday
+02-Jan-2022,Fish Curry Plate,43,120,5160,366,Sunday
+02-Jan-2022,Vegetable Khichuri,31,70,2170,366,Sunday
+02-Jan-2022,Dry Fish & Rice,50,100,5000,366,Sunday
+02-Jan-2022,Special Thali,36,160,5760,366,Sunday
+03-Jan-2022,Rice & Dal Thali,95,80,7600,367,Monday
+03-Jan-2022,Fish Curry Plate,57,120,6840,367,Monday
+03-Jan-2022,Vegetable Khichuri,40,70,2800,367,Monday
+03-Jan-2022,Dry Fish & Rice,38,100,3800,367,Monday
+03-Jan-2022,Special Thali,27,160,4320,367,Monday
+04-Jan-2022,Rice & Dal Thali,99,80,7920,368,Tuesday
+04-Jan-2022,Fish Curry Plate,55,120,6600,368,Tuesday
+04-Jan-2022,Vegetable Khichuri,35,70,2450,368,Tuesday
+04-Jan-2022,Dry Fish & Rice,61,100,6100,368,Tuesday
+04-Jan-2022,Special Thali,31,160,4960,368,Tuesday
+05-Jan-2022,Rice & Dal Thali,94,80,7520,369,Wednesday
+05-Jan-2022,Fish Curry Plate,38,120,4560,369,Wednesday
+05-Jan-2022,Vegetable Khichuri,33,70,2310,369,Wednesday
+05-Jan-2022,Dry Fish & Rice,52,100,5200,369,Wednesday
+05-Jan-2022,Special Thali,26,160,4160,369,Wednesday
+06-Jan-2022,Rice & Dal Thali,67,80,5360,370,Thursday
+06-Jan-2022,Fish Curry Plate,39,120,4680,370,Thursday
+06-Jan-2022,Vegetable Khichuri,35,70,2450,370,Thursday
+06-Jan-2022,Dry Fish & Rice,50,100,5000,370,Thursday
+06-Jan-2022,Special Thali,33,160,5280,370,Thursday
+07-Jan-2022,Rice & Dal Thali,109,80,8720,371,Friday
+07-Jan-2022,Fish Curry Plate,60,120,7200,371,Friday
+07-Jan-2022,Vegetable Khichuri,41,70,2870,371,Friday
+07-Jan-2022,Dry Fish & Rice,69,100,6900,371,Friday
+07-Jan-2022,Special Thali,36,160,5760,371,Friday
+08-Jan-2022,Rice & Dal Thali,100,80,8000,372,Saturday
+08-Jan-2022,Fish Curry Plate,66,120,7920,372,Saturday
+08-Jan-2022,Vegetable Khichuri,37,70,2590,372,Saturday
+08-Jan-2022,Dry Fish & Rice,46,100,4600,372,Saturday
+08-Jan-2022,Special Thali,39,160,6240,372,Saturday
+09-Jan-2022,Rice & Dal Thali,70,80,5600,373,Sunday
+09-Jan-2022,Fish Curry Plate,46,120,5520,373,Sunday
+09-Jan-2022,Vegetable Khichuri,40,70,2800,373,Sunday
+09-Jan-2022,Dry Fish & Rice,39,100,3900,373,Sunday
+09-Jan-2022,Special Thali,31,160,4960,373,Sunday
+10-Jan-2022,Rice & Dal Thali,91,80,7280,374,Monday
+10-Jan-2022,Fish Curry Plate,55,120,6600,374,Monday
+10-Jan-2022,Vegetable Khichuri,37,70,2590,374,Monday
+10-Jan-2022,Dry Fish & Rice,43,100,4300,374,Monday
+10-Jan-2022,Special Thali,26,160,4160,374,Monday
+11-Jan-2022,Rice & Dal Thali,82,80,6560,375,Tuesday
+11-Jan-2022,Fish Curry Plate,47,120,5640,375,Tuesday
+11-Jan-2022,Vegetable Khichuri,40,70,2800,375,Tuesday
+11-Jan-2022,Dry Fish & Rice,58,100,5800,375,Tuesday
+11-Jan-2022,Special Thali,28,160,4480,375,Tuesday
+12-Jan-2022,Rice & Dal Thali,66,80,5280,376,Wednesday
+12-Jan-2022,Fish Curry Plate,52,120,6240,376,Wednesday
+12-Jan-2022,Vegetable Khichuri,41,70,2870,376,Wednesday
+12-Jan-2022,Dry Fish & Rice,52,100,5200,376,Wednesday
+12-Jan-2022,Special Thali,30,160,4800,376,Wednesday
+13-Jan-2022,Rice & Dal Thali,78,80,6240,377,Thursday
+13-Jan-2022,Fish Curry Plate,50,120,6000,377,Thursday
+13-Jan-2022,Vegetable Khichuri,51,70,3570,377,Thursday
+13-Jan-2022,Dry Fish & Rice,46,100,4600,377,Thursday
+13-Jan-2022,Special Thali,35,160,5600,377,Thursday
+14-Jan-2022,Rice & Dal Thali,94,80,7520,378,Friday
+14-Jan-2022,Fish Curry Plate,79,120,9480,378,Friday
+14-Jan-2022,Vegetable Khichuri,51,70,3570,378,Friday
+14-Jan-2022,Dry Fish & Rice,62,100,6200,378,Friday
+14-Jan-2022,Special Thali,41,160,6560,378,Friday
+15-Jan-2022,Rice & Dal Thali,85,80,6800,379,Saturday
+15-Jan-2022,Fish Curry Plate,60,120,7200,379,Saturday
+15-Jan-2022,Vegetable Khichuri,53,70,3710,379,Saturday
+15-Jan-2022,Dry Fish & Rice,59,100,5900,379,Saturday
+15-Jan-2022,Special Thali,33,160,5280,379,Saturday
+16-Jan-2022,Rice & Dal Thali,85,80,6800,380,Sunday
+16-Jan-2022,Fish Curry Plate,63,120,7560,380,Sunday
+16-Jan-2022,Vegetable Khichuri,30,70,2100,380,Sunday
+16-Jan-2022,Dry Fish & Rice,42,100,4200,380,Sunday
+16-Jan-2022,Special Thali,30,160,4800,380,Sunday
+17-Jan-2022,Rice & Dal Thali,64,80,5120,381,Monday
+17-Jan-2022,Fish Curry Plate,45,120,5400,381,Monday
+17-Jan-2022,Vegetable Khichuri,38,70,2660,381,Monday
+17-Jan-2022,Dry Fish & Rice,49,100,4900,381,Monday
+17-Jan-2022,Special Thali,27,160,4320,381,Monday
+18-Jan-2022,Rice & Dal Thali,80,80,6400,382,Tuesday
+18-Jan-2022,Fish Curry Plate,35,120,4200,382,Tuesday
+18-Jan-2022,Vegetable Khichuri,31,70,2170,382,Tuesday
+18-Jan-2022,Dry Fish & Rice,39,100,3900,382,Tuesday
+18-Jan-2022,Special Thali,27,160,4320,382,Tuesday
+19-Jan-2022,Rice & Dal Thali,69,80,5520,383,Wednesday
+19-Jan-2022,Fish Curry Plate,55,120,6600,383,Wednesday
+19-Jan-2022,Vegetable Khichuri,30,70,2100,383,Wednesday
+19-Jan-2022,Dry Fish & Rice,54,100,5400,383,Wednesday
+19-Jan-2022,Special Thali,31,160,4960,383,Wednesday
+20-Jan-2022,Rice & Dal Thali,60,80,4800,384,Thursday
+20-Jan-2022,Fish Curry Plate,66,120,7920,384,Thursday
+20-Jan-2022,Vegetable Khichuri,37,70,2590,384,Thursday
+20-Jan-2022,Dry Fish & Rice,45,100,4500,384,Thursday
+20-Jan-2022,Special Thali,28,160,4480,384,Thursday
+21-Jan-2022,Rice & Dal Thali,130,80,10400,385,Friday
+21-Jan-2022,Fish Curry Plate,78,120,9360,385,Friday
+21-Jan-2022,Vegetable Khichuri,51,70,3570,385,Friday
+21-Jan-2022,Dry Fish & Rice,64,100,6400,385,Friday
+21-Jan-2022,Special Thali,44,160,7040,385,Friday
+22-Jan-2022,Rice & Dal Thali,100,80,8000,386,Saturday
+22-Jan-2022,Fish Curry Plate,61,120,7320,386,Saturday
+22-Jan-2022,Vegetable Khichuri,50,70,3500,386,Saturday
+22-Jan-2022,Dry Fish & Rice,56,100,5600,386,Saturday
+22-Jan-2022,Special Thali,29,160,4640,386,Saturday
+23-Jan-2022,Rice & Dal Thali,81,80,6480,387,Sunday
+23-Jan-2022,Fish Curry Plate,36,120,4320,387,Sunday
+23-Jan-2022,Vegetable Khichuri,46,70,3220,387,Sunday
+23-Jan-2022,Dry Fish & Rice,45,100,4500,387,Sunday
+23-Jan-2022,Special Thali,33,160,5280,387,Sunday
+24-Jan-2022,Rice & Dal Thali,73,80,5840,388,Monday
+24-Jan-2022,Fish Curry Plate,37,120,4440,388,Monday
+24-Jan-2022,Vegetable Khichuri,50,70,3500,388,Monday
+24-Jan-2022,Dry Fish & Rice,39,100,3900,388,Monday
+24-Jan-2022,Special Thali,42,160,6720,388,Monday
+25-Jan-2022,Rice & Dal Thali,108,80,8640,389,Tuesday
+25-Jan-2022,Fish Curry Plate,72,120,8640,389,Tuesday
+25-Jan-2022,Vegetable Khichuri,34,70,2380,389,Tuesday
+25-Jan-2022,Dry Fish & Rice,50,100,5000,389,Tuesday
+25-Jan-2022,Special Thali,32,160,5120,389,Tuesday
+26-Jan-2022,Rice & Dal Thali,90,80,7200,390,Wednesday
+26-Jan-2022,Fish Curry Plate,61,120,7320,390,Wednesday
+26-Jan-2022,Vegetable Khichuri,54,70,3780,390,Wednesday
+26-Jan-2022,Dry Fish & Rice,44,100,4400,390,Wednesday
+26-Jan-2022,Special Thali,22,160,3520,390,Wednesday
+27-Jan-2022,Rice & Dal Thali,63,80,5040,391,Thursday
+27-Jan-2022,Fish Curry Plate,42,120,5040,391,Thursday
+27-Jan-2022,Vegetable Khichuri,45,70,3150,391,Thursday
+27-Jan-2022,Dry Fish & Rice,50,100,5000,391,Thursday
+27-Jan-2022,Special Thali,40,160,6400,391,Thursday
+28-Jan-2022,Rice & Dal Thali,96,80,7680,392,Friday
+28-Jan-2022,Fish Curry Plate,65,120,7800,392,Friday
+28-Jan-2022,Vegetable Khichuri,65,70,4550,392,Friday
+28-Jan-2022,Dry Fish & Rice,63,100,6300,392,Friday
+28-Jan-2022,Special Thali,47,160,7520,392,Friday
+29-Jan-2022,Rice & Dal Thali,124,80,9920,393,Saturday
+29-Jan-2022,Fish Curry Plate,47,120,5640,393,Saturday
+29-Jan-2022,Vegetable Khichuri,59,70,4130,393,Saturday
+29-Jan-2022,Dry Fish & Rice,58,100,5800,393,Saturday
+29-Jan-2022,Special Thali,31,160,4960,393,Saturday
+30-Jan-2022,Rice & Dal Thali,62,80,4960,394,Sunday
+30-Jan-2022,Fish Curry Plate,46,120,5520,394,Sunday
+30-Jan-2022,Vegetable Khichuri,39,70,2730,394,Sunday
+30-Jan-2022,Dry Fish & Rice,45,100,4500,394,Sunday
+30-Jan-2022,Special Thali,35,160,5600,394,Sunday
+31-Jan-2022,Rice & Dal Thali,88,80,7040,395,Monday
+31-Jan-2022,Fish Curry Plate,57,120,6840,395,Monday
+31-Jan-2022,Vegetable Khichuri,44,70,3080,395,Monday
+31-Jan-2022,Dry Fish & Rice,45,100,4500,395,Monday
+31-Jan-2022,Special Thali,29,160,4640,395,Monday
+01-Feb-2022,Rice & Dal Thali,70,80,5600,396,Tuesday
+01-Feb-2022,Fish Curry Plate,59,120,7080,396,Tuesday
+01-Feb-2022,Vegetable Khichuri,50,70,3500,396,Tuesday
+01-Feb-2022,Dry Fish & Rice,43,100,4300,396,Tuesday
+01-Feb-2022,Special Thali,32,160,5120,396,Tuesday
+02-Feb-2022,Rice & Dal Thali,88,80,7040,397,Wednesday
+02-Feb-2022,Fish Curry Plate,35,120,4200,397,Wednesday
+02-Feb-2022,Vegetable Khichuri,38,70,2660,397,Wednesday
+02-Feb-2022,Dry Fish & Rice,20,100,2000,397,Wednesday
+02-Feb-2022,Special Thali,33,160,5280,397,Wednesday
+03-Feb-2022,Rice & Dal Thali,96,80,7680,398,Thursday
+03-Feb-2022,Fish Curry Plate,57,120,6840,398,Thursday
+03-Feb-2022,Vegetable Khichuri,40,70,2800,398,Thursday
+03-Feb-2022,Dry Fish & Rice,47,100,4700,398,Thursday
+03-Feb-2022,Special Thali,33,160,5280,398,Thursday
+04-Feb-2022,Rice & Dal Thali,113,80,9040,399,Friday
+04-Feb-2022,Fish Curry Plate,72,120,8640,399,Friday
+04-Feb-2022,Vegetable Khichuri,48,70,3360,399,Friday
+04-Feb-2022,Dry Fish & Rice,64,100,6400,399,Friday
+04-Feb-2022,Special Thali,40,160,6400,399,Friday
+05-Feb-2022,Rice & Dal Thali,114,80,9120,400,Saturday
+05-Feb-2022,Fish Curry Plate,66,120,7920,400,Saturday
+05-Feb-2022,Vegetable Khichuri,37,70,2590,400,Saturday
+05-Feb-2022,Dry Fish & Rice,70,100,7000,400,Saturday
+05-Feb-2022,Special Thali,42,160,6720,400,Saturday
+06-Feb-2022,Rice & Dal Thali,68,80,5440,401,Sunday
+06-Feb-2022,Fish Curry Plate,67,120,8040,401,Sunday
+06-Feb-2022,Vegetable Khichuri,38,70,2660,401,Sunday
+06-Feb-2022,Dry Fish & Rice,40,100,4000,401,Sunday
+06-Feb-2022,Special Thali,30,160,4800,401,Sunday
+07-Feb-2022,Rice & Dal Thali,101,80,8080,402,Monday
+07-Feb-2022,Fish Curry Plate,55,120,6600,402,Monday
+07-Feb-2022,Vegetable Khichuri,35,70,2450,402,Monday
+07-Feb-2022,Dry Fish & Rice,51,100,5100,402,Monday
+07-Feb-2022,Special Thali,36,160,5760,402,Monday
+08-Feb-2022,Rice & Dal Thali,71,80,5680,403,Tuesday
+08-Feb-2022,Fish Curry Plate,54,120,6480,403,Tuesday
+08-Feb-2022,Vegetable Khichuri,37,70,2590,403,Tuesday
+08-Feb-2022,Dry Fish & Rice,53,100,5300,403,Tuesday
+08-Feb-2022,Special Thali,28,160,4480,403,Tuesday
+09-Feb-2022,Rice & Dal Thali,46,80,3680,404,Wednesday
+09-Feb-2022,Fish Curry Plate,54,120,6480,404,Wednesday
+09-Feb-2022,Vegetable Khichuri,37,70,2590,404,Wednesday
+09-Feb-2022,Dry Fish & Rice,40,100,4000,404,Wednesday
+09-Feb-2022,Special Thali,33,160,5280,404,Wednesday
+10-Feb-2022,Rice & Dal Thali,73,80,5840,405,Thursday
+10-Feb-2022,Fish Curry Plate,66,120,7920,405,Thursday
+10-Feb-2022,Vegetable Khichuri,36,70,2520,405,Thursday
+10-Feb-2022,Dry Fish & Rice,55,100,5500,405,Thursday
+10-Feb-2022,Special Thali,33,160,5280,405,Thursday
+11-Feb-2022,Rice & Dal Thali,128,80,10240,406,Friday
+11-Feb-2022,Fish Curry Plate,70,120,8400,406,Friday
+11-Feb-2022,Vegetable Khichuri,43,70,3010,406,Friday
+11-Feb-2022,Dry Fish & Rice,68,100,6800,406,Friday
+11-Feb-2022,Special Thali,45,160,7200,406,Friday
+12-Feb-2022,Rice & Dal Thali,106,80,8480,407,Saturday
+12-Feb-2022,Fish Curry Plate,70,120,8400,407,Saturday
+12-Feb-2022,Vegetable Khichuri,31,70,2170,407,Saturday
+12-Feb-2022,Dry Fish & Rice,47,100,4700,407,Saturday
+12-Feb-2022,Special Thali,39,160,6240,407,Saturday
+13-Feb-2022,Rice & Dal Thali,101,80,8080,408,Sunday
+13-Feb-2022,Fish Curry Plate,41,120,4920,408,Sunday
+13-Feb-2022,Vegetable Khichuri,24,70,1680,408,Sunday
+13-Feb-2022,Dry Fish & Rice,55,100,5500,408,Sunday
+13-Feb-2022,Special Thali,45,160,7200,408,Sunday
+14-Feb-2022,Rice & Dal Thali,109,80,8720,409,Monday
+14-Feb-2022,Fish Curry Plate,42,120,5040,409,Monday
+14-Feb-2022,Vegetable Khichuri,51,70,3570,409,Monday
+14-Feb-2022,Dry Fish & Rice,43,100,4300,409,Monday
+14-Feb-2022,Special Thali,39,160,6240,409,Monday
+15-Feb-2022,Rice & Dal Thali,114,80,9120,410,Tuesday
+15-Feb-2022,Fish Curry Plate,72,120,8640,410,Tuesday
+15-Feb-2022,Vegetable Khichuri,43,70,3010,410,Tuesday
+15-Feb-2022,Dry Fish & Rice,48,100,4800,410,Tuesday
+15-Feb-2022,Special Thali,30,160,4800,410,Tuesday
+16-Feb-2022,Rice & Dal Thali,83,80,6640,411,Wednesday
+16-Feb-2022,Fish Curry Plate,41,120,4920,411,Wednesday
+16-Feb-2022,Vegetable Khichuri,44,70,3080,411,Wednesday
+16-Feb-2022,Dry Fish & Rice,56,100,5600,411,Wednesday
+16-Feb-2022,Special Thali,27,160,4320,411,Wednesday
+17-Feb-2022,Rice & Dal Thali,87,80,6960,412,Thursday
+17-Feb-2022,Fish Curry Plate,61,120,7320,412,Thursday
+17-Feb-2022,Vegetable Khichuri,47,70,3290,412,Thursday
+17-Feb-2022,Dry Fish & Rice,60,100,6000,412,Thursday
+17-Feb-2022,Special Thali,28,160,4480,412,Thursday
+18-Feb-2022,Rice & Dal Thali,86,80,6880,413,Friday
+18-Feb-2022,Fish Curry Plate,89,120,10680,413,Friday
+18-Feb-2022,Vegetable Khichuri,46,70,3220,413,Friday
+18-Feb-2022,Dry Fish & Rice,56,100,5600,413,Friday
+18-Feb-2022,Special Thali,50,160,8000,413,Friday
+19-Feb-2022,Rice & Dal Thali,122,80,9760,414,Saturday
+19-Feb-2022,Fish Curry Plate,81,120,9720,414,Saturday
+19-Feb-2022,Vegetable Khichuri,47,70,3290,414,Saturday
+19-Feb-2022,Dry Fish & Rice,66,100,6600,414,Saturday
+19-Feb-2022,Special Thali,42,160,6720,414,Saturday
+20-Feb-2022,Rice & Dal Thali,86,80,6880,415,Sunday
+20-Feb-2022,Fish Curry Plate,63,120,7560,415,Sunday
+20-Feb-2022,Vegetable Khichuri,37,70,2590,415,Sunday
+20-Feb-2022,Dry Fish & Rice,50,100,5000,415,Sunday
+20-Feb-2022,Special Thali,38,160,6080,415,Sunday
+21-Feb-2022,Rice & Dal Thali,81,80,6480,416,Monday
+21-Feb-2022,Fish Curry Plate,60,120,7200,416,Monday
+21-Feb-2022,Vegetable Khichuri,40,70,2800,416,Monday
+21-Feb-2022,Dry Fish & Rice,42,100,4200,416,Monday
+21-Feb-2022,Special Thali,28,160,4480,416,Monday
+22-Feb-2022,Rice & Dal Thali,70,80,5600,417,Tuesday
+22-Feb-2022,Fish Curry Plate,49,120,5880,417,Tuesday
+22-Feb-2022,Vegetable Khichuri,32,70,2240,417,Tuesday
+22-Feb-2022,Dry Fish & Rice,53,100,5300,417,Tuesday
+22-Feb-2022,Special Thali,39,160,6240,417,Tuesday
+23-Feb-2022,Rice & Dal Thali,99,80,7920,418,Wednesday
+23-Feb-2022,Fish Curry Plate,55,120,6600,418,Wednesday
+23-Feb-2022,Vegetable Khichuri,38,70,2660,418,Wednesday
+23-Feb-2022,Dry Fish & Rice,61,100,6100,418,Wednesday
+23-Feb-2022,Special Thali,29,160,4640,418,Wednesday
+24-Feb-2022,Rice & Dal Thali,109,80,8720,419,Thursday
+24-Feb-2022,Fish Curry Plate,49,120,5880,419,Thursday
+24-Feb-2022,Vegetable Khichuri,40,70,2800,419,Thursday
+24-Feb-2022,Dry Fish & Rice,46,100,4600,419,Thursday
+24-Feb-2022,Special Thali,30,160,4800,419,Thursday
+25-Feb-2022,Rice & Dal Thali,93,80,7440,420,Friday
+25-Feb-2022,Fish Curry Plate,75,120,9000,420,Friday
+25-Feb-2022,Vegetable Khichuri,55,70,3850,420,Friday
+25-Feb-2022,Dry Fish & Rice,50,100,5000,420,Friday
+25-Feb-2022,Special Thali,35,160,5600,420,Friday
+26-Feb-2022,Rice & Dal Thali,139,80,11120,421,Saturday
+26-Feb-2022,Fish Curry Plate,82,120,9840,421,Saturday
+26-Feb-2022,Vegetable Khichuri,72,70,5040,421,Saturday
+26-Feb-2022,Dry Fish & Rice,57,100,5700,421,Saturday
+26-Feb-2022,Special Thali,40,160,6400,421,Saturday
+27-Feb-2022,Rice & Dal Thali,64,80,5120,422,Sunday
+27-Feb-2022,Fish Curry Plate,39,120,4680,422,Sunday
+27-Feb-2022,Vegetable Khichuri,41,70,2870,422,Sunday
+27-Feb-2022,Dry Fish & Rice,59,100,5900,422,Sunday
+27-Feb-2022,Special Thali,32,160,5120,422,Sunday
+28-Feb-2022,Rice & Dal Thali,87,80,6960,423,Monday
+28-Feb-2022,Fish Curry Plate,58,120,6960,423,Monday
+28-Feb-2022,Vegetable Khichuri,41,70,2870,423,Monday
+28-Feb-2022,Dry Fish & Rice,32,100,3200,423,Monday
+28-Feb-2022,Special Thali,28,160,4480,423,Monday
+01-Mar-2022,Rice & Dal Thali,86,80,6880,424,Tuesday
+01-Mar-2022,Fish Curry Plate,46,120,5520,424,Tuesday
+01-Mar-2022,Vegetable Khichuri,41,70,2870,424,Tuesday
+01-Mar-2022,Dry Fish & Rice,49,100,4900,424,Tuesday
+01-Mar-2022,Special Thali,43,160,6880,424,Tuesday
+02-Mar-2022,Rice & Dal Thali,72,80,5760,425,Wednesday
+02-Mar-2022,Fish Curry Plate,46,120,5520,425,Wednesday
+02-Mar-2022,Vegetable Khichuri,36,70,2520,425,Wednesday
+02-Mar-2022,Dry Fish & Rice,55,100,5500,425,Wednesday
+02-Mar-2022,Special Thali,35,160,5600,425,Wednesday
+03-Mar-2022,Rice & Dal Thali,70,80,5600,426,Thursday
+03-Mar-2022,Fish Curry Plate,55,120,6600,426,Thursday
+03-Mar-2022,Vegetable Khichuri,44,70,3080,426,Thursday
+03-Mar-2022,Dry Fish & Rice,50,100,5000,426,Thursday
+03-Mar-2022,Special Thali,28,160,4480,426,Thursday
+04-Mar-2022,Rice & Dal Thali,141,80,11280,427,Friday
+04-Mar-2022,Fish Curry Plate,67,120,8040,427,Friday
+04-Mar-2022,Vegetable Khichuri,54,70,3780,427,Friday
+04-Mar-2022,Dry Fish & Rice,67,100,6700,427,Friday
+04-Mar-2022,Special Thali,36,160,5760,427,Friday
+05-Mar-2022,Rice & Dal Thali,114,80,9120,428,Saturday
+05-Mar-2022,Fish Curry Plate,48,120,5760,428,Saturday
+05-Mar-2022,Vegetable Khichuri,62,70,4340,428,Saturday
+05-Mar-2022,Dry Fish & Rice,55,100,5500,428,Saturday
+05-Mar-2022,Special Thali,41,160,6560,428,Saturday
+06-Mar-2022,Rice & Dal Thali,86,80,6880,429,Sunday
+06-Mar-2022,Fish Curry Plate,48,120,5760,429,Sunday
+06-Mar-2022,Vegetable Khichuri,48,70,3360,429,Sunday
+06-Mar-2022,Dry Fish & Rice,49,100,4900,429,Sunday
+06-Mar-2022,Special Thali,39,160,6240,429,Sunday
+07-Mar-2022,Rice & Dal Thali,99,80,7920,430,Monday
+07-Mar-2022,Fish Curry Plate,71,120,8520,430,Monday
+07-Mar-2022,Vegetable Khichuri,45,70,3150,430,Monday
+07-Mar-2022,Dry Fish & Rice,47,100,4700,430,Monday
+07-Mar-2022,Special Thali,41,160,6560,430,Monday
+08-Mar-2022,Rice & Dal Thali,88,80,7040,431,Tuesday
+08-Mar-2022,Fish Curry Plate,63,120,7560,431,Tuesday
+08-Mar-2022,Vegetable Khichuri,46,70,3220,431,Tuesday
+08-Mar-2022,Dry Fish & Rice,41,100,4100,431,Tuesday
+08-Mar-2022,Special Thali,20,160,3200,431,Tuesday
+09-Mar-2022,Rice & Dal Thali,95,80,7600,432,Wednesday
+09-Mar-2022,Fish Curry Plate,45,120,5400,432,Wednesday
+09-Mar-2022,Vegetable Khichuri,43,70,3010,432,Wednesday
+09-Mar-2022,Dry Fish & Rice,57,100,5700,432,Wednesday
+09-Mar-2022,Special Thali,42,160,6720,432,Wednesday
+10-Mar-2022,Rice & Dal Thali,52,80,4160,433,Thursday
+10-Mar-2022,Fish Curry Plate,41,120,4920,433,Thursday
+10-Mar-2022,Vegetable Khichuri,56,70,3920,433,Thursday
+10-Mar-2022,Dry Fish & Rice,68,100,6800,433,Thursday
+10-Mar-2022,Special Thali,29,160,4640,433,Thursday
+11-Mar-2022,Rice & Dal Thali,113,80,9040,434,Friday
+11-Mar-2022,Fish Curry Plate,78,120,9360,434,Friday
+11-Mar-2022,Vegetable Khichuri,37,70,2590,434,Friday
+11-Mar-2022,Dry Fish & Rice,68,100,6800,434,Friday
+11-Mar-2022,Special Thali,49,160,7840,434,Friday
+12-Mar-2022,Rice & Dal Thali,128,80,10240,435,Saturday
+12-Mar-2022,Fish Curry Plate,67,120,8040,435,Saturday
+12-Mar-2022,Vegetable Khichuri,65,70,4550,435,Saturday
+12-Mar-2022,Dry Fish & Rice,68,100,6800,435,Saturday
+12-Mar-2022,Special Thali,37,160,5920,435,Saturday
+13-Mar-2022,Rice & Dal Thali,66,80,5280,436,Sunday
+13-Mar-2022,Fish Curry Plate,44,120,5280,436,Sunday
+13-Mar-2022,Vegetable Khichuri,47,70,3290,436,Sunday
+13-Mar-2022,Dry Fish & Rice,47,100,4700,436,Sunday
+13-Mar-2022,Special Thali,20,160,3200,436,Sunday
+14-Mar-2022,Rice & Dal Thali,87,80,6960,437,Monday
+14-Mar-2022,Fish Curry Plate,47,120,5640,437,Monday
+14-Mar-2022,Vegetable Khichuri,55,70,3850,437,Monday
+14-Mar-2022,Dry Fish & Rice,51,100,5100,437,Monday
+14-Mar-2022,Special Thali,40,160,6400,437,Monday
+15-Mar-2022,Rice & Dal Thali,88,80,7040,438,Tuesday
+15-Mar-2022,Fish Curry Plate,65,120,7800,438,Tuesday
+15-Mar-2022,Vegetable Khichuri,48,70,3360,438,Tuesday
+15-Mar-2022,Dry Fish & Rice,58,100,5800,438,Tuesday
+15-Mar-2022,Special Thali,25,160,4000,438,Tuesday
+16-Mar-2022,Rice & Dal Thali,107,80,8560,439,Wednesday
+16-Mar-2022,Fish Curry Plate,64,120,7680,439,Wednesday
+16-Mar-2022,Vegetable Khichuri,48,70,3360,439,Wednesday
+16-Mar-2022,Dry Fish & Rice,46,100,4600,439,Wednesday
+16-Mar-2022,Special Thali,26,160,4160,439,Wednesday
+17-Mar-2022,Rice & Dal Thali,88,80,7040,440,Thursday
+17-Mar-2022,Fish Curry Plate,54,120,6480,440,Thursday
+17-Mar-2022,Vegetable Khichuri,47,70,3290,440,Thursday
+17-Mar-2022,Dry Fish & Rice,44,100,4400,440,Thursday
+17-Mar-2022,Special Thali,33,160,5280,440,Thursday
+18-Mar-2022,Rice & Dal Thali,148,80,11840,441,Friday
+18-Mar-2022,Fish Curry Plate,61,120,7320,441,Friday
+18-Mar-2022,Vegetable Khichuri,59,70,4130,441,Friday
+18-Mar-2022,Dry Fish & Rice,84,100,8400,441,Friday
+18-Mar-2022,Special Thali,51,160,8160,441,Friday
+19-Mar-2022,Rice & Dal Thali,84,80,6720,442,Saturday
+19-Mar-2022,Fish Curry Plate,49,120,5880,442,Saturday
+19-Mar-2022,Vegetable Khichuri,50,70,3500,442,Saturday
+19-Mar-2022,Dry Fish & Rice,47,100,4700,442,Saturday
+19-Mar-2022,Special Thali,45,160,7200,442,Saturday
+20-Mar-2022,Rice & Dal Thali,65,80,5200,443,Sunday
+20-Mar-2022,Fish Curry Plate,63,120,7560,443,Sunday
+20-Mar-2022,Vegetable Khichuri,49,70,3430,443,Sunday
+20-Mar-2022,Dry Fish & Rice,63,100,6300,443,Sunday
+20-Mar-2022,Special Thali,31,160,4960,443,Sunday
+21-Mar-2022,Rice & Dal Thali,83,80,6640,444,Monday
+21-Mar-2022,Fish Curry Plate,67,120,8040,444,Monday
+21-Mar-2022,Vegetable Khichuri,37,70,2590,444,Monday
+21-Mar-2022,Dry Fish & Rice,52,100,5200,444,Monday
+21-Mar-2022,Special Thali,35,160,5600,444,Monday
+22-Mar-2022,Rice & Dal Thali,103,80,8240,445,Tuesday
+22-Mar-2022,Fish Curry Plate,45,120,5400,445,Tuesday
+22-Mar-2022,Vegetable Khichuri,33,70,2310,445,Tuesday
+22-Mar-2022,Dry Fish & Rice,38,100,3800,445,Tuesday
+22-Mar-2022,Special Thali,31,160,4960,445,Tuesday
+23-Mar-2022,Rice & Dal Thali,85,80,6800,446,Wednesday
+23-Mar-2022,Fish Curry Plate,78,120,9360,446,Wednesday
+23-Mar-2022,Vegetable Khichuri,40,70,2800,446,Wednesday
+23-Mar-2022,Dry Fish & Rice,58,100,5800,446,Wednesday
+23-Mar-2022,Special Thali,34,160,5440,446,Wednesday
+24-Mar-2022,Rice & Dal Thali,87,80,6960,447,Thursday
+24-Mar-2022,Fish Curry Plate,55,120,6600,447,Thursday
+24-Mar-2022,Vegetable Khichuri,51,70,3570,447,Thursday
+24-Mar-2022,Dry Fish & Rice,46,100,4600,447,Thursday
+24-Mar-2022,Special Thali,23,160,3680,447,Thursday
+25-Mar-2022,Rice & Dal Thali,161,80,12880,448,Friday
+25-Mar-2022,Fish Curry Plate,71,120,8520,448,Friday
+25-Mar-2022,Vegetable Khichuri,53,70,3710,448,Friday
+25-Mar-2022,Dry Fish & Rice,73,100,7300,448,Friday
+25-Mar-2022,Special Thali,48,160,7680,448,Friday
+26-Mar-2022,Rice & Dal Thali,109,80,8720,449,Saturday
+26-Mar-2022,Fish Curry Plate,64,120,7680,449,Saturday
+26-Mar-2022,Vegetable Khichuri,50,70,3500,449,Saturday
+26-Mar-2022,Dry Fish & Rice,44,100,4400,449,Saturday
+26-Mar-2022,Special Thali,48,160,7680,449,Saturday
+27-Mar-2022,Rice & Dal Thali,63,80,5040,450,Sunday
+27-Mar-2022,Fish Curry Plate,57,120,6840,450,Sunday
+27-Mar-2022,Vegetable Khichuri,45,70,3150,450,Sunday
+27-Mar-2022,Dry Fish & Rice,44,100,4400,450,Sunday
+27-Mar-2022,Special Thali,30,160,4800,450,Sunday
+28-Mar-2022,Rice & Dal Thali,98,80,7840,451,Monday
+28-Mar-2022,Fish Curry Plate,55,120,6600,451,Monday
+28-Mar-2022,Vegetable Khichuri,58,70,4060,451,Monday
+28-Mar-2022,Dry Fish & Rice,56,100,5600,451,Monday
+28-Mar-2022,Special Thali,35,160,5600,451,Monday
+29-Mar-2022,Rice & Dal Thali,97,80,7760,452,Tuesday
+29-Mar-2022,Fish Curry Plate,71,120,8520,452,Tuesday
+29-Mar-2022,Vegetable Khichuri,33,70,2310,452,Tuesday
+29-Mar-2022,Dry Fish & Rice,40,100,4000,452,Tuesday
+29-Mar-2022,Special Thali,39,160,6240,452,Tuesday
+30-Mar-2022,Rice & Dal Thali,79,80,6320,453,Wednesday
+30-Mar-2022,Fish Curry Plate,58,120,6960,453,Wednesday
+30-Mar-2022,Vegetable Khichuri,43,70,3010,453,Wednesday
+30-Mar-2022,Dry Fish & Rice,20,100,2000,453,Wednesday
+30-Mar-2022,Special Thali,24,160,3840,453,Wednesday
+31-Mar-2022,Rice & Dal Thali,71,80,5680,454,Thursday
+31-Mar-2022,Fish Curry Plate,51,120,6120,454,Thursday
+31-Mar-2022,Vegetable Khichuri,31,70,2170,454,Thursday
+31-Mar-2022,Dry Fish & Rice,52,100,5200,454,Thursday
+31-Mar-2022,Special Thali,41,160,6560,454,Thursday
+01-Apr-2022,Rice & Dal Thali,102,80,8160,455,Friday
+01-Apr-2022,Fish Curry Plate,48,120,5760,455,Friday
+01-Apr-2022,Vegetable Khichuri,55,70,3850,455,Friday
+01-Apr-2022,Dry Fish & Rice,61,100,6100,455,Friday
+01-Apr-2022,Special Thali,49,160,7840,455,Friday
+02-Apr-2022,Rice & Dal Thali,135,80,10800,456,Saturday
+02-Apr-2022,Fish Curry Plate,45,120,5400,456,Saturday
+02-Apr-2022,Vegetable Khichuri,52,70,3640,456,Saturday
+02-Apr-2022,Dry Fish & Rice,61,100,6100,456,Saturday
+02-Apr-2022,Special Thali,41,160,6560,456,Saturday
+03-Apr-2022,Rice & Dal Thali,84,80,6720,457,Sunday
+03-Apr-2022,Fish Curry Plate,57,120,6840,457,Sunday
+03-Apr-2022,Vegetable Khichuri,43,70,3010,457,Sunday
+03-Apr-2022,Dry Fish & Rice,50,100,5000,457,Sunday
+03-Apr-2022,Special Thali,26,160,4160,457,Sunday
+04-Apr-2022,Rice & Dal Thali,97,80,7760,458,Monday
+04-Apr-2022,Fish Curry Plate,65,120,7800,458,Monday
+04-Apr-2022,Vegetable Khichuri,40,70,2800,458,Monday
+04-Apr-2022,Dry Fish & Rice,49,100,4900,458,Monday
+04-Apr-2022,Special Thali,23,160,3680,458,Monday
+05-Apr-2022,Rice & Dal Thali,63,80,5040,459,Tuesday
+05-Apr-2022,Fish Curry Plate,46,120,5520,459,Tuesday
+05-Apr-2022,Vegetable Khichuri,43,70,3010,459,Tuesday
+05-Apr-2022,Dry Fish & Rice,36,100,3600,459,Tuesday
+05-Apr-2022,Special Thali,25,160,4000,459,Tuesday
+06-Apr-2022,Rice & Dal Thali,109,80,8720,460,Wednesday
+06-Apr-2022,Fish Curry Plate,58,120,6960,460,Wednesday
+06-Apr-2022,Vegetable Khichuri,51,70,3570,460,Wednesday
+06-Apr-2022,Dry Fish & Rice,51,100,5100,460,Wednesday
+06-Apr-2022,Special Thali,36,160,5760,460,Wednesday
+07-Apr-2022,Rice & Dal Thali,97,80,7760,461,Thursday
+07-Apr-2022,Fish Curry Plate,61,120,7320,461,Thursday
+07-Apr-2022,Vegetable Khichuri,45,70,3150,461,Thursday
+07-Apr-2022,Dry Fish & Rice,48,100,4800,461,Thursday
+07-Apr-2022,Special Thali,28,160,4480,461,Thursday
+08-Apr-2022,Rice & Dal Thali,154,80,12320,462,Friday
+08-Apr-2022,Fish Curry Plate,64,120,7680,462,Friday
+08-Apr-2022,Vegetable Khichuri,40,70,2800,462,Friday
+08-Apr-2022,Dry Fish & Rice,67,100,6700,462,Friday
+08-Apr-2022,Special Thali,31,160,4960,462,Friday
+09-Apr-2022,Rice & Dal Thali,119,80,9520,463,Saturday
+09-Apr-2022,Fish Curry Plate,56,120,6720,463,Saturday
+09-Apr-2022,Vegetable Khichuri,52,70,3640,463,Saturday
+09-Apr-2022,Dry Fish & Rice,50,100,5000,463,Saturday
+09-Apr-2022,Special Thali,19,160,3040,463,Saturday
+10-Apr-2022,Rice & Dal Thali,104,80,8320,464,Sunday
+10-Apr-2022,Fish Curry Plate,53,120,6360,464,Sunday
+10-Apr-2022,Vegetable Khichuri,49,70,3430,464,Sunday
+10-Apr-2022,Dry Fish & Rice,70,100,7000,464,Sunday
+10-Apr-2022,Special Thali,28,160,4480,464,Sunday
+11-Apr-2022,Rice & Dal Thali,84,80,6720,465,Monday
+11-Apr-2022,Fish Curry Plate,60,120,7200,465,Monday
+11-Apr-2022,Vegetable Khichuri,54,70,3780,465,Monday
+11-Apr-2022,Dry Fish & Rice,55,100,5500,465,Monday
+11-Apr-2022,Special Thali,26,160,4160,465,Monday
+12-Apr-2022,Rice & Dal Thali,76,80,6080,466,Tuesday
+12-Apr-2022,Fish Curry Plate,43,120,5160,466,Tuesday
+12-Apr-2022,Vegetable Khichuri,50,70,3500,466,Tuesday
+12-Apr-2022,Dry Fish & Rice,54,100,5400,466,Tuesday
+12-Apr-2022,Special Thali,40,160,6400,466,Tuesday
+13-Apr-2022,Rice & Dal Thali,167,80,13360,467,Wednesday
+13-Apr-2022,Fish Curry Plate,94,120,11280,467,Wednesday
+13-Apr-2022,Vegetable Khichuri,99,70,6930,467,Wednesday
+13-Apr-2022,Dry Fish & Rice,66,100,6600,467,Wednesday
+13-Apr-2022,Special Thali,69,160,11040,467,Wednesday
+14-Apr-2022,Rice & Dal Thali,157,80,12560,468,Thursday
+14-Apr-2022,Fish Curry Plate,124,120,14880,468,Thursday
+14-Apr-2022,Vegetable Khichuri,87,70,6090,468,Thursday
+14-Apr-2022,Dry Fish & Rice,81,100,8100,468,Thursday
+14-Apr-2022,Special Thali,53,160,8480,468,Thursday
+15-Apr-2022,Rice & Dal Thali,105,80,8400,469,Friday
+15-Apr-2022,Fish Curry Plate,76,120,9120,469,Friday
+15-Apr-2022,Vegetable Khichuri,66,70,4620,469,Friday
+15-Apr-2022,Dry Fish & Rice,64,100,6400,469,Friday
+15-Apr-2022,Special Thali,57,160,9120,469,Friday
+16-Apr-2022,Rice & Dal Thali,110,80,8800,470,Saturday
+16-Apr-2022,Fish Curry Plate,56,120,6720,470,Saturday
+16-Apr-2022,Vegetable Khichuri,56,70,3920,470,Saturday
+16-Apr-2022,Dry Fish & Rice,46,100,4600,470,Saturday
+16-Apr-2022,Special Thali,46,160,7360,470,Saturday
+17-Apr-2022,Rice & Dal Thali,101,80,8080,471,Sunday
+17-Apr-2022,Fish Curry Plate,46,120,5520,471,Sunday
+17-Apr-2022,Vegetable Khichuri,44,70,3080,471,Sunday
+17-Apr-2022,Dry Fish & Rice,41,100,4100,471,Sunday
+17-Apr-2022,Special Thali,24,160,3840,471,Sunday
+18-Apr-2022,Rice & Dal Thali,66,80,5280,472,Monday
+18-Apr-2022,Fish Curry Plate,54,120,6480,472,Monday
+18-Apr-2022,Vegetable Khichuri,50,70,3500,472,Monday
+18-Apr-2022,Dry Fish & Rice,45,100,4500,472,Monday
+18-Apr-2022,Special Thali,36,160,5760,472,Monday
+19-Apr-2022,Rice & Dal Thali,86,80,6880,473,Tuesday
+19-Apr-2022,Fish Curry Plate,50,120,6000,473,Tuesday
+19-Apr-2022,Vegetable Khichuri,35,70,2450,473,Tuesday
+19-Apr-2022,Dry Fish & Rice,46,100,4600,473,Tuesday
+19-Apr-2022,Special Thali,33,160,5280,473,Tuesday
+20-Apr-2022,Rice & Dal Thali,63,80,5040,474,Wednesday
+20-Apr-2022,Fish Curry Plate,51,120,6120,474,Wednesday
+20-Apr-2022,Vegetable Khichuri,41,70,2870,474,Wednesday
+20-Apr-2022,Dry Fish & Rice,53,100,5300,474,Wednesday
+20-Apr-2022,Special Thali,24,160,3840,474,Wednesday
+21-Apr-2022,Rice & Dal Thali,80,80,6400,475,Thursday
+21-Apr-2022,Fish Curry Plate,58,120,6960,475,Thursday
+21-Apr-2022,Vegetable Khichuri,62,70,4340,475,Thursday
+21-Apr-2022,Dry Fish & Rice,44,100,4400,475,Thursday
+21-Apr-2022,Special Thali,32,160,5120,475,Thursday
+22-Apr-2022,Rice & Dal Thali,91,80,7280,476,Friday
+22-Apr-2022,Fish Curry Plate,87,120,10440,476,Friday
+22-Apr-2022,Vegetable Khichuri,75,70,5250,476,Friday
+22-Apr-2022,Dry Fish & Rice,52,100,5200,476,Friday
+22-Apr-2022,Special Thali,50,160,8000,476,Friday
+23-Apr-2022,Rice & Dal Thali,92,80,7360,477,Saturday
+23-Apr-2022,Fish Curry Plate,75,120,9000,477,Saturday
+23-Apr-2022,Vegetable Khichuri,58,70,4060,477,Saturday
+23-Apr-2022,Dry Fish & Rice,47,100,4700,477,Saturday
+23-Apr-2022,Special Thali,40,160,6400,477,Saturday
+24-Apr-2022,Rice & Dal Thali,93,80,7440,478,Sunday
+24-Apr-2022,Fish Curry Plate,55,120,6600,478,Sunday
+24-Apr-2022,Vegetable Khichuri,48,70,3360,478,Sunday
+24-Apr-2022,Dry Fish & Rice,52,100,5200,478,Sunday
+24-Apr-2022,Special Thali,18,160,2880,478,Sunday
+25-Apr-2022,Rice & Dal Thali,65,80,5200,479,Monday
+25-Apr-2022,Fish Curry Plate,28,120,3360,479,Monday
+25-Apr-2022,Vegetable Khichuri,55,70,3850,479,Monday
+25-Apr-2022,Dry Fish & Rice,48,100,4800,479,Monday
+25-Apr-2022,Special Thali,37,160,5920,479,Monday
+26-Apr-2022,Rice & Dal Thali,87,80,6960,480,Tuesday
+26-Apr-2022,Fish Curry Plate,60,120,7200,480,Tuesday
+26-Apr-2022,Vegetable Khichuri,35,70,2450,480,Tuesday
+26-Apr-2022,Dry Fish & Rice,57,100,5700,480,Tuesday
+26-Apr-2022,Special Thali,40,160,6400,480,Tuesday
+27-Apr-2022,Rice & Dal Thali,85,80,6800,481,Wednesday
+27-Apr-2022,Fish Curry Plate,53,120,6360,481,Wednesday
+27-Apr-2022,Vegetable Khichuri,43,70,3010,481,Wednesday
+27-Apr-2022,Dry Fish & Rice,58,100,5800,481,Wednesday
+27-Apr-2022,Special Thali,34,160,5440,481,Wednesday
+28-Apr-2022,Rice & Dal Thali,49,80,3920,482,Thursday
+28-Apr-2022,Fish Curry Plate,47,120,5640,482,Thursday
+28-Apr-2022,Vegetable Khichuri,51,70,3570,482,Thursday
+28-Apr-2022,Dry Fish & Rice,54,100,5400,482,Thursday
+28-Apr-2022,Special Thali,37,160,5920,482,Thursday
+29-Apr-2022,Rice & Dal Thali,121,80,9680,483,Friday
+29-Apr-2022,Fish Curry Plate,55,120,6600,483,Friday
+29-Apr-2022,Vegetable Khichuri,50,70,3500,483,Friday
+29-Apr-2022,Dry Fish & Rice,67,100,6700,483,Friday
+29-Apr-2022,Special Thali,53,160,8480,483,Friday
+30-Apr-2022,Rice & Dal Thali,135,80,10800,484,Saturday
+30-Apr-2022,Fish Curry Plate,52,120,6240,484,Saturday
+30-Apr-2022,Vegetable Khichuri,37,70,2590,484,Saturday
+30-Apr-2022,Dry Fish & Rice,50,100,5000,484,Saturday
+30-Apr-2022,Special Thali,38,160,6080,484,Saturday
+01-May-2022,Rice & Dal Thali,101,80,8080,485,Sunday
+01-May-2022,Fish Curry Plate,39,120,4680,485,Sunday
+01-May-2022,Vegetable Khichuri,42,70,2940,485,Sunday
+01-May-2022,Dry Fish & Rice,36,100,3600,485,Sunday
+01-May-2022,Special Thali,35,160,5600,485,Sunday
+02-May-2022,Rice & Dal Thali,59,80,4720,486,Monday
+02-May-2022,Fish Curry Plate,48,120,5760,486,Monday
+02-May-2022,Vegetable Khichuri,43,70,3010,486,Monday
+02-May-2022,Dry Fish & Rice,62,100,6200,486,Monday
+02-May-2022,Special Thali,35,160,5600,486,Monday
+03-May-2022,Rice & Dal Thali,109,80,8720,487,Tuesday
+03-May-2022,Fish Curry Plate,37,120,4440,487,Tuesday
+03-May-2022,Vegetable Khichuri,49,70,3430,487,Tuesday
+03-May-2022,Dry Fish & Rice,54,100,5400,487,Tuesday
+03-May-2022,Special Thali,39,160,6240,487,Tuesday
+04-May-2022,Rice & Dal Thali,128,80,10240,488,Wednesday
+04-May-2022,Fish Curry Plate,47,120,5640,488,Wednesday
+04-May-2022,Vegetable Khichuri,49,70,3430,488,Wednesday
+04-May-2022,Dry Fish & Rice,54,100,5400,488,Wednesday
+04-May-2022,Special Thali,43,160,6880,488,Wednesday
+05-May-2022,Rice & Dal Thali,95,80,7600,489,Thursday
+05-May-2022,Fish Curry Plate,65,120,7800,489,Thursday
+05-May-2022,Vegetable Khichuri,43,70,3010,489,Thursday
+05-May-2022,Dry Fish & Rice,39,100,3900,489,Thursday
+05-May-2022,Special Thali,34,160,5440,489,Thursday
+06-May-2022,Rice & Dal Thali,152,80,12160,490,Friday
+06-May-2022,Fish Curry Plate,71,120,8520,490,Friday
+06-May-2022,Vegetable Khichuri,51,70,3570,490,Friday
+06-May-2022,Dry Fish & Rice,47,100,4700,490,Friday
+06-May-2022,Special Thali,41,160,6560,490,Friday
+07-May-2022,Rice & Dal Thali,71,80,5680,491,Saturday
+07-May-2022,Fish Curry Plate,55,120,6600,491,Saturday
+07-May-2022,Vegetable Khichuri,46,70,3220,491,Saturday
+07-May-2022,Dry Fish & Rice,53,100,5300,491,Saturday
+07-May-2022,Special Thali,29,160,4640,491,Saturday
+08-May-2022,Rice & Dal Thali,98,80,7840,492,Sunday
+08-May-2022,Fish Curry Plate,59,120,7080,492,Sunday
+08-May-2022,Vegetable Khichuri,43,70,3010,492,Sunday
+08-May-2022,Dry Fish & Rice,44,100,4400,492,Sunday
+08-May-2022,Special Thali,34,160,5440,492,Sunday
+09-May-2022,Rice & Dal Thali,89,80,7120,493,Monday
+09-May-2022,Fish Curry Plate,54,120,6480,493,Monday
+09-May-2022,Vegetable Khichuri,38,70,2660,493,Monday
+09-May-2022,Dry Fish & Rice,43,100,4300,493,Monday
+09-May-2022,Special Thali,44,160,7040,493,Monday
+10-May-2022,Rice & Dal Thali,78,80,6240,494,Tuesday
+10-May-2022,Fish Curry Plate,44,120,5280,494,Tuesday
+10-May-2022,Vegetable Khichuri,51,70,3570,494,Tuesday
+10-May-2022,Dry Fish & Rice,43,100,4300,494,Tuesday
+10-May-2022,Special Thali,22,160,3520,494,Tuesday
+11-May-2022,Rice & Dal Thali,115,80,9200,495,Wednesday
+11-May-2022,Fish Curry Plate,74,120,8880,495,Wednesday
+11-May-2022,Vegetable Khichuri,40,70,2800,495,Wednesday
+11-May-2022,Dry Fish & Rice,40,100,4000,495,Wednesday
+11-May-2022,Special Thali,33,160,5280,495,Wednesday
+12-May-2022,Rice & Dal Thali,82,80,6560,496,Thursday
+12-May-2022,Fish Curry Plate,69,120,8280,496,Thursday
+12-May-2022,Vegetable Khichuri,33,70,2310,496,Thursday
+12-May-2022,Dry Fish & Rice,42,100,4200,496,Thursday
+12-May-2022,Special Thali,43,160,6880,496,Thursday
+13-May-2022,Rice & Dal Thali,96,80,7680,497,Friday
+13-May-2022,Fish Curry Plate,74,120,8880,497,Friday
+13-May-2022,Vegetable Khichuri,57,70,3990,497,Friday
+13-May-2022,Dry Fish & Rice,62,100,6200,497,Friday
+13-May-2022,Special Thali,33,160,5280,497,Friday
+14-May-2022,Rice & Dal Thali,74,80,5920,498,Saturday
+14-May-2022,Fish Curry Plate,75,120,9000,498,Saturday
+14-May-2022,Vegetable Khichuri,44,70,3080,498,Saturday
+14-May-2022,Dry Fish & Rice,44,100,4400,498,Saturday
+14-May-2022,Special Thali,32,160,5120,498,Saturday
+15-May-2022,Rice & Dal Thali,77,80,6160,499,Sunday
+15-May-2022,Fish Curry Plate,55,120,6600,499,Sunday
+15-May-2022,Vegetable Khichuri,47,70,3290,499,Sunday
+15-May-2022,Dry Fish & Rice,62,100,6200,499,Sunday
+15-May-2022,Special Thali,20,160,3200,499,Sunday
+16-May-2022,Rice & Dal Thali,100,80,8000,500,Monday
+16-May-2022,Fish Curry Plate,50,120,6000,500,Monday
+16-May-2022,Vegetable Khichuri,38,70,2660,500,Monday
+16-May-2022,Dry Fish & Rice,49,100,4900,500,Monday
+16-May-2022,Special Thali,30,160,4800,500,Monday
+17-May-2022,Rice & Dal Thali,72,80,5760,501,Tuesday
+17-May-2022,Fish Curry Plate,50,120,6000,501,Tuesday
+17-May-2022,Vegetable Khichuri,36,70,2520,501,Tuesday
+17-May-2022,Dry Fish & Rice,54,100,5400,501,Tuesday
+17-May-2022,Special Thali,44,160,7040,501,Tuesday
+18-May-2022,Rice & Dal Thali,84,80,6720,502,Wednesday
+18-May-2022,Fish Curry Plate,49,120,5880,502,Wednesday
+18-May-2022,Vegetable Khichuri,39,70,2730,502,Wednesday
+18-May-2022,Dry Fish & Rice,54,100,5400,502,Wednesday
+18-May-2022,Special Thali,28,160,4480,502,Wednesday
+19-May-2022,Rice & Dal Thali,85,80,6800,503,Thursday
+19-May-2022,Fish Curry Plate,57,120,6840,503,Thursday
+19-May-2022,Vegetable Khichuri,44,70,3080,503,Thursday
+19-May-2022,Dry Fish & Rice,46,100,4600,503,Thursday
+19-May-2022,Special Thali,38,160,6080,503,Thursday
+20-May-2022,Rice & Dal Thali,111,80,8880,504,Friday
+20-May-2022,Fish Curry Plate,67,120,8040,504,Friday
+20-May-2022,Vegetable Khichuri,56,70,3920,504,Friday
+20-May-2022,Dry Fish & Rice,80,100,8000,504,Friday
+20-May-2022,Special Thali,35,160,5600,504,Friday
+21-May-2022,Rice & Dal Thali,82,80,6560,505,Saturday
+21-May-2022,Fish Curry Plate,58,120,6960,505,Saturday
+21-May-2022,Vegetable Khichuri,62,70,4340,505,Saturday
+21-May-2022,Dry Fish & Rice,59,100,5900,505,Saturday
+21-May-2022,Special Thali,38,160,6080,505,Saturday
+22-May-2022,Rice & Dal Thali,96,80,7680,506,Sunday
+22-May-2022,Fish Curry Plate,55,120,6600,506,Sunday
+22-May-2022,Vegetable Khichuri,42,70,2940,506,Sunday
+22-May-2022,Dry Fish & Rice,60,100,6000,506,Sunday
+22-May-2022,Special Thali,32,160,5120,506,Sunday
+23-May-2022,Rice & Dal Thali,84,80,6720,507,Monday
+23-May-2022,Fish Curry Plate,58,120,6960,507,Monday
+23-May-2022,Vegetable Khichuri,49,70,3430,507,Monday
+23-May-2022,Dry Fish & Rice,47,100,4700,507,Monday
+23-May-2022,Special Thali,28,160,4480,507,Monday
+24-May-2022,Rice & Dal Thali,87,80,6960,508,Tuesday
+24-May-2022,Fish Curry Plate,45,120,5400,508,Tuesday
+24-May-2022,Vegetable Khichuri,40,70,2800,508,Tuesday
+24-May-2022,Dry Fish & Rice,45,100,4500,508,Tuesday
+24-May-2022,Special Thali,39,160,6240,508,Tuesday
+25-May-2022,Rice & Dal Thali,74,80,5920,509,Wednesday
+25-May-2022,Fish Curry Plate,51,120,6120,509,Wednesday
+25-May-2022,Vegetable Khichuri,51,70,3570,509,Wednesday
+25-May-2022,Dry Fish & Rice,57,100,5700,509,Wednesday
+25-May-2022,Special Thali,30,160,4800,509,Wednesday
+26-May-2022,Rice & Dal Thali,63,80,5040,510,Thursday
+26-May-2022,Fish Curry Plate,54,120,6480,510,Thursday
+26-May-2022,Vegetable Khichuri,34,70,2380,510,Thursday
+26-May-2022,Dry Fish & Rice,47,100,4700,510,Thursday
+26-May-2022,Special Thali,38,160,6080,510,Thursday
+27-May-2022,Rice & Dal Thali,104,80,8320,511,Friday
+27-May-2022,Fish Curry Plate,62,120,7440,511,Friday
+27-May-2022,Vegetable Khichuri,56,70,3920,511,Friday
+27-May-2022,Dry Fish & Rice,62,100,6200,511,Friday
+27-May-2022,Special Thali,43,160,6880,511,Friday
+28-May-2022,Rice & Dal Thali,119,80,9520,512,Saturday
+28-May-2022,Fish Curry Plate,50,120,6000,512,Saturday
+28-May-2022,Vegetable Khichuri,40,70,2800,512,Saturday
+28-May-2022,Dry Fish & Rice,51,100,5100,512,Saturday
+28-May-2022,Special Thali,49,160,7840,512,Saturday
+29-May-2022,Rice & Dal Thali,68,80,5440,513,Sunday
+29-May-2022,Fish Curry Plate,58,120,6960,513,Sunday
+29-May-2022,Vegetable Khichuri,34,70,2380,513,Sunday
+29-May-2022,Dry Fish & Rice,57,100,5700,513,Sunday
+29-May-2022,Special Thali,40,160,6400,513,Sunday
+30-May-2022,Rice & Dal Thali,79,80,6320,514,Monday
+30-May-2022,Fish Curry Plate,59,120,7080,514,Monday
+30-May-2022,Vegetable Khichuri,52,70,3640,514,Monday
+30-May-2022,Dry Fish & Rice,65,100,6500,514,Monday
+30-May-2022,Special Thali,32,160,5120,514,Monday
+31-May-2022,Rice & Dal Thali,73,80,5840,515,Tuesday
+31-May-2022,Fish Curry Plate,36,120,4320,515,Tuesday
+31-May-2022,Vegetable Khichuri,33,70,2310,515,Tuesday
+31-May-2022,Dry Fish & Rice,44,100,4400,515,Tuesday
+31-May-2022,Special Thali,32,160,5120,515,Tuesday
+01-Jun-2022,Rice & Dal Thali,67,80,5360,516,Wednesday
+01-Jun-2022,Fish Curry Plate,68,120,8160,516,Wednesday
+01-Jun-2022,Vegetable Khichuri,40,70,2800,516,Wednesday
+01-Jun-2022,Dry Fish & Rice,37,100,3700,516,Wednesday
+01-Jun-2022,Special Thali,29,160,4640,516,Wednesday
+02-Jun-2022,Rice & Dal Thali,88,80,7040,517,Thursday
+02-Jun-2022,Fish Curry Plate,50,120,6000,517,Thursday
+02-Jun-2022,Vegetable Khichuri,33,70,2310,517,Thursday
+02-Jun-2022,Dry Fish & Rice,51,100,5100,517,Thursday
+02-Jun-2022,Special Thali,26,160,4160,517,Thursday
+03-Jun-2022,Rice & Dal Thali,100,80,8000,518,Friday
+03-Jun-2022,Fish Curry Plate,57,120,6840,518,Friday
+03-Jun-2022,Vegetable Khichuri,64,70,4480,518,Friday
+03-Jun-2022,Dry Fish & Rice,30,100,3000,518,Friday
+03-Jun-2022,Special Thali,46,160,7360,518,Friday
+04-Jun-2022,Rice & Dal Thali,122,80,9760,519,Saturday
+04-Jun-2022,Fish Curry Plate,65,120,7800,519,Saturday
+04-Jun-2022,Vegetable Khichuri,42,70,2940,519,Saturday
+04-Jun-2022,Dry Fish & Rice,54,100,5400,519,Saturday
+04-Jun-2022,Special Thali,51,160,8160,519,Saturday
+05-Jun-2022,Rice & Dal Thali,72,80,5760,520,Sunday
+05-Jun-2022,Fish Curry Plate,63,120,7560,520,Sunday
+05-Jun-2022,Vegetable Khichuri,44,70,3080,520,Sunday
+05-Jun-2022,Dry Fish & Rice,47,100,4700,520,Sunday
+05-Jun-2022,Special Thali,32,160,5120,520,Sunday
+06-Jun-2022,Rice & Dal Thali,65,80,5200,521,Monday
+06-Jun-2022,Fish Curry Plate,36,120,4320,521,Monday
+06-Jun-2022,Vegetable Khichuri,54,70,3780,521,Monday
+06-Jun-2022,Dry Fish & Rice,47,100,4700,521,Monday
+06-Jun-2022,Special Thali,37,160,5920,521,Monday
+07-Jun-2022,Rice & Dal Thali,82,80,6560,522,Tuesday
+07-Jun-2022,Fish Curry Plate,42,120,5040,522,Tuesday
+07-Jun-2022,Vegetable Khichuri,48,70,3360,522,Tuesday
+07-Jun-2022,Dry Fish & Rice,69,100,6900,522,Tuesday
+07-Jun-2022,Special Thali,28,160,4480,522,Tuesday
+08-Jun-2022,Rice & Dal Thali,80,80,6400,523,Wednesday
+08-Jun-2022,Fish Curry Plate,47,120,5640,523,Wednesday
+08-Jun-2022,Vegetable Khichuri,44,70,3080,523,Wednesday
+08-Jun-2022,Dry Fish & Rice,47,100,4700,523,Wednesday
+08-Jun-2022,Special Thali,27,160,4320,523,Wednesday
+09-Jun-2022,Rice & Dal Thali,72,80,5760,524,Thursday
+09-Jun-2022,Fish Curry Plate,56,120,6720,524,Thursday
+09-Jun-2022,Vegetable Khichuri,30,70,2100,524,Thursday
+09-Jun-2022,Dry Fish & Rice,39,100,3900,524,Thursday
+09-Jun-2022,Special Thali,29,160,4640,524,Thursday
+10-Jun-2022,Rice & Dal Thali,120,80,9600,525,Friday
+10-Jun-2022,Fish Curry Plate,63,120,7560,525,Friday
+10-Jun-2022,Vegetable Khichuri,56,70,3920,525,Friday
+10-Jun-2022,Dry Fish & Rice,64,100,6400,525,Friday
+10-Jun-2022,Special Thali,42,160,6720,525,Friday
+11-Jun-2022,Rice & Dal Thali,86,80,6880,526,Saturday
+11-Jun-2022,Fish Curry Plate,56,120,6720,526,Saturday
+11-Jun-2022,Vegetable Khichuri,36,70,2520,526,Saturday
+11-Jun-2022,Dry Fish & Rice,66,100,6600,526,Saturday
+11-Jun-2022,Special Thali,35,160,5600,526,Saturday
+12-Jun-2022,Rice & Dal Thali,72,80,5760,527,Sunday
+12-Jun-2022,Fish Curry Plate,58,120,6960,527,Sunday
+12-Jun-2022,Vegetable Khichuri,38,70,2660,527,Sunday
+12-Jun-2022,Dry Fish & Rice,38,100,3800,527,Sunday
+12-Jun-2022,Special Thali,29,160,4640,527,Sunday
+13-Jun-2022,Rice & Dal Thali,65,80,5200,528,Monday
+13-Jun-2022,Fish Curry Plate,41,120,4920,528,Monday
+13-Jun-2022,Vegetable Khichuri,44,70,3080,528,Monday
+13-Jun-2022,Dry Fish & Rice,53,100,5300,528,Monday
+13-Jun-2022,Special Thali,34,160,5440,528,Monday
+14-Jun-2022,Rice & Dal Thali,66,80,5280,529,Tuesday
+14-Jun-2022,Fish Curry Plate,57,120,6840,529,Tuesday
+14-Jun-2022,Vegetable Khichuri,46,70,3220,529,Tuesday
+14-Jun-2022,Dry Fish & Rice,50,100,5000,529,Tuesday
+14-Jun-2022,Special Thali,36,160,5760,529,Tuesday
+15-Jun-2022,Rice & Dal Thali,81,80,6480,530,Wednesday
+15-Jun-2022,Fish Curry Plate,56,120,6720,530,Wednesday
+15-Jun-2022,Vegetable Khichuri,46,70,3220,530,Wednesday
+15-Jun-2022,Dry Fish & Rice,53,100,5300,530,Wednesday
+15-Jun-2022,Special Thali,35,160,5600,530,Wednesday
+16-Jun-2022,Rice & Dal Thali,57,80,4560,531,Thursday
+16-Jun-2022,Fish Curry Plate,54,120,6480,531,Thursday
+16-Jun-2022,Vegetable Khichuri,41,70,2870,531,Thursday
+16-Jun-2022,Dry Fish & Rice,49,100,4900,531,Thursday
+16-Jun-2022,Special Thali,31,160,4960,531,Thursday
+17-Jun-2022,Rice & Dal Thali,118,80,9440,532,Friday
+17-Jun-2022,Fish Curry Plate,84,120,10080,532,Friday
+17-Jun-2022,Vegetable Khichuri,40,70,2800,532,Friday
+17-Jun-2022,Dry Fish & Rice,53,100,5300,532,Friday
+17-Jun-2022,Special Thali,46,160,7360,532,Friday
+18-Jun-2022,Rice & Dal Thali,95,80,7600,533,Saturday
+18-Jun-2022,Fish Curry Plate,56,120,6720,533,Saturday
+18-Jun-2022,Vegetable Khichuri,47,70,3290,533,Saturday
+18-Jun-2022,Dry Fish & Rice,47,100,4700,533,Saturday
+18-Jun-2022,Special Thali,56,160,8960,533,Saturday
+19-Jun-2022,Rice & Dal Thali,110,80,8800,534,Sunday
+19-Jun-2022,Fish Curry Plate,61,120,7320,534,Sunday
+19-Jun-2022,Vegetable Khichuri,43,70,3010,534,Sunday
+19-Jun-2022,Dry Fish & Rice,52,100,5200,534,Sunday
+19-Jun-2022,Special Thali,31,160,4960,534,Sunday
+20-Jun-2022,Rice & Dal Thali,107,80,8560,535,Monday
+20-Jun-2022,Fish Curry Plate,51,120,6120,535,Monday
+20-Jun-2022,Vegetable Khichuri,38,70,2660,535,Monday
+20-Jun-2022,Dry Fish & Rice,53,100,5300,535,Monday
+20-Jun-2022,Special Thali,21,160,3360,535,Monday
+21-Jun-2022,Rice & Dal Thali,86,80,6880,536,Tuesday
+21-Jun-2022,Fish Curry Plate,49,120,5880,536,Tuesday
+21-Jun-2022,Vegetable Khichuri,39,70,2730,536,Tuesday
+21-Jun-2022,Dry Fish & Rice,44,100,4400,536,Tuesday
+21-Jun-2022,Special Thali,21,160,3360,536,Tuesday
+22-Jun-2022,Rice & Dal Thali,65,80,5200,537,Wednesday
+22-Jun-2022,Fish Curry Plate,47,120,5640,537,Wednesday
+22-Jun-2022,Vegetable Khichuri,39,70,2730,537,Wednesday
+22-Jun-2022,Dry Fish & Rice,49,100,4900,537,Wednesday
+22-Jun-2022,Special Thali,30,160,4800,537,Wednesday
+23-Jun-2022,Rice & Dal Thali,84,80,6720,538,Thursday
+23-Jun-2022,Fish Curry Plate,55,120,6600,538,Thursday
+23-Jun-2022,Vegetable Khichuri,55,70,3850,538,Thursday
+23-Jun-2022,Dry Fish & Rice,49,100,4900,538,Thursday
+23-Jun-2022,Special Thali,37,160,5920,538,Thursday
+24-Jun-2022,Rice & Dal Thali,129,80,10320,539,Friday
+24-Jun-2022,Fish Curry Plate,61,120,7320,539,Friday
+24-Jun-2022,Vegetable Khichuri,47,70,3290,539,Friday
+24-Jun-2022,Dry Fish & Rice,69,100,6900,539,Friday
+24-Jun-2022,Special Thali,36,160,5760,539,Friday
+25-Jun-2022,Rice & Dal Thali,86,80,6880,540,Saturday
+25-Jun-2022,Fish Curry Plate,57,120,6840,540,Saturday
+25-Jun-2022,Vegetable Khichuri,56,70,3920,540,Saturday
+25-Jun-2022,Dry Fish & Rice,50,100,5000,540,Saturday
+25-Jun-2022,Special Thali,27,160,4320,540,Saturday
+26-Jun-2022,Rice & Dal Thali,83,80,6640,541,Sunday
+26-Jun-2022,Fish Curry Plate,70,120,8400,541,Sunday
+26-Jun-2022,Vegetable Khichuri,34,70,2380,541,Sunday
+26-Jun-2022,Dry Fish & Rice,54,100,5400,541,Sunday
+26-Jun-2022,Special Thali,33,160,5280,541,Sunday
+27-Jun-2022,Rice & Dal Thali,56,80,4480,542,Monday
+27-Jun-2022,Fish Curry Plate,47,120,5640,542,Monday
+27-Jun-2022,Vegetable Khichuri,29,70,2030,542,Monday
+27-Jun-2022,Dry Fish & Rice,46,100,4600,542,Monday
+27-Jun-2022,Special Thali,20,160,3200,542,Monday
+28-Jun-2022,Rice & Dal Thali,70,80,5600,543,Tuesday
+28-Jun-2022,Fish Curry Plate,49,120,5880,543,Tuesday
+28-Jun-2022,Vegetable Khichuri,33,70,2310,543,Tuesday
+28-Jun-2022,Dry Fish & Rice,35,100,3500,543,Tuesday
+28-Jun-2022,Special Thali,28,160,4480,543,Tuesday
+29-Jun-2022,Rice & Dal Thali,81,80,6480,544,Wednesday
+29-Jun-2022,Fish Curry Plate,57,120,6840,544,Wednesday
+29-Jun-2022,Vegetable Khichuri,44,70,3080,544,Wednesday
+29-Jun-2022,Dry Fish & Rice,59,100,5900,544,Wednesday
+29-Jun-2022,Special Thali,32,160,5120,544,Wednesday
+30-Jun-2022,Rice & Dal Thali,74,80,5920,545,Thursday
+30-Jun-2022,Fish Curry Plate,47,120,5640,545,Thursday
+30-Jun-2022,Vegetable Khichuri,39,70,2730,545,Thursday
+30-Jun-2022,Dry Fish & Rice,49,100,4900,545,Thursday
+30-Jun-2022,Special Thali,34,160,5440,545,Thursday
+01-Jul-2022,Rice & Dal Thali,99,80,7920,546,Friday
+01-Jul-2022,Fish Curry Plate,65,120,7800,546,Friday
+01-Jul-2022,Vegetable Khichuri,63,70,4410,546,Friday
+01-Jul-2022,Dry Fish & Rice,46,100,4600,546,Friday
+01-Jul-2022,Special Thali,46,160,7360,546,Friday
+02-Jul-2022,Rice & Dal Thali,81,80,6480,547,Saturday
+02-Jul-2022,Fish Curry Plate,45,120,5400,547,Saturday
+02-Jul-2022,Vegetable Khichuri,57,70,3990,547,Saturday
+02-Jul-2022,Dry Fish & Rice,44,100,4400,547,Saturday
+02-Jul-2022,Special Thali,38,160,6080,547,Saturday
+03-Jul-2022,Rice & Dal Thali,80,80,6400,548,Sunday
+03-Jul-2022,Fish Curry Plate,58,120,6960,548,Sunday
+03-Jul-2022,Vegetable Khichuri,47,70,3290,548,Sunday
+03-Jul-2022,Dry Fish & Rice,60,100,6000,548,Sunday
+03-Jul-2022,Special Thali,28,160,4480,548,Sunday
+04-Jul-2022,Rice & Dal Thali,80,80,6400,549,Monday
+04-Jul-2022,Fish Curry Plate,55,120,6600,549,Monday
+04-Jul-2022,Vegetable Khichuri,34,70,2380,549,Monday
+04-Jul-2022,Dry Fish & Rice,44,100,4400,549,Monday
+04-Jul-2022,Special Thali,34,160,5440,549,Monday
+05-Jul-2022,Rice & Dal Thali,61,80,4880,550,Tuesday
+05-Jul-2022,Fish Curry Plate,73,120,8760,550,Tuesday
+05-Jul-2022,Vegetable Khichuri,48,70,3360,550,Tuesday
+05-Jul-2022,Dry Fish & Rice,62,100,6200,550,Tuesday
+05-Jul-2022,Special Thali,26,160,4160,550,Tuesday
+06-Jul-2022,Rice & Dal Thali,72,80,5760,551,Wednesday
+06-Jul-2022,Fish Curry Plate,58,120,6960,551,Wednesday
+06-Jul-2022,Vegetable Khichuri,30,70,2100,551,Wednesday
+06-Jul-2022,Dry Fish & Rice,38,100,3800,551,Wednesday
+06-Jul-2022,Special Thali,35,160,5600,551,Wednesday
+07-Jul-2022,Rice & Dal Thali,71,80,5680,552,Thursday
+07-Jul-2022,Fish Curry Plate,50,120,6000,552,Thursday
+07-Jul-2022,Vegetable Khichuri,29,70,2030,552,Thursday
+07-Jul-2022,Dry Fish & Rice,56,100,5600,552,Thursday
+07-Jul-2022,Special Thali,24,160,3840,552,Thursday
+08-Jul-2022,Rice & Dal Thali,66,80,5280,553,Friday
+08-Jul-2022,Fish Curry Plate,77,120,9240,553,Friday
+08-Jul-2022,Vegetable Khichuri,69,70,4830,553,Friday
+08-Jul-2022,Dry Fish & Rice,59,100,5900,553,Friday
+08-Jul-2022,Special Thali,38,160,6080,553,Friday
+09-Jul-2022,Rice & Dal Thali,87,80,6960,554,Saturday
+09-Jul-2022,Fish Curry Plate,58,120,6960,554,Saturday
+09-Jul-2022,Vegetable Khichuri,53,70,3710,554,Saturday
+09-Jul-2022,Dry Fish & Rice,52,100,5200,554,Saturday
+09-Jul-2022,Special Thali,34,160,5440,554,Saturday
+10-Jul-2022,Rice & Dal Thali,79,80,6320,555,Sunday
+10-Jul-2022,Fish Curry Plate,50,120,6000,555,Sunday
+10-Jul-2022,Vegetable Khichuri,46,70,3220,555,Sunday
+10-Jul-2022,Dry Fish & Rice,48,100,4800,555,Sunday
+10-Jul-2022,Special Thali,25,160,4000,555,Sunday
+11-Jul-2022,Rice & Dal Thali,76,80,6080,556,Monday
+11-Jul-2022,Fish Curry Plate,53,120,6360,556,Monday
+11-Jul-2022,Vegetable Khichuri,20,70,1400,556,Monday
+11-Jul-2022,Dry Fish & Rice,46,100,4600,556,Monday
+11-Jul-2022,Special Thali,29,160,4640,556,Monday
+12-Jul-2022,Rice & Dal Thali,70,80,5600,557,Tuesday
+12-Jul-2022,Fish Curry Plate,45,120,5400,557,Tuesday
+12-Jul-2022,Vegetable Khichuri,46,70,3220,557,Tuesday
+12-Jul-2022,Dry Fish & Rice,41,100,4100,557,Tuesday
+12-Jul-2022,Special Thali,28,160,4480,557,Tuesday
+13-Jul-2022,Rice & Dal Thali,101,80,8080,558,Wednesday
+13-Jul-2022,Fish Curry Plate,67,120,8040,558,Wednesday
+13-Jul-2022,Vegetable Khichuri,35,70,2450,558,Wednesday
+13-Jul-2022,Dry Fish & Rice,45,100,4500,558,Wednesday
+13-Jul-2022,Special Thali,42,160,6720,558,Wednesday
+14-Jul-2022,Rice & Dal Thali,102,80,8160,559,Thursday
+14-Jul-2022,Fish Curry Plate,48,120,5760,559,Thursday
+14-Jul-2022,Vegetable Khichuri,49,70,3430,559,Thursday
+14-Jul-2022,Dry Fish & Rice,46,100,4600,559,Thursday
+14-Jul-2022,Special Thali,32,160,5120,559,Thursday
+15-Jul-2022,Rice & Dal Thali,136,80,10880,560,Friday
+15-Jul-2022,Fish Curry Plate,55,120,6600,560,Friday
+15-Jul-2022,Vegetable Khichuri,39,70,2730,560,Friday
+15-Jul-2022,Dry Fish & Rice,55,100,5500,560,Friday
+15-Jul-2022,Special Thali,45,160,7200,560,Friday
+16-Jul-2022,Rice & Dal Thali,74,80,5920,561,Saturday
+16-Jul-2022,Fish Curry Plate,55,120,6600,561,Saturday
+16-Jul-2022,Vegetable Khichuri,57,70,3990,561,Saturday
+16-Jul-2022,Dry Fish & Rice,48,100,4800,561,Saturday
+16-Jul-2022,Special Thali,29,160,4640,561,Saturday
+17-Jul-2022,Rice & Dal Thali,49,80,3920,562,Sunday
+17-Jul-2022,Fish Curry Plate,58,120,6960,562,Sunday
+17-Jul-2022,Vegetable Khichuri,29,70,2030,562,Sunday
+17-Jul-2022,Dry Fish & Rice,37,100,3700,562,Sunday
+17-Jul-2022,Special Thali,30,160,4800,562,Sunday
+18-Jul-2022,Rice & Dal Thali,63,80,5040,563,Monday
+18-Jul-2022,Fish Curry Plate,50,120,6000,563,Monday
+18-Jul-2022,Vegetable Khichuri,40,70,2800,563,Monday
+18-Jul-2022,Dry Fish & Rice,46,100,4600,563,Monday
+18-Jul-2022,Special Thali,23,160,3680,563,Monday
+19-Jul-2022,Rice & Dal Thali,69,80,5520,564,Tuesday
+19-Jul-2022,Fish Curry Plate,56,120,6720,564,Tuesday
+19-Jul-2022,Vegetable Khichuri,35,70,2450,564,Tuesday
+19-Jul-2022,Dry Fish & Rice,35,100,3500,564,Tuesday
+19-Jul-2022,Special Thali,29,160,4640,564,Tuesday
+20-Jul-2022,Rice & Dal Thali,74,80,5920,565,Wednesday
+20-Jul-2022,Fish Curry Plate,40,120,4800,565,Wednesday
+20-Jul-2022,Vegetable Khichuri,35,70,2450,565,Wednesday
+20-Jul-2022,Dry Fish & Rice,50,100,5000,565,Wednesday
+20-Jul-2022,Special Thali,30,160,4800,565,Wednesday
+21-Jul-2022,Rice & Dal Thali,63,80,5040,566,Thursday
+21-Jul-2022,Fish Curry Plate,41,120,4920,566,Thursday
+21-Jul-2022,Vegetable Khichuri,35,70,2450,566,Thursday
+21-Jul-2022,Dry Fish & Rice,47,100,4700,566,Thursday
+21-Jul-2022,Special Thali,33,160,5280,566,Thursday
+22-Jul-2022,Rice & Dal Thali,84,80,6720,567,Friday
+22-Jul-2022,Fish Curry Plate,84,120,10080,567,Friday
+22-Jul-2022,Vegetable Khichuri,29,70,2030,567,Friday
+22-Jul-2022,Dry Fish & Rice,47,100,4700,567,Friday
+22-Jul-2022,Special Thali,24,160,3840,567,Friday
+23-Jul-2022,Rice & Dal Thali,89,80,7120,568,Saturday
+23-Jul-2022,Fish Curry Plate,54,120,6480,568,Saturday
+23-Jul-2022,Vegetable Khichuri,48,70,3360,568,Saturday
+23-Jul-2022,Dry Fish & Rice,43,100,4300,568,Saturday
+23-Jul-2022,Special Thali,34,160,5440,568,Saturday
+24-Jul-2022,Rice & Dal Thali,62,80,4960,569,Sunday
+24-Jul-2022,Fish Curry Plate,57,120,6840,569,Sunday
+24-Jul-2022,Vegetable Khichuri,37,70,2590,569,Sunday
+24-Jul-2022,Dry Fish & Rice,51,100,5100,569,Sunday
+24-Jul-2022,Special Thali,37,160,5920,569,Sunday
+25-Jul-2022,Rice & Dal Thali,76,80,6080,570,Monday
+25-Jul-2022,Fish Curry Plate,51,120,6120,570,Monday
+25-Jul-2022,Vegetable Khichuri,26,70,1820,570,Monday
+25-Jul-2022,Dry Fish & Rice,41,100,4100,570,Monday
+25-Jul-2022,Special Thali,30,160,4800,570,Monday
+26-Jul-2022,Rice & Dal Thali,64,80,5120,571,Tuesday
+26-Jul-2022,Fish Curry Plate,57,120,6840,571,Tuesday
+26-Jul-2022,Vegetable Khichuri,37,70,2590,571,Tuesday
+26-Jul-2022,Dry Fish & Rice,37,100,3700,571,Tuesday
+26-Jul-2022,Special Thali,35,160,5600,571,Tuesday
+27-Jul-2022,Rice & Dal Thali,67,80,5360,572,Wednesday
+27-Jul-2022,Fish Curry Plate,51,120,6120,572,Wednesday
+27-Jul-2022,Vegetable Khichuri,42,70,2940,572,Wednesday
+27-Jul-2022,Dry Fish & Rice,42,100,4200,572,Wednesday
+27-Jul-2022,Special Thali,31,160,4960,572,Wednesday
+28-Jul-2022,Rice & Dal Thali,57,80,4560,573,Thursday
+28-Jul-2022,Fish Curry Plate,45,120,5400,573,Thursday
+28-Jul-2022,Vegetable Khichuri,41,70,2870,573,Thursday
+28-Jul-2022,Dry Fish & Rice,47,100,4700,573,Thursday
+28-Jul-2022,Special Thali,22,160,3520,573,Thursday
+29-Jul-2022,Rice & Dal Thali,78,80,6240,574,Friday
+29-Jul-2022,Fish Curry Plate,78,120,9360,574,Friday
+29-Jul-2022,Vegetable Khichuri,53,70,3710,574,Friday
+29-Jul-2022,Dry Fish & Rice,47,100,4700,574,Friday
+29-Jul-2022,Special Thali,33,160,5280,574,Friday
+30-Jul-2022,Rice & Dal Thali,116,80,9280,575,Saturday
+30-Jul-2022,Fish Curry Plate,57,120,6840,575,Saturday
+30-Jul-2022,Vegetable Khichuri,55,70,3850,575,Saturday
+30-Jul-2022,Dry Fish & Rice,42,100,4200,575,Saturday
+30-Jul-2022,Special Thali,48,160,7680,575,Saturday
+31-Jul-2022,Rice & Dal Thali,112,80,8960,576,Sunday
+31-Jul-2022,Fish Curry Plate,47,120,5640,576,Sunday
+31-Jul-2022,Vegetable Khichuri,43,70,3010,576,Sunday
+31-Jul-2022,Dry Fish & Rice,44,100,4400,576,Sunday
+31-Jul-2022,Special Thali,30,160,4800,576,Sunday
+01-Aug-2022,Rice & Dal Thali,73,80,5840,577,Monday
+01-Aug-2022,Fish Curry Plate,55,120,6600,577,Monday
+01-Aug-2022,Vegetable Khichuri,36,70,2520,577,Monday
+01-Aug-2022,Dry Fish & Rice,45,100,4500,577,Monday
+01-Aug-2022,Special Thali,31,160,4960,577,Monday
+02-Aug-2022,Rice & Dal Thali,98,80,7840,578,Tuesday
+02-Aug-2022,Fish Curry Plate,50,120,6000,578,Tuesday
+02-Aug-2022,Vegetable Khichuri,22,70,1540,578,Tuesday
+02-Aug-2022,Dry Fish & Rice,36,100,3600,578,Tuesday
+02-Aug-2022,Special Thali,35,160,5600,578,Tuesday
+03-Aug-2022,Rice & Dal Thali,69,80,5520,579,Wednesday
+03-Aug-2022,Fish Curry Plate,46,120,5520,579,Wednesday
+03-Aug-2022,Vegetable Khichuri,37,70,2590,579,Wednesday
+03-Aug-2022,Dry Fish & Rice,41,100,4100,579,Wednesday
+03-Aug-2022,Special Thali,26,160,4160,579,Wednesday
+04-Aug-2022,Rice & Dal Thali,106,80,8480,580,Thursday
+04-Aug-2022,Fish Curry Plate,45,120,5400,580,Thursday
+04-Aug-2022,Vegetable Khichuri,39,70,2730,580,Thursday
+04-Aug-2022,Dry Fish & Rice,37,100,3700,580,Thursday
+04-Aug-2022,Special Thali,30,160,4800,580,Thursday
+05-Aug-2022,Rice & Dal Thali,84,80,6720,581,Friday
+05-Aug-2022,Fish Curry Plate,71,120,8520,581,Friday
+05-Aug-2022,Vegetable Khichuri,48,70,3360,581,Friday
+05-Aug-2022,Dry Fish & Rice,60,100,6000,581,Friday
+05-Aug-2022,Special Thali,37,160,5920,581,Friday
+06-Aug-2022,Rice & Dal Thali,90,80,7200,582,Saturday
+06-Aug-2022,Fish Curry Plate,69,120,8280,582,Saturday
+06-Aug-2022,Vegetable Khichuri,33,70,2310,582,Saturday
+06-Aug-2022,Dry Fish & Rice,47,100,4700,582,Saturday
+06-Aug-2022,Special Thali,46,160,7360,582,Saturday
+07-Aug-2022,Rice & Dal Thali,79,80,6320,583,Sunday
+07-Aug-2022,Fish Curry Plate,37,120,4440,583,Sunday
+07-Aug-2022,Vegetable Khichuri,33,70,2310,583,Sunday
+07-Aug-2022,Dry Fish & Rice,44,100,4400,583,Sunday
+07-Aug-2022,Special Thali,27,160,4320,583,Sunday
+08-Aug-2022,Rice & Dal Thali,87,80,6960,584,Monday
+08-Aug-2022,Fish Curry Plate,41,120,4920,584,Monday
+08-Aug-2022,Vegetable Khichuri,44,70,3080,584,Monday
+08-Aug-2022,Dry Fish & Rice,39,100,3900,584,Monday
+08-Aug-2022,Special Thali,21,160,3360,584,Monday
+09-Aug-2022,Rice & Dal Thali,59,80,4720,585,Tuesday
+09-Aug-2022,Fish Curry Plate,53,120,6360,585,Tuesday
+09-Aug-2022,Vegetable Khichuri,49,70,3430,585,Tuesday
+09-Aug-2022,Dry Fish & Rice,38,100,3800,585,Tuesday
+09-Aug-2022,Special Thali,29,160,4640,585,Tuesday
+10-Aug-2022,Rice & Dal Thali,89,80,7120,586,Wednesday
+10-Aug-2022,Fish Curry Plate,43,120,5160,586,Wednesday
+10-Aug-2022,Vegetable Khichuri,34,70,2380,586,Wednesday
+10-Aug-2022,Dry Fish & Rice,48,100,4800,586,Wednesday
+10-Aug-2022,Special Thali,31,160,4960,586,Wednesday
+11-Aug-2022,Rice & Dal Thali,86,80,6880,587,Thursday
+11-Aug-2022,Fish Curry Plate,48,120,5760,587,Thursday
+11-Aug-2022,Vegetable Khichuri,40,70,2800,587,Thursday
+11-Aug-2022,Dry Fish & Rice,42,100,4200,587,Thursday
+11-Aug-2022,Special Thali,25,160,4000,587,Thursday
+12-Aug-2022,Rice & Dal Thali,95,80,7600,588,Friday
+12-Aug-2022,Fish Curry Plate,61,120,7320,588,Friday
+12-Aug-2022,Vegetable Khichuri,52,70,3640,588,Friday
+12-Aug-2022,Dry Fish & Rice,54,100,5400,588,Friday
+12-Aug-2022,Special Thali,35,160,5600,588,Friday
+13-Aug-2022,Rice & Dal Thali,85,80,6800,589,Saturday
+13-Aug-2022,Fish Curry Plate,71,120,8520,589,Saturday
+13-Aug-2022,Vegetable Khichuri,38,70,2660,589,Saturday
+13-Aug-2022,Dry Fish & Rice,58,100,5800,589,Saturday
+13-Aug-2022,Special Thali,42,160,6720,589,Saturday
+14-Aug-2022,Rice & Dal Thali,79,80,6320,590,Sunday
+14-Aug-2022,Fish Curry Plate,50,120,6000,590,Sunday
+14-Aug-2022,Vegetable Khichuri,39,70,2730,590,Sunday
+14-Aug-2022,Dry Fish & Rice,45,100,4500,590,Sunday
+14-Aug-2022,Special Thali,34,160,5440,590,Sunday
+15-Aug-2022,Rice & Dal Thali,58,80,4640,591,Monday
+15-Aug-2022,Fish Curry Plate,53,120,6360,591,Monday
+15-Aug-2022,Vegetable Khichuri,35,70,2450,591,Monday
+15-Aug-2022,Dry Fish & Rice,34,100,3400,591,Monday
+15-Aug-2022,Special Thali,30,160,4800,591,Monday
+16-Aug-2022,Rice & Dal Thali,74,80,5920,592,Tuesday
+16-Aug-2022,Fish Curry Plate,63,120,7560,592,Tuesday
+16-Aug-2022,Vegetable Khichuri,39,70,2730,592,Tuesday
+16-Aug-2022,Dry Fish & Rice,44,100,4400,592,Tuesday
+16-Aug-2022,Special Thali,29,160,4640,592,Tuesday
+17-Aug-2022,Rice & Dal Thali,81,80,6480,593,Wednesday
+17-Aug-2022,Fish Curry Plate,41,120,4920,593,Wednesday
+17-Aug-2022,Vegetable Khichuri,28,70,1960,593,Wednesday
+17-Aug-2022,Dry Fish & Rice,42,100,4200,593,Wednesday
+17-Aug-2022,Special Thali,26,160,4160,593,Wednesday
+18-Aug-2022,Rice & Dal Thali,60,80,4800,594,Thursday
+18-Aug-2022,Fish Curry Plate,55,120,6600,594,Thursday
+18-Aug-2022,Vegetable Khichuri,37,70,2590,594,Thursday
+18-Aug-2022,Dry Fish & Rice,36,100,3600,594,Thursday
+18-Aug-2022,Special Thali,27,160,4320,594,Thursday
+19-Aug-2022,Rice & Dal Thali,111,80,8880,595,Friday
+19-Aug-2022,Fish Curry Plate,50,120,6000,595,Friday
+19-Aug-2022,Vegetable Khichuri,49,70,3430,595,Friday
+19-Aug-2022,Dry Fish & Rice,68,100,6800,595,Friday
+19-Aug-2022,Special Thali,57,160,9120,595,Friday
+20-Aug-2022,Rice & Dal Thali,67,80,5360,596,Saturday
+20-Aug-2022,Fish Curry Plate,56,120,6720,596,Saturday
+20-Aug-2022,Vegetable Khichuri,43,70,3010,596,Saturday
+20-Aug-2022,Dry Fish & Rice,53,100,5300,596,Saturday
+20-Aug-2022,Special Thali,36,160,5760,596,Saturday
+21-Aug-2022,Rice & Dal Thali,101,80,8080,597,Sunday
+21-Aug-2022,Fish Curry Plate,36,120,4320,597,Sunday
+21-Aug-2022,Vegetable Khichuri,42,70,2940,597,Sunday
+21-Aug-2022,Dry Fish & Rice,38,100,3800,597,Sunday
+21-Aug-2022,Special Thali,24,160,3840,597,Sunday
+22-Aug-2022,Rice & Dal Thali,90,80,7200,598,Monday
+22-Aug-2022,Fish Curry Plate,42,120,5040,598,Monday
+22-Aug-2022,Vegetable Khichuri,49,70,3430,598,Monday
+22-Aug-2022,Dry Fish & Rice,51,100,5100,598,Monday
+22-Aug-2022,Special Thali,19,160,3040,598,Monday
+23-Aug-2022,Rice & Dal Thali,83,80,6640,599,Tuesday
+23-Aug-2022,Fish Curry Plate,50,120,6000,599,Tuesday
+23-Aug-2022,Vegetable Khichuri,33,70,2310,599,Tuesday
+23-Aug-2022,Dry Fish & Rice,50,100,5000,599,Tuesday
+23-Aug-2022,Special Thali,26,160,4160,599,Tuesday
+24-Aug-2022,Rice & Dal Thali,29,80,2320,600,Wednesday
+24-Aug-2022,Fish Curry Plate,54,120,6480,600,Wednesday
+24-Aug-2022,Vegetable Khichuri,44,70,3080,600,Wednesday
+24-Aug-2022,Dry Fish & Rice,49,100,4900,600,Wednesday
+24-Aug-2022,Special Thali,30,160,4800,600,Wednesday
+25-Aug-2022,Rice & Dal Thali,48,80,3840,601,Thursday
+25-Aug-2022,Fish Curry Plate,44,120,5280,601,Thursday
+25-Aug-2022,Vegetable Khichuri,30,70,2100,601,Thursday
+25-Aug-2022,Dry Fish & Rice,45,100,4500,601,Thursday
+25-Aug-2022,Special Thali,24,160,3840,601,Thursday
+26-Aug-2022,Rice & Dal Thali,109,80,8720,602,Friday
+26-Aug-2022,Fish Curry Plate,55,120,6600,602,Friday
+26-Aug-2022,Vegetable Khichuri,36,70,2520,602,Friday
+26-Aug-2022,Dry Fish & Rice,51,100,5100,602,Friday
+26-Aug-2022,Special Thali,41,160,6560,602,Friday
+27-Aug-2022,Rice & Dal Thali,55,80,4400,603,Saturday
+27-Aug-2022,Fish Curry Plate,55,120,6600,603,Saturday
+27-Aug-2022,Vegetable Khichuri,44,70,3080,603,Saturday
+27-Aug-2022,Dry Fish & Rice,34,100,3400,603,Saturday
+27-Aug-2022,Special Thali,29,160,4640,603,Saturday
+28-Aug-2022,Rice & Dal Thali,54,80,4320,604,Sunday
+28-Aug-2022,Fish Curry Plate,33,120,3960,604,Sunday
+28-Aug-2022,Vegetable Khichuri,32,70,2240,604,Sunday
+28-Aug-2022,Dry Fish & Rice,35,100,3500,604,Sunday
+28-Aug-2022,Special Thali,22,160,3520,604,Sunday
+29-Aug-2022,Rice & Dal Thali,79,80,6320,605,Monday
+29-Aug-2022,Fish Curry Plate,48,120,5760,605,Monday
+29-Aug-2022,Vegetable Khichuri,25,70,1750,605,Monday
+29-Aug-2022,Dry Fish & Rice,41,100,4100,605,Monday
+29-Aug-2022,Special Thali,29,160,4640,605,Monday
+30-Aug-2022,Rice & Dal Thali,61,80,4880,606,Tuesday
+30-Aug-2022,Fish Curry Plate,33,120,3960,606,Tuesday
+30-Aug-2022,Vegetable Khichuri,34,70,2380,606,Tuesday
+30-Aug-2022,Dry Fish & Rice,44,100,4400,606,Tuesday
+30-Aug-2022,Special Thali,27,160,4320,606,Tuesday
+31-Aug-2022,Rice & Dal Thali,68,80,5440,607,Wednesday
+31-Aug-2022,Fish Curry Plate,40,120,4800,607,Wednesday
+31-Aug-2022,Vegetable Khichuri,35,70,2450,607,Wednesday
+31-Aug-2022,Dry Fish & Rice,44,100,4400,607,Wednesday
+31-Aug-2022,Special Thali,35,160,5600,607,Wednesday
+01-Sep-2022,Rice & Dal Thali,56,80,4480,608,Thursday
+01-Sep-2022,Fish Curry Plate,46,120,5520,608,Thursday
+01-Sep-2022,Vegetable Khichuri,24,70,1680,608,Thursday
+01-Sep-2022,Dry Fish & Rice,30,100,3000,608,Thursday
+01-Sep-2022,Special Thali,33,160,5280,608,Thursday
+02-Sep-2022,Rice & Dal Thali,90,80,7200,609,Friday
+02-Sep-2022,Fish Curry Plate,67,120,8040,609,Friday
+02-Sep-2022,Vegetable Khichuri,50,70,3500,609,Friday
+02-Sep-2022,Dry Fish & Rice,41,100,4100,609,Friday
+02-Sep-2022,Special Thali,40,160,6400,609,Friday
+03-Sep-2022,Rice & Dal Thali,99,80,7920,610,Saturday
+03-Sep-2022,Fish Curry Plate,43,120,5160,610,Saturday
+03-Sep-2022,Vegetable Khichuri,56,70,3920,610,Saturday
+03-Sep-2022,Dry Fish & Rice,67,100,6700,610,Saturday
+03-Sep-2022,Special Thali,28,160,4480,610,Saturday
+04-Sep-2022,Rice & Dal Thali,57,80,4560,611,Sunday
+04-Sep-2022,Fish Curry Plate,37,120,4440,611,Sunday
+04-Sep-2022,Vegetable Khichuri,34,70,2380,611,Sunday
+04-Sep-2022,Dry Fish & Rice,39,100,3900,611,Sunday
+04-Sep-2022,Special Thali,26,160,4160,611,Sunday
+05-Sep-2022,Rice & Dal Thali,64,80,5120,612,Monday
+05-Sep-2022,Fish Curry Plate,58,120,6960,612,Monday
+05-Sep-2022,Vegetable Khichuri,35,70,2450,612,Monday
+05-Sep-2022,Dry Fish & Rice,40,100,4000,612,Monday
+05-Sep-2022,Special Thali,41,160,6560,612,Monday
+06-Sep-2022,Rice & Dal Thali,93,80,7440,613,Tuesday
+06-Sep-2022,Fish Curry Plate,56,120,6720,613,Tuesday
+06-Sep-2022,Vegetable Khichuri,31,70,2170,613,Tuesday
+06-Sep-2022,Dry Fish & Rice,47,100,4700,613,Tuesday
+06-Sep-2022,Special Thali,33,160,5280,613,Tuesday
+07-Sep-2022,Rice & Dal Thali,56,80,4480,614,Wednesday
+07-Sep-2022,Fish Curry Plate,39,120,4680,614,Wednesday
+07-Sep-2022,Vegetable Khichuri,25,70,1750,614,Wednesday
+07-Sep-2022,Dry Fish & Rice,31,100,3100,614,Wednesday
+07-Sep-2022,Special Thali,28,160,4480,614,Wednesday
+08-Sep-2022,Rice & Dal Thali,72,80,5760,615,Thursday
+08-Sep-2022,Fish Curry Plate,46,120,5520,615,Thursday
+08-Sep-2022,Vegetable Khichuri,24,70,1680,615,Thursday
+08-Sep-2022,Dry Fish & Rice,42,100,4200,615,Thursday
+08-Sep-2022,Special Thali,27,160,4320,615,Thursday
+09-Sep-2022,Rice & Dal Thali,92,80,7360,616,Friday
+09-Sep-2022,Fish Curry Plate,54,120,6480,616,Friday
+09-Sep-2022,Vegetable Khichuri,30,70,2100,616,Friday
+09-Sep-2022,Dry Fish & Rice,51,100,5100,616,Friday
+09-Sep-2022,Special Thali,50,160,8000,616,Friday
+10-Sep-2022,Rice & Dal Thali,99,80,7920,617,Saturday
+10-Sep-2022,Fish Curry Plate,52,120,6240,617,Saturday
+10-Sep-2022,Vegetable Khichuri,45,70,3150,617,Saturday
+10-Sep-2022,Dry Fish & Rice,55,100,5500,617,Saturday
+10-Sep-2022,Special Thali,37,160,5920,617,Saturday
+11-Sep-2022,Rice & Dal Thali,88,80,7040,618,Sunday
+11-Sep-2022,Fish Curry Plate,43,120,5160,618,Sunday
+11-Sep-2022,Vegetable Khichuri,31,70,2170,618,Sunday
+11-Sep-2022,Dry Fish & Rice,35,100,3500,618,Sunday
+11-Sep-2022,Special Thali,39,160,6240,618,Sunday
+12-Sep-2022,Rice & Dal Thali,87,80,6960,619,Monday
+12-Sep-2022,Fish Curry Plate,40,120,4800,619,Monday
+12-Sep-2022,Vegetable Khichuri,21,70,1470,619,Monday
+12-Sep-2022,Dry Fish & Rice,46,100,4600,619,Monday
+12-Sep-2022,Special Thali,34,160,5440,619,Monday
+13-Sep-2022,Rice & Dal Thali,63,80,5040,620,Tuesday
+13-Sep-2022,Fish Curry Plate,44,120,5280,620,Tuesday
+13-Sep-2022,Vegetable Khichuri,34,70,2380,620,Tuesday
+13-Sep-2022,Dry Fish & Rice,37,100,3700,620,Tuesday
+13-Sep-2022,Special Thali,24,160,3840,620,Tuesday
+14-Sep-2022,Rice & Dal Thali,93,80,7440,621,Wednesday
+14-Sep-2022,Fish Curry Plate,53,120,6360,621,Wednesday
+14-Sep-2022,Vegetable Khichuri,36,70,2520,621,Wednesday
+14-Sep-2022,Dry Fish & Rice,45,100,4500,621,Wednesday
+14-Sep-2022,Special Thali,28,160,4480,621,Wednesday
+15-Sep-2022,Rice & Dal Thali,62,80,4960,622,Thursday
+15-Sep-2022,Fish Curry Plate,55,120,6600,622,Thursday
+15-Sep-2022,Vegetable Khichuri,26,70,1820,622,Thursday
+15-Sep-2022,Dry Fish & Rice,42,100,4200,622,Thursday
+15-Sep-2022,Special Thali,37,160,5920,622,Thursday
+16-Sep-2022,Rice & Dal Thali,101,80,8080,623,Friday
+16-Sep-2022,Fish Curry Plate,42,120,5040,623,Friday
+16-Sep-2022,Vegetable Khichuri,34,70,2380,623,Friday
+16-Sep-2022,Dry Fish & Rice,66,100,6600,623,Friday
+16-Sep-2022,Special Thali,30,160,4800,623,Friday
+17-Sep-2022,Rice & Dal Thali,93,80,7440,624,Saturday
+17-Sep-2022,Fish Curry Plate,48,120,5760,624,Saturday
+17-Sep-2022,Vegetable Khichuri,39,70,2730,624,Saturday
+17-Sep-2022,Dry Fish & Rice,52,100,5200,624,Saturday
+17-Sep-2022,Special Thali,36,160,5760,624,Saturday
+18-Sep-2022,Rice & Dal Thali,72,80,5760,625,Sunday
+18-Sep-2022,Fish Curry Plate,40,120,4800,625,Sunday
+18-Sep-2022,Vegetable Khichuri,37,70,2590,625,Sunday
+18-Sep-2022,Dry Fish & Rice,41,100,4100,625,Sunday
+18-Sep-2022,Special Thali,33,160,5280,625,Sunday
+19-Sep-2022,Rice & Dal Thali,72,80,5760,626,Monday
+19-Sep-2022,Fish Curry Plate,32,120,3840,626,Monday
+19-Sep-2022,Vegetable Khichuri,34,70,2380,626,Monday
+19-Sep-2022,Dry Fish & Rice,26,100,2600,626,Monday
+19-Sep-2022,Special Thali,24,160,3840,626,Monday
+20-Sep-2022,Rice & Dal Thali,60,80,4800,627,Tuesday
+20-Sep-2022,Fish Curry Plate,31,120,3720,627,Tuesday
+20-Sep-2022,Vegetable Khichuri,39,70,2730,627,Tuesday
+20-Sep-2022,Dry Fish & Rice,38,100,3800,627,Tuesday
+20-Sep-2022,Special Thali,26,160,4160,627,Tuesday
+21-Sep-2022,Rice & Dal Thali,64,80,5120,628,Wednesday
+21-Sep-2022,Fish Curry Plate,52,120,6240,628,Wednesday
+21-Sep-2022,Vegetable Khichuri,33,70,2310,628,Wednesday
+21-Sep-2022,Dry Fish & Rice,44,100,4400,628,Wednesday
+21-Sep-2022,Special Thali,36,160,5760,628,Wednesday
+22-Sep-2022,Rice & Dal Thali,90,80,7200,629,Thursday
+22-Sep-2022,Fish Curry Plate,48,120,5760,629,Thursday
+22-Sep-2022,Vegetable Khichuri,42,70,2940,629,Thursday
+22-Sep-2022,Dry Fish & Rice,39,100,3900,629,Thursday
+22-Sep-2022,Special Thali,30,160,4800,629,Thursday
+23-Sep-2022,Rice & Dal Thali,89,80,7120,630,Friday
+23-Sep-2022,Fish Curry Plate,68,120,8160,630,Friday
+23-Sep-2022,Vegetable Khichuri,47,70,3290,630,Friday
+23-Sep-2022,Dry Fish & Rice,53,100,5300,630,Friday
+23-Sep-2022,Special Thali,25,160,4000,630,Friday
+24-Sep-2022,Rice & Dal Thali,91,80,7280,631,Saturday
+24-Sep-2022,Fish Curry Plate,53,120,6360,631,Saturday
+24-Sep-2022,Vegetable Khichuri,47,70,3290,631,Saturday
+24-Sep-2022,Dry Fish & Rice,38,100,3800,631,Saturday
+24-Sep-2022,Special Thali,35,160,5600,631,Saturday
+25-Sep-2022,Rice & Dal Thali,80,80,6400,632,Sunday
+25-Sep-2022,Fish Curry Plate,44,120,5280,632,Sunday
+25-Sep-2022,Vegetable Khichuri,50,70,3500,632,Sunday
+25-Sep-2022,Dry Fish & Rice,50,100,5000,632,Sunday
+25-Sep-2022,Special Thali,22,160,3520,632,Sunday
+26-Sep-2022,Rice & Dal Thali,64,80,5120,633,Monday
+26-Sep-2022,Fish Curry Plate,36,120,4320,633,Monday
+26-Sep-2022,Vegetable Khichuri,44,70,3080,633,Monday
+26-Sep-2022,Dry Fish & Rice,39,100,3900,633,Monday
+26-Sep-2022,Special Thali,18,160,2880,633,Monday
+27-Sep-2022,Rice & Dal Thali,68,80,5440,634,Tuesday
+27-Sep-2022,Fish Curry Plate,43,120,5160,634,Tuesday
+27-Sep-2022,Vegetable Khichuri,39,70,2730,634,Tuesday
+27-Sep-2022,Dry Fish & Rice,33,100,3300,634,Tuesday
+27-Sep-2022,Special Thali,35,160,5600,634,Tuesday
+28-Sep-2022,Rice & Dal Thali,74,80,5920,635,Wednesday
+28-Sep-2022,Fish Curry Plate,41,120,4920,635,Wednesday
+28-Sep-2022,Vegetable Khichuri,44,70,3080,635,Wednesday
+28-Sep-2022,Dry Fish & Rice,47,100,4700,635,Wednesday
+28-Sep-2022,Special Thali,26,160,4160,635,Wednesday
+29-Sep-2022,Rice & Dal Thali,87,80,6960,636,Thursday
+29-Sep-2022,Fish Curry Plate,36,120,4320,636,Thursday
+29-Sep-2022,Vegetable Khichuri,37,70,2590,636,Thursday
+29-Sep-2022,Dry Fish & Rice,40,100,4000,636,Thursday
+29-Sep-2022,Special Thali,27,160,4320,636,Thursday
+30-Sep-2022,Rice & Dal Thali,74,80,5920,637,Friday
+30-Sep-2022,Fish Curry Plate,51,120,6120,637,Friday
+30-Sep-2022,Vegetable Khichuri,52,70,3640,637,Friday
+30-Sep-2022,Dry Fish & Rice,42,100,4200,637,Friday
+30-Sep-2022,Special Thali,43,160,6880,637,Friday
+01-Oct-2022,Rice & Dal Thali,104,80,8320,638,Saturday
+01-Oct-2022,Fish Curry Plate,58,120,6960,638,Saturday
+01-Oct-2022,Vegetable Khichuri,40,70,2800,638,Saturday
+01-Oct-2022,Dry Fish & Rice,57,100,5700,638,Saturday
+01-Oct-2022,Special Thali,35,160,5600,638,Saturday
+02-Oct-2022,Rice & Dal Thali,72,80,5760,639,Sunday
+02-Oct-2022,Fish Curry Plate,64,120,7680,639,Sunday
+02-Oct-2022,Vegetable Khichuri,36,70,2520,639,Sunday
+02-Oct-2022,Dry Fish & Rice,36,100,3600,639,Sunday
+02-Oct-2022,Special Thali,31,160,4960,639,Sunday
+03-Oct-2022,Rice & Dal Thali,105,80,8400,640,Monday
+03-Oct-2022,Fish Curry Plate,39,120,4680,640,Monday
+03-Oct-2022,Vegetable Khichuri,45,70,3150,640,Monday
+03-Oct-2022,Dry Fish & Rice,40,100,4000,640,Monday
+03-Oct-2022,Special Thali,30,160,4800,640,Monday
+04-Oct-2022,Rice & Dal Thali,74,80,5920,641,Tuesday
+04-Oct-2022,Fish Curry Plate,57,120,6840,641,Tuesday
+04-Oct-2022,Vegetable Khichuri,31,70,2170,641,Tuesday
+04-Oct-2022,Dry Fish & Rice,33,100,3300,641,Tuesday
+04-Oct-2022,Special Thali,26,160,4160,641,Tuesday
+05-Oct-2022,Rice & Dal Thali,71,80,5680,642,Wednesday
+05-Oct-2022,Fish Curry Plate,48,120,5760,642,Wednesday
+05-Oct-2022,Vegetable Khichuri,43,70,3010,642,Wednesday
+05-Oct-2022,Dry Fish & Rice,46,100,4600,642,Wednesday
+05-Oct-2022,Special Thali,23,160,3680,642,Wednesday
+06-Oct-2022,Rice & Dal Thali,64,80,5120,643,Thursday
+06-Oct-2022,Fish Curry Plate,56,120,6720,643,Thursday
+06-Oct-2022,Vegetable Khichuri,41,70,2870,643,Thursday
+06-Oct-2022,Dry Fish & Rice,38,100,3800,643,Thursday
+06-Oct-2022,Special Thali,32,160,5120,643,Thursday
+07-Oct-2022,Rice & Dal Thali,83,80,6640,644,Friday
+07-Oct-2022,Fish Curry Plate,58,120,6960,644,Friday
+07-Oct-2022,Vegetable Khichuri,55,70,3850,644,Friday
+07-Oct-2022,Dry Fish & Rice,56,100,5600,644,Friday
+07-Oct-2022,Special Thali,40,160,6400,644,Friday
+08-Oct-2022,Rice & Dal Thali,83,80,6640,645,Saturday
+08-Oct-2022,Fish Curry Plate,46,120,5520,645,Saturday
+08-Oct-2022,Vegetable Khichuri,44,70,3080,645,Saturday
+08-Oct-2022,Dry Fish & Rice,61,100,6100,645,Saturday
+08-Oct-2022,Special Thali,34,160,5440,645,Saturday
+09-Oct-2022,Rice & Dal Thali,61,80,4880,646,Sunday
+09-Oct-2022,Fish Curry Plate,42,120,5040,646,Sunday
+09-Oct-2022,Vegetable Khichuri,41,70,2870,646,Sunday
+09-Oct-2022,Dry Fish & Rice,28,100,2800,646,Sunday
+09-Oct-2022,Special Thali,26,160,4160,646,Sunday
+10-Oct-2022,Rice & Dal Thali,59,80,4720,647,Monday
+10-Oct-2022,Fish Curry Plate,54,120,6480,647,Monday
+10-Oct-2022,Vegetable Khichuri,40,70,2800,647,Monday
+10-Oct-2022,Dry Fish & Rice,33,100,3300,647,Monday
+10-Oct-2022,Special Thali,29,160,4640,647,Monday
+11-Oct-2022,Rice & Dal Thali,76,80,6080,648,Tuesday
+11-Oct-2022,Fish Curry Plate,32,120,3840,648,Tuesday
+11-Oct-2022,Vegetable Khichuri,26,70,1820,648,Tuesday
+11-Oct-2022,Dry Fish & Rice,42,100,4200,648,Tuesday
+11-Oct-2022,Special Thali,26,160,4160,648,Tuesday
+12-Oct-2022,Rice & Dal Thali,79,80,6320,649,Wednesday
+12-Oct-2022,Fish Curry Plate,40,120,4800,649,Wednesday
+12-Oct-2022,Vegetable Khichuri,32,70,2240,649,Wednesday
+12-Oct-2022,Dry Fish & Rice,47,100,4700,649,Wednesday
+12-Oct-2022,Special Thali,26,160,4160,649,Wednesday
+13-Oct-2022,Rice & Dal Thali,70,80,5600,650,Thursday
+13-Oct-2022,Fish Curry Plate,29,120,3480,650,Thursday
+13-Oct-2022,Vegetable Khichuri,36,70,2520,650,Thursday
+13-Oct-2022,Dry Fish & Rice,37,100,3700,650,Thursday
+13-Oct-2022,Special Thali,21,160,3360,650,Thursday
+14-Oct-2022,Rice & Dal Thali,117,80,9360,651,Friday
+14-Oct-2022,Fish Curry Plate,61,120,7320,651,Friday
+14-Oct-2022,Vegetable Khichuri,50,70,3500,651,Friday
+14-Oct-2022,Dry Fish & Rice,31,100,3100,651,Friday
+14-Oct-2022,Special Thali,28,160,4480,651,Friday
+15-Oct-2022,Rice & Dal Thali,102,80,8160,652,Saturday
+15-Oct-2022,Fish Curry Plate,73,120,8760,652,Saturday
+15-Oct-2022,Vegetable Khichuri,49,70,3430,652,Saturday
+15-Oct-2022,Dry Fish & Rice,40,100,4000,652,Saturday
+15-Oct-2022,Special Thali,33,160,5280,652,Saturday
+16-Oct-2022,Rice & Dal Thali,81,80,6480,653,Sunday
+16-Oct-2022,Fish Curry Plate,42,120,5040,653,Sunday
+16-Oct-2022,Vegetable Khichuri,39,70,2730,653,Sunday
+16-Oct-2022,Dry Fish & Rice,43,100,4300,653,Sunday
+16-Oct-2022,Special Thali,38,160,6080,653,Sunday
+17-Oct-2022,Rice & Dal Thali,93,80,7440,654,Monday
+17-Oct-2022,Fish Curry Plate,50,120,6000,654,Monday
+17-Oct-2022,Vegetable Khichuri,44,70,3080,654,Monday
+17-Oct-2022,Dry Fish & Rice,38,100,3800,654,Monday
+17-Oct-2022,Special Thali,28,160,4480,654,Monday
+18-Oct-2022,Rice & Dal Thali,67,80,5360,655,Tuesday
+18-Oct-2022,Fish Curry Plate,42,120,5040,655,Tuesday
+18-Oct-2022,Vegetable Khichuri,36,70,2520,655,Tuesday
+18-Oct-2022,Dry Fish & Rice,52,100,5200,655,Tuesday
+18-Oct-2022,Special Thali,25,160,4000,655,Tuesday
+19-Oct-2022,Rice & Dal Thali,92,80,7360,656,Wednesday
+19-Oct-2022,Fish Curry Plate,42,120,5040,656,Wednesday
+19-Oct-2022,Vegetable Khichuri,36,70,2520,656,Wednesday
+19-Oct-2022,Dry Fish & Rice,49,100,4900,656,Wednesday
+19-Oct-2022,Special Thali,17,160,2720,656,Wednesday
+20-Oct-2022,Rice & Dal Thali,59,80,4720,657,Thursday
+20-Oct-2022,Fish Curry Plate,43,120,5160,657,Thursday
+20-Oct-2022,Vegetable Khichuri,26,70,1820,657,Thursday
+20-Oct-2022,Dry Fish & Rice,52,100,5200,657,Thursday
+20-Oct-2022,Special Thali,23,160,3680,657,Thursday
+21-Oct-2022,Rice & Dal Thali,70,80,5600,658,Friday
+21-Oct-2022,Fish Curry Plate,57,120,6840,658,Friday
+21-Oct-2022,Vegetable Khichuri,35,70,2450,658,Friday
+21-Oct-2022,Dry Fish & Rice,50,100,5000,658,Friday
+21-Oct-2022,Special Thali,37,160,5920,658,Friday
+22-Oct-2022,Rice & Dal Thali,93,80,7440,659,Saturday
+22-Oct-2022,Fish Curry Plate,55,120,6600,659,Saturday
+22-Oct-2022,Vegetable Khichuri,57,70,3990,659,Saturday
+22-Oct-2022,Dry Fish & Rice,47,100,4700,659,Saturday
+22-Oct-2022,Special Thali,19,160,3040,659,Saturday
+23-Oct-2022,Rice & Dal Thali,68,80,5440,660,Sunday
+23-Oct-2022,Fish Curry Plate,44,120,5280,660,Sunday
+23-Oct-2022,Vegetable Khichuri,28,70,1960,660,Sunday
+23-Oct-2022,Dry Fish & Rice,40,100,4000,660,Sunday
+23-Oct-2022,Special Thali,23,160,3680,660,Sunday
+24-Oct-2022,Rice & Dal Thali,72,80,5760,661,Monday
+24-Oct-2022,Fish Curry Plate,47,120,5640,661,Monday
+24-Oct-2022,Vegetable Khichuri,36,70,2520,661,Monday
+24-Oct-2022,Dry Fish & Rice,39,100,3900,661,Monday
+24-Oct-2022,Special Thali,33,160,5280,661,Monday
+25-Oct-2022,Rice & Dal Thali,73,80,5840,662,Tuesday
+25-Oct-2022,Fish Curry Plate,53,120,6360,662,Tuesday
+25-Oct-2022,Vegetable Khichuri,29,70,2030,662,Tuesday
+25-Oct-2022,Dry Fish & Rice,46,100,4600,662,Tuesday
+25-Oct-2022,Special Thali,28,160,4480,662,Tuesday
+26-Oct-2022,Rice & Dal Thali,50,80,4000,663,Wednesday
+26-Oct-2022,Fish Curry Plate,40,120,4800,663,Wednesday
+26-Oct-2022,Vegetable Khichuri,42,70,2940,663,Wednesday
+26-Oct-2022,Dry Fish & Rice,41,100,4100,663,Wednesday
+26-Oct-2022,Special Thali,27,160,4320,663,Wednesday
+27-Oct-2022,Rice & Dal Thali,63,80,5040,664,Thursday
+27-Oct-2022,Fish Curry Plate,53,120,6360,664,Thursday
+27-Oct-2022,Vegetable Khichuri,33,70,2310,664,Thursday
+27-Oct-2022,Dry Fish & Rice,41,100,4100,664,Thursday
+27-Oct-2022,Special Thali,31,160,4960,664,Thursday
+28-Oct-2022,Rice & Dal Thali,82,80,6560,665,Friday
+28-Oct-2022,Fish Curry Plate,58,120,6960,665,Friday
+28-Oct-2022,Vegetable Khichuri,53,70,3710,665,Friday
+28-Oct-2022,Dry Fish & Rice,66,100,6600,665,Friday
+28-Oct-2022,Special Thali,41,160,6560,665,Friday
+29-Oct-2022,Rice & Dal Thali,75,80,6000,666,Saturday
+29-Oct-2022,Fish Curry Plate,40,120,4800,666,Saturday
+29-Oct-2022,Vegetable Khichuri,47,70,3290,666,Saturday
+29-Oct-2022,Dry Fish & Rice,49,100,4900,666,Saturday
+29-Oct-2022,Special Thali,22,160,3520,666,Saturday
+30-Oct-2022,Rice & Dal Thali,71,80,5680,667,Sunday
+30-Oct-2022,Fish Curry Plate,42,120,5040,667,Sunday
+30-Oct-2022,Vegetable Khichuri,31,70,2170,667,Sunday
+30-Oct-2022,Dry Fish & Rice,38,100,3800,667,Sunday
+30-Oct-2022,Special Thali,27,160,4320,667,Sunday
+31-Oct-2022,Rice & Dal Thali,80,80,6400,668,Monday
+31-Oct-2022,Fish Curry Plate,57,120,6840,668,Monday
+31-Oct-2022,Vegetable Khichuri,28,70,1960,668,Monday
+31-Oct-2022,Dry Fish & Rice,38,100,3800,668,Monday
+31-Oct-2022,Special Thali,34,160,5440,668,Monday
+01-Nov-2022,Rice & Dal Thali,78,80,6240,669,Tuesday
+01-Nov-2022,Fish Curry Plate,56,120,6720,669,Tuesday
+01-Nov-2022,Vegetable Khichuri,40,70,2800,669,Tuesday
+01-Nov-2022,Dry Fish & Rice,35,100,3500,669,Tuesday
+01-Nov-2022,Special Thali,23,160,3680,669,Tuesday
+02-Nov-2022,Rice & Dal Thali,97,80,7760,670,Wednesday
+02-Nov-2022,Fish Curry Plate,50,120,6000,670,Wednesday
+02-Nov-2022,Vegetable Khichuri,30,70,2100,670,Wednesday
+02-Nov-2022,Dry Fish & Rice,25,100,2500,670,Wednesday
+02-Nov-2022,Special Thali,33,160,5280,670,Wednesday
+03-Nov-2022,Rice & Dal Thali,66,80,5280,671,Thursday
+03-Nov-2022,Fish Curry Plate,49,120,5880,671,Thursday
+03-Nov-2022,Vegetable Khichuri,38,70,2660,671,Thursday
+03-Nov-2022,Dry Fish & Rice,48,100,4800,671,Thursday
+03-Nov-2022,Special Thali,26,160,4160,671,Thursday
+04-Nov-2022,Rice & Dal Thali,128,80,10240,672,Friday
+04-Nov-2022,Fish Curry Plate,46,120,5520,672,Friday
+04-Nov-2022,Vegetable Khichuri,51,70,3570,672,Friday
+04-Nov-2022,Dry Fish & Rice,61,100,6100,672,Friday
+04-Nov-2022,Special Thali,46,160,7360,672,Friday
+05-Nov-2022,Rice & Dal Thali,100,80,8000,673,Saturday
+05-Nov-2022,Fish Curry Plate,62,120,7440,673,Saturday
+05-Nov-2022,Vegetable Khichuri,50,70,3500,673,Saturday
+05-Nov-2022,Dry Fish & Rice,56,100,5600,673,Saturday
+05-Nov-2022,Special Thali,33,160,5280,673,Saturday
+06-Nov-2022,Rice & Dal Thali,58,80,4640,674,Sunday
+06-Nov-2022,Fish Curry Plate,45,120,5400,674,Sunday
+06-Nov-2022,Vegetable Khichuri,53,70,3710,674,Sunday
+06-Nov-2022,Dry Fish & Rice,38,100,3800,674,Sunday
+06-Nov-2022,Special Thali,26,160,4160,674,Sunday
+07-Nov-2022,Rice & Dal Thali,65,80,5200,675,Monday
+07-Nov-2022,Fish Curry Plate,36,120,4320,675,Monday
+07-Nov-2022,Vegetable Khichuri,34,70,2380,675,Monday
+07-Nov-2022,Dry Fish & Rice,27,100,2700,675,Monday
+07-Nov-2022,Special Thali,30,160,4800,675,Monday
+08-Nov-2022,Rice & Dal Thali,72,80,5760,676,Tuesday
+08-Nov-2022,Fish Curry Plate,37,120,4440,676,Tuesday
+08-Nov-2022,Vegetable Khichuri,32,70,2240,676,Tuesday
+08-Nov-2022,Dry Fish & Rice,42,100,4200,676,Tuesday
+08-Nov-2022,Special Thali,28,160,4480,676,Tuesday
+09-Nov-2022,Rice & Dal Thali,61,80,4880,677,Wednesday
+09-Nov-2022,Fish Curry Plate,26,120,3120,677,Wednesday
+09-Nov-2022,Vegetable Khichuri,42,70,2940,677,Wednesday
+09-Nov-2022,Dry Fish & Rice,35,100,3500,677,Wednesday
+09-Nov-2022,Special Thali,31,160,4960,677,Wednesday
+10-Nov-2022,Rice & Dal Thali,59,80,4720,678,Thursday
+10-Nov-2022,Fish Curry Plate,47,120,5640,678,Thursday
+10-Nov-2022,Vegetable Khichuri,44,70,3080,678,Thursday
+10-Nov-2022,Dry Fish & Rice,40,100,4000,678,Thursday
+10-Nov-2022,Special Thali,29,160,4640,678,Thursday
+11-Nov-2022,Rice & Dal Thali,115,80,9200,679,Friday
+11-Nov-2022,Fish Curry Plate,64,120,7680,679,Friday
+11-Nov-2022,Vegetable Khichuri,46,70,3220,679,Friday
+11-Nov-2022,Dry Fish & Rice,50,100,5000,679,Friday
+11-Nov-2022,Special Thali,30,160,4800,679,Friday
+12-Nov-2022,Rice & Dal Thali,88,80,7040,680,Saturday
+12-Nov-2022,Fish Curry Plate,49,120,5880,680,Saturday
+12-Nov-2022,Vegetable Khichuri,44,70,3080,680,Saturday
+12-Nov-2022,Dry Fish & Rice,52,100,5200,680,Saturday
+12-Nov-2022,Special Thali,24,160,3840,680,Saturday
+13-Nov-2022,Rice & Dal Thali,54,80,4320,681,Sunday
+13-Nov-2022,Fish Curry Plate,45,120,5400,681,Sunday
+13-Nov-2022,Vegetable Khichuri,31,70,2170,681,Sunday
+13-Nov-2022,Dry Fish & Rice,57,100,5700,681,Sunday
+13-Nov-2022,Special Thali,26,160,4160,681,Sunday
+14-Nov-2022,Rice & Dal Thali,74,80,5920,682,Monday
+14-Nov-2022,Fish Curry Plate,52,120,6240,682,Monday
+14-Nov-2022,Vegetable Khichuri,28,70,1960,682,Monday
+14-Nov-2022,Dry Fish & Rice,30,100,3000,682,Monday
+14-Nov-2022,Special Thali,25,160,4000,682,Monday
+15-Nov-2022,Rice & Dal Thali,73,80,5840,683,Tuesday
+15-Nov-2022,Fish Curry Plate,54,120,6480,683,Tuesday
+15-Nov-2022,Vegetable Khichuri,34,70,2380,683,Tuesday
+15-Nov-2022,Dry Fish & Rice,43,100,4300,683,Tuesday
+15-Nov-2022,Special Thali,30,160,4800,683,Tuesday
+16-Nov-2022,Rice & Dal Thali,60,80,4800,684,Wednesday
+16-Nov-2022,Fish Curry Plate,45,120,5400,684,Wednesday
+16-Nov-2022,Vegetable Khichuri,31,70,2170,684,Wednesday
+16-Nov-2022,Dry Fish & Rice,50,100,5000,684,Wednesday
+16-Nov-2022,Special Thali,26,160,4160,684,Wednesday
+17-Nov-2022,Rice & Dal Thali,71,80,5680,685,Thursday
+17-Nov-2022,Fish Curry Plate,51,120,6120,685,Thursday
+17-Nov-2022,Vegetable Khichuri,48,70,3360,685,Thursday
+17-Nov-2022,Dry Fish & Rice,46,100,4600,685,Thursday
+17-Nov-2022,Special Thali,24,160,3840,685,Thursday
+18-Nov-2022,Rice & Dal Thali,130,80,10400,686,Friday
+18-Nov-2022,Fish Curry Plate,62,120,7440,686,Friday
+18-Nov-2022,Vegetable Khichuri,52,70,3640,686,Friday
+18-Nov-2022,Dry Fish & Rice,62,100,6200,686,Friday
+18-Nov-2022,Special Thali,40,160,6400,686,Friday
+19-Nov-2022,Rice & Dal Thali,102,80,8160,687,Saturday
+19-Nov-2022,Fish Curry Plate,38,120,4560,687,Saturday
+19-Nov-2022,Vegetable Khichuri,42,70,2940,687,Saturday
+19-Nov-2022,Dry Fish & Rice,48,100,4800,687,Saturday
+19-Nov-2022,Special Thali,26,160,4160,687,Saturday
+20-Nov-2022,Rice & Dal Thali,77,80,6160,688,Sunday
+20-Nov-2022,Fish Curry Plate,48,120,5760,688,Sunday
+20-Nov-2022,Vegetable Khichuri,46,70,3220,688,Sunday
+20-Nov-2022,Dry Fish & Rice,32,100,3200,688,Sunday
+20-Nov-2022,Special Thali,31,160,4960,688,Sunday
+21-Nov-2022,Rice & Dal Thali,52,80,4160,689,Monday
+21-Nov-2022,Fish Curry Plate,46,120,5520,689,Monday
+21-Nov-2022,Vegetable Khichuri,43,70,3010,689,Monday
+21-Nov-2022,Dry Fish & Rice,41,100,4100,689,Monday
+21-Nov-2022,Special Thali,22,160,3520,689,Monday
+22-Nov-2022,Rice & Dal Thali,89,80,7120,690,Tuesday
+22-Nov-2022,Fish Curry Plate,53,120,6360,690,Tuesday
+22-Nov-2022,Vegetable Khichuri,43,70,3010,690,Tuesday
+22-Nov-2022,Dry Fish & Rice,42,100,4200,690,Tuesday
+22-Nov-2022,Special Thali,26,160,4160,690,Tuesday
+23-Nov-2022,Rice & Dal Thali,66,80,5280,691,Wednesday
+23-Nov-2022,Fish Curry Plate,44,120,5280,691,Wednesday
+23-Nov-2022,Vegetable Khichuri,35,70,2450,691,Wednesday
+23-Nov-2022,Dry Fish & Rice,41,100,4100,691,Wednesday
+23-Nov-2022,Special Thali,21,160,3360,691,Wednesday
+24-Nov-2022,Rice & Dal Thali,75,80,6000,692,Thursday
+24-Nov-2022,Fish Curry Plate,50,120,6000,692,Thursday
+24-Nov-2022,Vegetable Khichuri,34,70,2380,692,Thursday
+24-Nov-2022,Dry Fish & Rice,54,100,5400,692,Thursday
+24-Nov-2022,Special Thali,30,160,4800,692,Thursday
+25-Nov-2022,Rice & Dal Thali,113,80,9040,693,Friday
+25-Nov-2022,Fish Curry Plate,66,120,7920,693,Friday
+25-Nov-2022,Vegetable Khichuri,52,70,3640,693,Friday
+25-Nov-2022,Dry Fish & Rice,59,100,5900,693,Friday
+25-Nov-2022,Special Thali,41,160,6560,693,Friday
+26-Nov-2022,Rice & Dal Thali,115,80,9200,694,Saturday
+26-Nov-2022,Fish Curry Plate,61,120,7320,694,Saturday
+26-Nov-2022,Vegetable Khichuri,53,70,3710,694,Saturday
+26-Nov-2022,Dry Fish & Rice,55,100,5500,694,Saturday
+26-Nov-2022,Special Thali,35,160,5600,694,Saturday
+27-Nov-2022,Rice & Dal Thali,86,80,6880,695,Sunday
+27-Nov-2022,Fish Curry Plate,44,120,5280,695,Sunday
+27-Nov-2022,Vegetable Khichuri,39,70,2730,695,Sunday
+27-Nov-2022,Dry Fish & Rice,28,100,2800,695,Sunday
+27-Nov-2022,Special Thali,28,160,4480,695,Sunday
+28-Nov-2022,Rice & Dal Thali,59,80,4720,696,Monday
+28-Nov-2022,Fish Curry Plate,40,120,4800,696,Monday
+28-Nov-2022,Vegetable Khichuri,39,70,2730,696,Monday
+28-Nov-2022,Dry Fish & Rice,50,100,5000,696,Monday
+28-Nov-2022,Special Thali,34,160,5440,696,Monday
+29-Nov-2022,Rice & Dal Thali,92,80,7360,697,Tuesday
+29-Nov-2022,Fish Curry Plate,29,120,3480,697,Tuesday
+29-Nov-2022,Vegetable Khichuri,51,70,3570,697,Tuesday
+29-Nov-2022,Dry Fish & Rice,34,100,3400,697,Tuesday
+29-Nov-2022,Special Thali,29,160,4640,697,Tuesday
+30-Nov-2022,Rice & Dal Thali,77,80,6160,698,Wednesday
+30-Nov-2022,Fish Curry Plate,51,120,6120,698,Wednesday
+30-Nov-2022,Vegetable Khichuri,39,70,2730,698,Wednesday
+30-Nov-2022,Dry Fish & Rice,40,100,4000,698,Wednesday
+30-Nov-2022,Special Thali,27,160,4320,698,Wednesday
+01-Dec-2022,Rice & Dal Thali,70,80,5600,699,Thursday
+01-Dec-2022,Fish Curry Plate,22,120,2640,699,Thursday
+01-Dec-2022,Vegetable Khichuri,44,70,3080,699,Thursday
+01-Dec-2022,Dry Fish & Rice,50,100,5000,699,Thursday
+01-Dec-2022,Special Thali,30,160,4800,699,Thursday
+02-Dec-2022,Rice & Dal Thali,124,80,9920,700,Friday
+02-Dec-2022,Fish Curry Plate,58,120,6960,700,Friday
+02-Dec-2022,Vegetable Khichuri,35,70,2450,700,Friday
+02-Dec-2022,Dry Fish & Rice,58,100,5800,700,Friday
+02-Dec-2022,Special Thali,47,160,7520,700,Friday
+03-Dec-2022,Rice & Dal Thali,104,80,8320,701,Saturday
+03-Dec-2022,Fish Curry Plate,43,120,5160,701,Saturday
+03-Dec-2022,Vegetable Khichuri,40,70,2800,701,Saturday
+03-Dec-2022,Dry Fish & Rice,46,100,4600,701,Saturday
+03-Dec-2022,Special Thali,31,160,4960,701,Saturday
+04-Dec-2022,Rice & Dal Thali,93,80,7440,702,Sunday
+04-Dec-2022,Fish Curry Plate,48,120,5760,702,Sunday
+04-Dec-2022,Vegetable Khichuri,42,70,2940,702,Sunday
+04-Dec-2022,Dry Fish & Rice,42,100,4200,702,Sunday
+04-Dec-2022,Special Thali,28,160,4480,702,Sunday
+05-Dec-2022,Rice & Dal Thali,78,80,6240,703,Monday
+05-Dec-2022,Fish Curry Plate,42,120,5040,703,Monday
+05-Dec-2022,Vegetable Khichuri,38,70,2660,703,Monday
+05-Dec-2022,Dry Fish & Rice,37,100,3700,703,Monday
+05-Dec-2022,Special Thali,38,160,6080,703,Monday
+06-Dec-2022,Rice & Dal Thali,54,80,4320,704,Tuesday
+06-Dec-2022,Fish Curry Plate,51,120,6120,704,Tuesday
+06-Dec-2022,Vegetable Khichuri,50,70,3500,704,Tuesday
+06-Dec-2022,Dry Fish & Rice,50,100,5000,704,Tuesday
+06-Dec-2022,Special Thali,19,160,3040,704,Tuesday
+07-Dec-2022,Rice & Dal Thali,49,80,3920,705,Wednesday
+07-Dec-2022,Fish Curry Plate,47,120,5640,705,Wednesday
+07-Dec-2022,Vegetable Khichuri,44,70,3080,705,Wednesday
+07-Dec-2022,Dry Fish & Rice,35,100,3500,705,Wednesday
+07-Dec-2022,Special Thali,34,160,5440,705,Wednesday
+08-Dec-2022,Rice & Dal Thali,65,80,5200,706,Thursday
+08-Dec-2022,Fish Curry Plate,52,120,6240,706,Thursday
+08-Dec-2022,Vegetable Khichuri,48,70,3360,706,Thursday
+08-Dec-2022,Dry Fish & Rice,46,100,4600,706,Thursday
+08-Dec-2022,Special Thali,34,160,5440,706,Thursday
+09-Dec-2022,Rice & Dal Thali,87,80,6960,707,Friday
+09-Dec-2022,Fish Curry Plate,57,120,6840,707,Friday
+09-Dec-2022,Vegetable Khichuri,53,70,3710,707,Friday
+09-Dec-2022,Dry Fish & Rice,43,100,4300,707,Friday
+09-Dec-2022,Special Thali,27,160,4320,707,Friday
+10-Dec-2022,Rice & Dal Thali,93,80,7440,708,Saturday
+10-Dec-2022,Fish Curry Plate,54,120,6480,708,Saturday
+10-Dec-2022,Vegetable Khichuri,50,70,3500,708,Saturday
+10-Dec-2022,Dry Fish & Rice,38,100,3800,708,Saturday
+10-Dec-2022,Special Thali,39,160,6240,708,Saturday
+11-Dec-2022,Rice & Dal Thali,69,80,5520,709,Sunday
+11-Dec-2022,Fish Curry Plate,53,120,6360,709,Sunday
+11-Dec-2022,Vegetable Khichuri,37,70,2590,709,Sunday
+11-Dec-2022,Dry Fish & Rice,38,100,3800,709,Sunday
+11-Dec-2022,Special Thali,19,160,3040,709,Sunday
+12-Dec-2022,Rice & Dal Thali,77,80,6160,710,Monday
+12-Dec-2022,Fish Curry Plate,46,120,5520,710,Monday
+12-Dec-2022,Vegetable Khichuri,35,70,2450,710,Monday
+12-Dec-2022,Dry Fish & Rice,48,100,4800,710,Monday
+12-Dec-2022,Special Thali,25,160,4000,710,Monday
+13-Dec-2022,Rice & Dal Thali,98,80,7840,711,Tuesday
+13-Dec-2022,Fish Curry Plate,47,120,5640,711,Tuesday
+13-Dec-2022,Vegetable Khichuri,38,70,2660,711,Tuesday
+13-Dec-2022,Dry Fish & Rice,37,100,3700,711,Tuesday
+13-Dec-2022,Special Thali,33,160,5280,711,Tuesday
+14-Dec-2022,Rice & Dal Thali,88,80,7040,712,Wednesday
+14-Dec-2022,Fish Curry Plate,47,120,5640,712,Wednesday
+14-Dec-2022,Vegetable Khichuri,37,70,2590,712,Wednesday
+14-Dec-2022,Dry Fish & Rice,43,100,4300,712,Wednesday
+14-Dec-2022,Special Thali,25,160,4000,712,Wednesday
+15-Dec-2022,Rice & Dal Thali,74,80,5920,713,Thursday
+15-Dec-2022,Fish Curry Plate,41,120,4920,713,Thursday
+15-Dec-2022,Vegetable Khichuri,32,70,2240,713,Thursday
+15-Dec-2022,Dry Fish & Rice,46,100,4600,713,Thursday
+15-Dec-2022,Special Thali,31,160,4960,713,Thursday
+16-Dec-2022,Rice & Dal Thali,86,80,6880,714,Friday
+16-Dec-2022,Fish Curry Plate,71,120,8520,714,Friday
+16-Dec-2022,Vegetable Khichuri,46,70,3220,714,Friday
+16-Dec-2022,Dry Fish & Rice,57,100,5700,714,Friday
+16-Dec-2022,Special Thali,41,160,6560,714,Friday
+17-Dec-2022,Rice & Dal Thali,79,80,6320,715,Saturday
+17-Dec-2022,Fish Curry Plate,38,120,4560,715,Saturday
+17-Dec-2022,Vegetable Khichuri,60,70,4200,715,Saturday
+17-Dec-2022,Dry Fish & Rice,45,100,4500,715,Saturday
+17-Dec-2022,Special Thali,40,160,6400,715,Saturday
+18-Dec-2022,Rice & Dal Thali,91,80,7280,716,Sunday
+18-Dec-2022,Fish Curry Plate,52,120,6240,716,Sunday
+18-Dec-2022,Vegetable Khichuri,39,70,2730,716,Sunday
+18-Dec-2022,Dry Fish & Rice,45,100,4500,716,Sunday
+18-Dec-2022,Special Thali,25,160,4000,716,Sunday
+19-Dec-2022,Rice & Dal Thali,60,80,4800,717,Monday
+19-Dec-2022,Fish Curry Plate,47,120,5640,717,Monday
+19-Dec-2022,Vegetable Khichuri,46,70,3220,717,Monday
+19-Dec-2022,Dry Fish & Rice,45,100,4500,717,Monday
+19-Dec-2022,Special Thali,38,160,6080,717,Monday
+20-Dec-2022,Rice & Dal Thali,81,80,6480,718,Tuesday
+20-Dec-2022,Fish Curry Plate,40,120,4800,718,Tuesday
+20-Dec-2022,Vegetable Khichuri,44,70,3080,718,Tuesday
+20-Dec-2022,Dry Fish & Rice,53,100,5300,718,Tuesday
+20-Dec-2022,Special Thali,39,160,6240,718,Tuesday
+21-Dec-2022,Rice & Dal Thali,60,80,4800,719,Wednesday
+21-Dec-2022,Fish Curry Plate,41,120,4920,719,Wednesday
+21-Dec-2022,Vegetable Khichuri,45,70,3150,719,Wednesday
+21-Dec-2022,Dry Fish & Rice,44,100,4400,719,Wednesday
+21-Dec-2022,Special Thali,39,160,6240,719,Wednesday
+22-Dec-2022,Rice & Dal Thali,91,80,7280,720,Thursday
+22-Dec-2022,Fish Curry Plate,34,120,4080,720,Thursday
+22-Dec-2022,Vegetable Khichuri,43,70,3010,720,Thursday
+22-Dec-2022,Dry Fish & Rice,44,100,4400,720,Thursday
+22-Dec-2022,Special Thali,28,160,4480,720,Thursday
+23-Dec-2022,Rice & Dal Thali,110,80,8800,721,Friday
+23-Dec-2022,Fish Curry Plate,61,120,7320,721,Friday
+23-Dec-2022,Vegetable Khichuri,62,70,4340,721,Friday
+23-Dec-2022,Dry Fish & Rice,61,100,6100,721,Friday
+23-Dec-2022,Special Thali,29,160,4640,721,Friday
+24-Dec-2022,Rice & Dal Thali,135,80,10800,722,Saturday
+24-Dec-2022,Fish Curry Plate,55,120,6600,722,Saturday
+24-Dec-2022,Vegetable Khichuri,43,70,3010,722,Saturday
+24-Dec-2022,Dry Fish & Rice,44,100,4400,722,Saturday
+24-Dec-2022,Special Thali,41,160,6560,722,Saturday
+25-Dec-2022,Rice & Dal Thali,93,80,7440,723,Sunday
+25-Dec-2022,Fish Curry Plate,55,120,6600,723,Sunday
+25-Dec-2022,Vegetable Khichuri,39,70,2730,723,Sunday
+25-Dec-2022,Dry Fish & Rice,44,100,4400,723,Sunday
+25-Dec-2022,Special Thali,39,160,6240,723,Sunday
+26-Dec-2022,Rice & Dal Thali,95,80,7600,724,Monday
+26-Dec-2022,Fish Curry Plate,51,120,6120,724,Monday
+26-Dec-2022,Vegetable Khichuri,38,70,2660,724,Monday
+26-Dec-2022,Dry Fish & Rice,35,100,3500,724,Monday
+26-Dec-2022,Special Thali,32,160,5120,724,Monday
+27-Dec-2022,Rice & Dal Thali,75,80,6000,725,Tuesday
+27-Dec-2022,Fish Curry Plate,53,120,6360,725,Tuesday
+27-Dec-2022,Vegetable Khichuri,40,70,2800,725,Tuesday
+27-Dec-2022,Dry Fish & Rice,48,100,4800,725,Tuesday
+27-Dec-2022,Special Thali,26,160,4160,725,Tuesday
+28-Dec-2022,Rice & Dal Thali,86,80,6880,726,Wednesday
+28-Dec-2022,Fish Curry Plate,54,120,6480,726,Wednesday
+28-Dec-2022,Vegetable Khichuri,50,70,3500,726,Wednesday
+28-Dec-2022,Dry Fish & Rice,49,100,4900,726,Wednesday
+28-Dec-2022,Special Thali,30,160,4800,726,Wednesday
+29-Dec-2022,Rice & Dal Thali,50,80,4000,727,Thursday
+29-Dec-2022,Fish Curry Plate,42,120,5040,727,Thursday
+29-Dec-2022,Vegetable Khichuri,35,70,2450,727,Thursday
+29-Dec-2022,Dry Fish & Rice,54,100,5400,727,Thursday
+29-Dec-2022,Special Thali,38,160,6080,727,Thursday
+30-Dec-2022,Rice & Dal Thali,120,80,9600,728,Friday
+30-Dec-2022,Fish Curry Plate,76,120,9120,728,Friday
+30-Dec-2022,Vegetable Khichuri,58,70,4060,728,Friday
+30-Dec-2022,Dry Fish & Rice,55,100,5500,728,Friday
+30-Dec-2022,Special Thali,44,160,7040,728,Friday
+31-Dec-2022,Rice & Dal Thali,102,80,8160,729,Saturday
+31-Dec-2022,Fish Curry Plate,69,120,8280,729,Saturday
+31-Dec-2022,Vegetable Khichuri,51,70,3570,729,Saturday
+31-Dec-2022,Dry Fish & Rice,65,100,6500,729,Saturday
+31-Dec-2022,Special Thali,30,160,4800,729,Saturday

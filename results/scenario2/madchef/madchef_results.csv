@@ -1,0 +1,9 @@
+Agent,Restaurant,Total Reward,Financial PM %,RL-Adj PM %,Service Level %,SL Std %,Waste %,Stockout %
+Q-Learning,Madchef,-2005385.94,-255.08,-500.0,11.98,1.64,29.53,88.02
+DQN,Madchef,-1705763.9,-500.0,-500.0,0.29,0.02,89.41,99.71
+Double DQN,Madchef,-1767659.31,-500.0,-500.0,0.3,0.03,91.97,99.7
+PPO,Madchef,-1987714.79,-231.44,-500.0,8.29,0.29,38.43,91.71
+EOQ,Madchef,-2116736.96,-272.8,-500.0,13.12,0.7,30.0,86.88
+Newsvendor,Madchef,-2079837.48,-200.03,-500.0,18.74,0.89,20.63,81.26
+SMA + Reorder,Madchef,-2185082.73,-299.74,-500.0,12.95,0.61,30.03,87.05
+Seasonal Reorder,Madchef,-2410630.27,-251.8,-499.96,23.68,0.72,26.18,76.32

@@ -1,0 +1,41 @@
+Restaurant,Agent,Financial PM %,RL-Adj PM %,Service Level %,Waste %,Stockout %,Demand Mode,Split Day
+Kachchi Bhai Restaurant,Q-Learning,-462.59,-500.0,11.53,7.7,88.47,empirical-train,145
+Kachchi Bhai Restaurant,DQN,24.69,-500.0,0.41,33.13,99.59,empirical-train,145
+Kachchi Bhai Restaurant,Double DQN,25.47,-500.0,0.41,32.71,99.59,empirical-train,145
+Kachchi Bhai Restaurant,PPO,-500.0,-500.0,11.33,13.24,88.67,empirical-train,145
+Kachchi Bhai Restaurant,EOQ,-500.0,-500.0,10.4,22.72,89.6,empirical-train,145
+Kachchi Bhai Restaurant,Newsvendor,-481.44,-500.0,16.09,8.87,83.91,empirical-train,145
+Kachchi Bhai Restaurant,SMA + Reorder,-500.0,-500.0,8.99,29.09,91.01,empirical-train,145
+Kachchi Bhai Restaurant,Seasonal Reorder,-417.27,-500.0,23.99,0.45,76.01,empirical-train,145
+Star Kabab & Restaurant,Q-Learning,-442.99,-500.0,9.78,28.01,90.22,empirical-train,729
+Star Kabab & Restaurant,DQN,-500.0,-500.0,0.39,74.02,99.61,empirical-train,729
+Star Kabab & Restaurant,Double DQN,72.63,-500.0,0.39,28.49,99.61,empirical-train,729
+Star Kabab & Restaurant,PPO,-500.0,-500.0,5.46,45.85,94.54,empirical-train,729
+Star Kabab & Restaurant,EOQ,-500.0,-500.0,9.35,39.1,90.65,empirical-train,729
+Star Kabab & Restaurant,Newsvendor,-439.01,-500.0,13.81,25.73,86.19,empirical-train,729
+Star Kabab & Restaurant,SMA + Reorder,-500.0,-500.0,9.31,41.16,90.69,empirical-train,729
+Star Kabab & Restaurant,Seasonal Reorder,-377.02,-500.0,21.59,20.64,78.41,empirical-train,729
+Fakruddin Restaurant,Q-Learning,-500.0,-500.0,21.0,17.05,79.0,empirical-train,876
+Fakruddin Restaurant,DQN,-143.41,-500.0,0.66,26.6,99.34,empirical-train,876
+Fakruddin Restaurant,Double DQN,-142.92,-500.0,0.65,26.28,99.35,empirical-train,876
+Fakruddin Restaurant,PPO,-500.0,-500.0,33.68,14.57,66.32,empirical-train,876
+Fakruddin Restaurant,EOQ,-500.0,-500.0,13.35,41.4,86.65,empirical-train,876
+Fakruddin Restaurant,Newsvendor,-500.0,-500.0,20.34,20.84,79.66,empirical-train,876
+Fakruddin Restaurant,SMA + Reorder,-500.0,-500.0,14.17,41.83,85.83,empirical-train,876
+Fakruddin Restaurant,Seasonal Reorder,-500.0,-500.0,41.47,15.89,58.53,empirical-train,876
+Madchef,Q-Learning,-255.08,-500.0,11.98,29.53,88.02,empirical-train,438
+Madchef,DQN,-500.0,-500.0,0.29,89.41,99.71,empirical-train,438
+Madchef,Double DQN,-500.0,-500.0,0.3,91.97,99.7,empirical-train,438
+Madchef,PPO,-231.44,-500.0,8.29,38.43,91.71,empirical-train,438
+Madchef,EOQ,-272.8,-500.0,13.12,30.0,86.88,empirical-train,438
+Madchef,Newsvendor,-200.03,-500.0,18.74,20.63,81.26,empirical-train,438
+Madchef,SMA + Reorder,-299.74,-500.0,12.95,30.03,87.05,empirical-train,438
+Madchef,Seasonal Reorder,-251.8,-499.96,23.68,26.18,76.32,empirical-train,438
+Bismillah Hotel & Restaurant,Q-Learning,-500.0,-500.0,7.12,6.39,92.88,empirical-train,584
+Bismillah Hotel & Restaurant,DQN,-29.14,-500.0,0.39,13.52,99.61,empirical-train,584
+Bismillah Hotel & Restaurant,Double DQN,-35.4,-500.0,0.39,13.79,99.61,empirical-train,584
+Bismillah Hotel & Restaurant,PPO,-500.0,-500.0,0.39,62.84,99.61,empirical-train,584
+Bismillah Hotel & Restaurant,EOQ,-500.0,-500.0,9.06,5.05,90.94,empirical-train,584
+Bismillah Hotel & Restaurant,Newsvendor,-448.17,-500.0,11.23,0.67,88.77,empirical-train,584
+Bismillah Hotel & Restaurant,SMA + Reorder,-500.0,-500.0,8.98,5.31,91.02,empirical-train,584
+Bismillah Hotel & Restaurant,Seasonal Reorder,-500.0,-500.0,12.3,4.23,87.7,empirical-train,584
