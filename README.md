@@ -160,7 +160,7 @@ Step t:
 ## 4. Project Structure
 
 ```
-final_project/
+project/
 │
 ├── main.py                     # Master pipeline runner — 5 steps, CLI flags
 ├── config.py                   # All hyperparameters, 5-restaurant dicts, action spaces
