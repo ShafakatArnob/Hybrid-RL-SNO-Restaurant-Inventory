@@ -1,7 +1,5 @@
 # Hybrid Reinforcement Learning (RL) with Stochastic Network Optimisation (SNO) for *Restaurant Inventory Management*
 
----
-
 ## Table of Contents
 
 1. [Problem Statement & Motivation](#1-problem-statement--motivation)
